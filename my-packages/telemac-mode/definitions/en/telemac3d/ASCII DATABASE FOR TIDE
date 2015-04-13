@@ -1,0 +1,5 @@
+HELP = Tide data base of harmonic constituents
+extracted from the TIDAL MODEL FILE.
+Old name in 6.1 version for Telemac-2D: TIDE DATA BASE
+
+DEFAULT = no value

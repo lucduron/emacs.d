@@ -1,0 +1,5 @@
+HELP = If NOT is specified for this key-word, the printout listing just
+contains the head and the sentence END OF PROGRAM.
+It is adviced not to use this way.
+
+DEFAULT = OUI

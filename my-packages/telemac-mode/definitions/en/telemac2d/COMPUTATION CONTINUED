@@ -1,0 +1,14 @@
+HELP = Determines whether the computation under way is independent
+result or is following an earlier result.
+NO: It is the first run for this computation and a whole set of
+initial conditions should be defined.
+YES: It follows a former computation:
+the initial conditions consist in the last time step of the
+PREVIOUS COMPUTATION FILE in the steering file used for submitting
+the computation.
+All the data from the steering file may be defined once again, which
+provides an opportunity to change, for example, the time step,
+the turbulence model, the friction, to add or remove a tracer...
+It is also possible to define new boundary conditions.
+
+DEFAULT = NO

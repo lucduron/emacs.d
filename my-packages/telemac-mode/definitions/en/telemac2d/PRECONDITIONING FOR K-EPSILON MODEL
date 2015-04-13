@@ -1,0 +1,12 @@
+HELP = Preconditioning of the linear system in the diffusion step of
+the k-epsilon model.
+0: no preconditioning
+2: diagonal preconditioning
+3: diagonal preconditioning with the condensed matrix
+7: Crout's preconditioning per element
+
+CHOICE = 2
+'3="diagonal condensed"'; '7="crout"';
+'14="diagonal and crout"'; '21="diagonal condensed and crout"
+
+DEFAULT = 2

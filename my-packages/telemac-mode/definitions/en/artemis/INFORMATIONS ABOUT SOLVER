@@ -1,0 +1,4 @@
+HELP = Gives the iterations number which was necessary for the solver
+to converge.
+
+DEFAULT = OUI

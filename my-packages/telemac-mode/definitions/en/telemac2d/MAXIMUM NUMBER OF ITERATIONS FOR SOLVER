@@ -1,0 +1,6 @@
+HELP = Since the algorithms used for solving the propagation step are
+iterative, the allowed number of iterations should be limited.
+NOTE: a maximum number of 40 iterations per time step seems to be
+reasonable.
+
+DEFAULT = 100

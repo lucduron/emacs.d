@@ -1,0 +1,4 @@
+HELP = 'When using a TELEMAC-2D results file, this keyword activates the
+dry elements elimination.'
+
+DEFAULT = NO

@@ -1,0 +1,8 @@
+AIDE = par defaut, le code calcule les concentrations volumiques.
+Ce mot cle permet dimprimer et de relire des concentrations en g/l.
+Les concentrations imposees aux limites
+(fichier condim, concentration de condim_susp)
+sont alors aussi donnees par l utilisateur en g/l et
+reconverties en  concentration volumique par le code.
+
+DÉFAUT = NON

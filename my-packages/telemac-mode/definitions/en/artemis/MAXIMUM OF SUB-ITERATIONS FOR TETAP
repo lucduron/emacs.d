@@ -1,0 +1,4 @@
+HELP = Fixes the maximum number of sub-iterations for the automatic
+computation of tetap
+
+DEFAULT = 15

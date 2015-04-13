@@ -1,0 +1,5 @@
+AIDE = Base de donnees binaire 2.
+Dans le cas des donnees satellitaires de l OSU (type TPXO), ce fichier correspond
+aux donnees de vitesse de marrees, par exemple u_tpxo7.2
+
+DÉFAUT = aucun

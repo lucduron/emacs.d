@@ -1,0 +1,6 @@
+HELP = To be used with the key-word CONTROL OF LIMITS
+min and max acceptable values for H,U,V et T in the following
+order   : min(H) max(H) min(U) max(U)
+min(V) max(V) min(T) max(T)
+
+DEFAULT = -1000.;9000.;-1000.;1000.;-1000.;1000.;-1000.;1000.

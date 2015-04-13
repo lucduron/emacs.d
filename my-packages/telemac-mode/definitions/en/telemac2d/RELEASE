@@ -1,0 +1,6 @@
+HELP = version number of the libraries used by TELEMAC.
+ON A WORKSTATION
+5 numbers are given, corresponding to the libraries called:
+TELEMAC,DAMO,UTILE,BIEF,HP
+
+DEFAULT = V7P0

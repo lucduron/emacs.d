@@ -1,0 +1,4 @@
+HELP = Coordinates of reference point for phase.Will
+not change the wave height computed
+
+DEFAULT = 0;0

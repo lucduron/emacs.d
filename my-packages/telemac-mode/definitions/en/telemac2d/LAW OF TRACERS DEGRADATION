@@ -1,0 +1,6 @@
+HELP = Take in account a law for tracers decrease
+
+CHOICE = '0="NO DEGRADATION"';
+'1="F(T90) LAW"'
+
+DEFAULT = 0;0

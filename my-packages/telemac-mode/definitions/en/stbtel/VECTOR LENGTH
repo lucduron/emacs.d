@@ -1,0 +1,3 @@
+HELP = 'Designed for dimensioning the vector length on vector machine.'
+
+DEFAULT = 1

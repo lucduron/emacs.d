@@ -1,0 +1,5 @@
+AIDE = Donne le coefficient Gammas dans le critere de la hauteur de
+deferlement. Ne pas confondre avec le coefficient Gamma qui
+intervient dans la formule du spectre de Jonswap
+
+DÉFAUT = 0.88

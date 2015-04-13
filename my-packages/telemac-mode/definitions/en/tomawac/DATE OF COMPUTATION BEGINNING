@@ -1,0 +1,12 @@
+HELP = Gives the date of the computation beginning. The format
+is yyyymmddhhmm,
+as an exemple 199310241524 means the 24 october 93
+at 15h24. This date gives a reference for reading the
+wind file.
+**Related keywords:**
+BINARY WIND FILE
+FORMATTED WIND FILE
+WIND FILE BINARY
+WIND FILE FORMAT
+
+DEFAULT = 0

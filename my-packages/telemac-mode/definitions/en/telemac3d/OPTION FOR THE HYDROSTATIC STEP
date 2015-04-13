@@ -1,0 +1,3 @@
+HELP = 1 : classic (suppressed)   2 : wave equation, only option
+
+DEFAULT = 2

@@ -1,0 +1,3 @@
+AIDE = Donne la valeur de la latitude du point origine du maillage.
+
+DÉFAUT = 0.E0

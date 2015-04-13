@@ -1,0 +1,8 @@
+AIDE = Constante alpha du modele LTA proposï¿½ par Eldeberky (1996).
+Si alpha = 0, les transferts d energie entre frequences seront nuls.
+L intensite de ces transferts augmente avec la valeur de alpha.
+**Mots-cles associes :**
+TRANSFERTS ENTRE TRIPLETS DE FREQUENCES
+TRIADS 1 (LTA) CONSTANTE RFMLTA
+
+DÉFAUT = 0.5

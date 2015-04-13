@@ -1,0 +1,11 @@
+AIDE = Fixe la valeur du coefficient de frottement pour la
+formulation choisie.
+Attention; la signification de ce chiffre varie suivant la formule
+choisie :
+1 : coefficient lineaire
+2 : coefficient de Chezy
+3 : coefficient de Strickler
+4 : coefficient de Manning
+5 : hauteur de rugosite de Nikuradse
+
+DÉFAUT = 50.

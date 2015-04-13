@@ -1,0 +1,19 @@
+AIDE = Type du binaire utilise pour la lecture du fichier binaire
+du niveau de la maree. Ce type depend de la machine sur laquelle le
+fichier a ete genere. Les valeurs possibles sont les memes que pour
+le fichier de geometrie. Les valeurs possibles sont :
+- IBM; pour un fichier cree sur une machine IBM;
+- I3E; pour un fichier cree sur une machine HP;
+- STD; instructions standard pour READ et WRITE.
+**Mots-cles associes :**
+PRISE EN COMPTE D UN COURANT
+FICHIER DES COURANTS BINAIRE
+FORMATTED DES COURANTS BINAIRE
+FORMAT DU FICHIER DES COURANTS
+PERIODE D ACTUALISATION DE LA MAREE
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

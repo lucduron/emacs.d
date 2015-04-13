@@ -1,0 +1,4 @@
+AIDE = Fichier de variations en temps des conditions aux limites.
+Les donnees de ce fichier seront a lire sur le canal 12.
+
+DÉFAUT = aucun

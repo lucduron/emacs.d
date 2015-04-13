@@ -1,0 +1,3 @@
+HELP = Use the non-hydrostatic code version
+
+DEFAULT = NO

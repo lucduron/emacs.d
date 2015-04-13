@@ -1,0 +1,6 @@
+HELP = 'Name of the additionql file. The meaning of this file depend on the
+type of mesh generator.
+Trigrid : containing the connectivity table built (mandatory).
+Fasttabs  : boundary condition file built by Fasttabs (optional).'
+
+DEFAULT = no value

@@ -1,0 +1,4 @@
+HELP = Unit given in seconds, for example 3600. if time
+is given in hours
+
+DEFAULT = 1.

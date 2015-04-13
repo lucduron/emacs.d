@@ -1,0 +1,4 @@
+HELP = The advection of the passive tracer is taken into account
+or ignored.
+
+DEFAULT = YES

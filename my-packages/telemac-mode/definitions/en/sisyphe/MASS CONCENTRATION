@@ -1,0 +1,5 @@
+HELP = Determines if concentrations (input and output)
+are  mass concentrations in g/l or adimensionnal volume concentrations
+(default option).
+
+DEFAULT = NO

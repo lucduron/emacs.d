@@ -1,0 +1,10 @@
+HELP = Type of binary mode used for geometry file writing.
+It depends on the machine used for the file generation.
+Possible values are :
+- IBM : for a file created on IBM,
+- I3E : for a file created on HP,
+- STD : enables to take the default binary type associated to
+the machine on which the user is working.
+It then concerns usual READ and WRITE instructiions.
+
+DEFAULT = STD

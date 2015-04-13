@@ -1,0 +1,3 @@
+AIDE = On donne 1 entier par frontiere liquide
+1 : conditions aux limites classiques
+2 : methode de Thompson avec calcul de caracteristiques

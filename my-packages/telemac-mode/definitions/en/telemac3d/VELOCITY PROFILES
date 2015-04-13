@@ -1,0 +1,11 @@
+HELP = 1: constant normal profile
+2: u and v given in the conlim file
+3: normal velocity given in ubor in the conlim file
+4: velocity in sqrt(h)
+5: like 4 but virtual depth based on
+the lowest elevation of the boundary
+
+CHOICE = 1
+conlim file"';'3="normal velocity given in ubor in the conlim
+file"';'4="Velocity=square root elevation"';
+'5="like 4 with virtual depth, see help"

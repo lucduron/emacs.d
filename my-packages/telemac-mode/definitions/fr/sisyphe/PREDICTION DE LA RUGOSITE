@@ -1,0 +1,7 @@
+AIDE = Calcul de la rugosite de Nikuradse
+- voir OPTION DU PREDICTEUR DE RUGOSITE -
+la loi de frottement est forcee a 5 et le coefficient de frottement
+ne sont pas utilisés.
+En cas de couplage, le frottement est envoye a Telemac
+
+DÉFAUT = NON

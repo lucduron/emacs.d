@@ -1,0 +1,3 @@
+AIDE = Donne le nombre d'iterations necessaires a la convergence du solveur.
+
+DÉFAUT = OUI

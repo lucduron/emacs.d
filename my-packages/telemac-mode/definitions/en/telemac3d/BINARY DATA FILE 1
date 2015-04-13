@@ -1,0 +1,4 @@
+HELP = Data file in binary mode, Selafin format,
+used in case of 2D continuation
+
+DEFAULT = no value

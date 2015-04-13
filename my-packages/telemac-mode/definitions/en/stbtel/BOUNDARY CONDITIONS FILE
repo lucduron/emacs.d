@@ -1,0 +1,7 @@
+HELP = 'Name of the file that will contain the boundary conditions being read
+from the UNIVERSAL FILE, and to be used in TELEMAC 2D computations.
+(The boundary conditions are defined when preparing the meshes,
+through colours that are allotted to the nodes of the computation
+domain boundaries).'
+
+DEFAULT = no value

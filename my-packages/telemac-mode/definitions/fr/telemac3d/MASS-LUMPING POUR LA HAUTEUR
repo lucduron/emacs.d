@@ -1,0 +1,12 @@
+AIDE = TELEMAC offre la possibilite d'effectuer du mass-lumping
+sur H ou U.
+Ceci revient a ramener tout ou partie (suivant la valeur de ce
+coefficient) des matrices AM1 (H) ou AM2 (U) et AM3 (V) sur
+leur diagonale.
+Cette technique permet d'accelerer le code dans des proportions tres
+importantes et de le rendre egalement beaucoup plus stable. Cependant
+les solutions obtenues se trouvent lissees.
+Ce parametre fixe le taux de mass-lumping effectue sur H.
+Utilisation deconseillee.
+
+DÉFAUT = 0.

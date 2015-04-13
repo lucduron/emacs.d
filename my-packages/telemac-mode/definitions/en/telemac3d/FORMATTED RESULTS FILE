@@ -1,0 +1,5 @@
+HELP = Formatted file of results made available to the user.
+The results to be entered into this file shall be written
+on channel 29.
+
+DEFAULT = no value

@@ -1,0 +1,6 @@
+HELP = Name of the file containing the grid of the computation to be
+made.
+**Related keyword :**
+GEOMETRY FILE BINARY
+
+DEFAULT = no value

@@ -1,0 +1,11 @@
+AIDE = Permet de preconditionner le systeme relatif au modele k-epsilon
+0 : pas de preconditionnement;
+2 : preconditionnement diagonal.
+3 : preconditionnement diagonal avec la matrice condensee.
+7 : preconditionnement de Crout par element.
+
+DÉFAUT = 2
+
+CHOIX = 2
+'3="diagonal condensee"'; '7="crout"';
+'14="diagonal et crout"'; '21="diagonal condense et crout"

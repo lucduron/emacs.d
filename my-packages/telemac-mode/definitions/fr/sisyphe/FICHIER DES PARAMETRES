@@ -1,0 +1,4 @@
+AIDE = Nom du fichier contenant les parametres du calcul
+a realiser. Il peut-etre ecrit par l'utilisateur avec EDAMOX.
+
+DÉFAUT = aucun

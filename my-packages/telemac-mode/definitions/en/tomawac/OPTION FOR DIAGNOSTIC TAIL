@@ -1,0 +1,10 @@
+HELP = Option to treat the spectrum diagnotic tail.
+0 : No diagnostic tail
+1 : A decrease in f^(-TAILF) is imposed beyond
+max(4fPM;2.5fmoy)
+**Related keywords :**
+SPECTRUM TAIL FACTOR
+NUMBER OF FREQUENCIES
+FREQUENTIAL RATIO
+
+DEFAULT = 1

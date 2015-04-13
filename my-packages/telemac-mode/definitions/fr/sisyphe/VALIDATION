@@ -1,0 +1,8 @@
+AIDE = Option utilisee principalement pour le dossier de validation.
+Si ce mot-cle vaut OUI, les resultats du calcul vont alors etre
+compares aux valeurs du fichier de reference.
+La comparaison est effectuee par le sous-programme VALIDA qui peut
+etre modifie pour realiser, par exemple, une comparaison avec
+une solution exacte.
+
+DÉFAUT = NON

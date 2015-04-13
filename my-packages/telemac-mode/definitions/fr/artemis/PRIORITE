@@ -1,0 +1,4 @@
+AIDE = Classe de facturation demandee pour le calcul : il y a trois
+possibilites : jour, nuit et weekend.
+
+DÉFAUT = JOUR

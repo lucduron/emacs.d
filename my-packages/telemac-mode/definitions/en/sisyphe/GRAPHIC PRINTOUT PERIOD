@@ -1,0 +1,4 @@
+HELP = Determines, in number of time steps, the printout period for
+the 'VARIABLES FOR GRAPHIC PRINTOUTS' in the 'RESULTS FILE'.
+
+DEFAULT = 1

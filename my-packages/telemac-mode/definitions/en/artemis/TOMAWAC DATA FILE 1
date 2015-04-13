@@ -1,0 +1,4 @@
+HELP = Data file, written in binary mode, given a tomawac spectrum.
+Data of this file must be read on unit 30.
+
+DEFAULT = no value

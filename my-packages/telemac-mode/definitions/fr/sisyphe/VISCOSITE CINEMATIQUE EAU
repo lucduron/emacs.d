@@ -1,0 +1,4 @@
+AIDE = Definit la viscosite cinematique de l'eau.
+M/S2
+
+DÉFAUT = 1.E-6

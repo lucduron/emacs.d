@@ -1,0 +1,4 @@
+HELP = If yes, the key-word FRICTION ANGLE OF THE SEDIMENT is taken into account
+for slope stability
+
+DEFAULT = NO

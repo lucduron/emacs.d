@@ -1,0 +1,7 @@
+AIDE = 1: Diffusion de la forme div( nu grad(U) )
+2: Diffusion de la forme 1/h div ( h nu grad(U) )
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="1/h div ( h nu grad(U)"

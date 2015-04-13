@@ -1,0 +1,3 @@
+HELP = Number of arrays for own user programming
+
+DEFAULT = 0

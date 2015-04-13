@@ -1,0 +1,7 @@
+HELP = Used to determine the critical bed shear stress value (non-cohesive sediments).
+For multi grain size,
+the shields parameter needs to be specified for each class. If only one
+value is specified, the shields parameter will be considered constant.
+The default option (no shields given in parameter file)
+is to calculate the shields parameter as a function of
+sand grain diameter (see logical CALAC).

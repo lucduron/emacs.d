@@ -1,0 +1,10 @@
+HELP = Choice of setting giving the number of integration points on
+theta1 (number of integration points= 2*NQ_TE1) when the non linear
+transfer term is calculated with the exact GQM method:
+rough 3 ; medium 4 ; fine 8
+
+CHOICE = 3
+'4="medium"';
+'8="fine"
+
+DEFAULT = 3

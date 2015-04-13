@@ -1,0 +1,4 @@
+AIDE = Fixe la hauteur d'eau autour de laquelle s'effectue la
+linearisation lorsque l'option PROPAGATION LINEARISEE est choisie.
+
+DÉFAUT = 0.

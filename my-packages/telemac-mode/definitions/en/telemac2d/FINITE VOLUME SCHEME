@@ -1,0 +1,13 @@
+HELP = 0: Roe scheme     1: kinetic order 1     2: kinetic order 2
+3 : Zokagoa scheme 4 : Tchamen scheme 5 : HLLC order 1
+6 : WAF order 2
+
+CHOICE = 0
+'1="kinetic order 1"';
+'2="kinetic order 2"';
+'3="Zokagoa scheme order 1"';
+'4="Tchamen scheme order 1"';
+'5="HLLC scheme order 1"';
+'6="WAF scheme order 2"
+
+DEFAULT = 1

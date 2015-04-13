@@ -1,0 +1,3 @@
+HELP = Desired Courant number when VARIABLE TIME-STEP is set to YES
+
+DEFAULT = 1.

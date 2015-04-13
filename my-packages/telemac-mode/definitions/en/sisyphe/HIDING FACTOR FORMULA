@@ -1,0 +1,8 @@
+HELP = 4 hiding factor formulas are implemented in SISYPHE
+0: const => need to give HIDING FACTOR FOR PARTICULAR SIZE CLASS
+1: Egiazaroff
+2: Ashida & Michiue
+:
+4: Karim, Holly & Yang
+
+DEFAULT = 0

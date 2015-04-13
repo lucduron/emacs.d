@@ -1,0 +1,12 @@
+AIDE = DIAM50 represente le diametre maximum de 50% en poids des
+sediments. En general, on a DIAM90 = 1.5 * DIAM50
+DIAM50 est plus souvent donne dans des tables
+
+DÉFAUT = 0.10E-3
+
+CHOIX = '0.660E-3 = " 0.66E-3     : Pour des sables tres grossiers"';
+'0.33E-3 = " 0.33E-3     : Pour des sables grossiers"';
+'0.17E-3 = " 0.17E-3   : Pour des sables moyens"';
+'0.083E-3 = " 0.083E-3 : Pour des sables fins"';
+'0.040E-3 = " 0.040E-3 : Pour des sables tres fins"';
+'0.10E-3 = " 0.10E-3   : Valeur par defaut"'

@@ -1,0 +1,5 @@
+HELP = Thickness for bed stratification. Composition of first
+layer is used to compute bed load transport rate. If you do not want
+a stratification, use a large value
+
+DEFAULT = 10000

@@ -1,0 +1,6 @@
+HELP = Number of smoothings done on the topography.
+Each smoothing, using a mass matrix, is conservative.
+It is used when bathymetric data provide too irregular results
+after interpolation.
+
+DEFAULT = 0

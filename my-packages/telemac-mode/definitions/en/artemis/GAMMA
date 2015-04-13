@@ -1,0 +1,13 @@
+HELP = Used with otion :
+MONODIRECTIONAL RANDOM WAVE = YES
+or
+MULTIDIRECTIONAL RANDOM WAVE = YES
+Fixes the gamma value tor the JONSWAP wave energy spectrum :
+GAMMA = 1  : Pierson-Moskowitz
+GAMMA = 3.3 : mean JONSWAP spectrum (default value).
+
+CHOICE = '1.0 = "Pierson-Moskowitz"';
+'3.3 = "JONSWAP moyen"';
+'"0.0"  = "any spectre"'
+
+DEFAULT = 3.3

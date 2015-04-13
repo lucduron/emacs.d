@@ -1,0 +1,6 @@
+HELP = Used with the option :
+PERIOD SCANNING = YES
+Fixes the maximum value (in sec) of the period range to be used for
+the period scanning.
+
+DEFAULT = 0.

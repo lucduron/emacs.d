@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur de la longitude du point origine du modele,
+lors de l'utilisation de la force generatrice de la maree.
+
+DÉFAUT = 0.

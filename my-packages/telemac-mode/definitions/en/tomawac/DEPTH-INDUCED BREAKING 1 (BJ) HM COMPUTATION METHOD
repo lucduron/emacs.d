@@ -1,0 +1,13 @@
+HELP = Selection of the depth-induced breaking criterium
+giving the breaking wave height (1 : Hm = GAMMA*D ; 2 : Hm given
+the Miche criterium).
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+DEPTH-INDUCED BREAKING 1 (BJ) CHARACTERISTIC FREQUENCY
+DEPTH-INDUCED BREAKING 1 (BJ) COEFFICIENT GAMMA1
+DEPTH-INDUCED BREAKING 1 (BJ) COEFFICIENT GAMMA2
+
+CHOICE = 1
+'2="Hm given by the Miche criterium"
+
+DEFAULT = 1

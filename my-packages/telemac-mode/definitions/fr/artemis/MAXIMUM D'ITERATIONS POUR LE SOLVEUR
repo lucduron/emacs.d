@@ -1,0 +1,5 @@
+AIDE = Les algorithmes utilises pour la resolution du systeme
+matriciel etant iteratifs, il est necessaire de limiter le nombre
+d'iterations autorisees
+
+DÉFAUT = 60000

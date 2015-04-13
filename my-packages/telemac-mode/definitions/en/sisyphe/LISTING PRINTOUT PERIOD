@@ -1,0 +1,6 @@
+HELP = Determines, in number of time steps, the printout period of
+the 'VARIABLES TO BE PRINTED'.
+The results are printed out on the listing file
+(file cas_numerodeprocessus.sortie on a workstation).
+
+DEFAULT = 1

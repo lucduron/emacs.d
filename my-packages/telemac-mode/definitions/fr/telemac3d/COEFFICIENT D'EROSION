@@ -1,0 +1,4 @@
+AIDE = valeur du coefficient d'erosion utilise dans la formule
+de Partheniades en Kg/m2/s
+
+DÉFAUT = 2.E-3

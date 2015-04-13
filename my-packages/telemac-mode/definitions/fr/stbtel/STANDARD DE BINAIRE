@@ -1,0 +1,11 @@
+AIDE = 'Adapte l'ecriture du FICHIER DE GEOMETRIE POUR TELEMAC au standard
+binaire choisi pour celui-ci. Ce peut etre :
+- IBM : binaire IBM,
+- I3E : binaire HP,
+- STD : prend par defaut le binaire de la machine sur laquelle
+l'utilisateur travaille. Ce sont alors des ordres READ et
+WRITE normaux qui sont utilises.'
+
+DÉFAUT = STD
+
+CHOIX = STD';'IBM';'I3E

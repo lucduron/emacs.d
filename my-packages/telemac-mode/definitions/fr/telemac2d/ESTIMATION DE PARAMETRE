@@ -1,0 +1,6 @@
+AIDE = Liste des parametres a estimer, choix : FROTTEMENT
+ou FROTTEMENT, PERMANENT
+
+DÉFAUT = aucun
+
+CHOIX = "FROTTEMENT"';'"FROTTEMENT, PERMANENT"

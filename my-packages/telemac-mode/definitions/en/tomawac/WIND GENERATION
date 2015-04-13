@@ -1,0 +1,29 @@
+HELP = Selection of the type of modelling of the wind generation
+source term. If its value is 0, the wind generation is ignored; if
+its value is 1, it is integrated in accordance with the WAM cycle 4
+formula; if its value is 2, it is integrated in accordance with the
+WAM cycle 3 formula; if its value is 3, it is integrated in accordance
+with the Yan (1987) expression.
+**Related keywords :**
+CONSIDERATION OF A WIND
+WINDS FILE
+AIR DENSITY
+WATER DENSITY
+WIND GENERATION COEFFICIENT
+VON KARMAN CONSTANT
+CHARNOCK CONSTANT
+SHIFT GROWING CURVE DUE TO WIND
+WIND MEASUREMENTS LEVEL
+WIND DRAG COEFFICIENT
+WIND GENERATION COEFFICIENT A
+WIND GENERATION COEFFICIENT B
+WIND GENERATION COEFFICIENT C
+WIND GENERATION COEFFICIENT D
+WIND GENERATION COEFFICIENT TM
+
+CHOICE = 0
+'1="Wind generation in accordance with WAM cycle 4"';
+'2="Wind generation in accordance with WAM cycle 3"';
+'3="Wind generation in accordance with Yan expression (1987)"
+
+DEFAULT = 0

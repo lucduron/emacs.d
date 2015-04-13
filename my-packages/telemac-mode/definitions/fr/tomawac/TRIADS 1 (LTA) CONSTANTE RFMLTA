@@ -1,0 +1,9 @@
+AIDE = RFMLTA determine la frequence maximale vers laquelle les
+transferts d energie peuvent avoir lieu. La frequence maximale est
+calculee comme le produit entre la constante RFMLTA et la frequence
+de pic du spectre.
+**Mots-cles associes :**
+TRANSFERTS ENTRE TRIPLETS DE FREQUENCES
+TRIADS 1 (LTA) CONSTANTE ALPHA
+
+DÉFAUT = 2.5

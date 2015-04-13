@@ -1,0 +1,12 @@
+AIDE = Choix du type de modelisation du terme source de dissipation
+sur le fond. Si sa valeur est 0, on ne prend pas en compte la
+dissipation par frottement, si sa valeur est 1, elle est integree
+selon la formule equivalente a celle utilisee dans WAM cycle 4.
+**Mots-cles associes :**
+PROFONDEUR INFINIE
+COEFFICIENT DE FROTTEMENT SUR LE FOND
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Dissipation selon WAM cycle 4"

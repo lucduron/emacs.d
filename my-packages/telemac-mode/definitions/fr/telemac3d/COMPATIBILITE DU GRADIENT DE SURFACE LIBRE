@@ -1,0 +1,4 @@
+AIDE = Des valeurs inferieures a 1 peuvent supprimer les oscillations
+parasites
+
+DÉFAUT = 1.

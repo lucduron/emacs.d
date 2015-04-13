@@ -1,0 +1,10 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+indique la valeur maximale de l'exposant s dans l'expression donnant
+la repartition directionnelle de la houle.
+Cette expression est celle donnee par Goda dans Random Seas and
+Design of Maritime Structures - University of Tokyo Press :
+G(f,teta) = G0 * (cos(teta/2))**2s. f est la frequence et teta est
+la direction de propagation de la houle.
+
+DÉFAUT = 20.

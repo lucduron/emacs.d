@@ -1,0 +1,8 @@
+HELP = Defines the maximum discretisation of the
+Continous Vertical Sorting Model:
+Should be bigger than 8xNumber of Fractions.
+The bigger the higher the RAM requirements,
+but the faster and accurater the
+bookkeeping of the sediments.
+
+DEFAULT = 200

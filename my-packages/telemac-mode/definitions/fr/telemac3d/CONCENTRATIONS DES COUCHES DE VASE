@@ -1,0 +1,4 @@
+AIDE = Concentration du lit de vase en g/ l (défini par couches) en commencant
+par la couche du fond
+
+DÉFAUT = 100.;500.

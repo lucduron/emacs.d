@@ -1,0 +1,4 @@
+HELP = Defines the number of wave propagation directions. The
+propagation directions are evenly distributed from 0 to 360 degrees.
+
+DEFAULT = 12

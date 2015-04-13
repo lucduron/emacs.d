@@ -1,0 +1,3 @@
+HELP = 'Version numbers of STBTEL, DAMO, UTIL, HP libraries, respectively.'
+
+DEFAULT = V6P3

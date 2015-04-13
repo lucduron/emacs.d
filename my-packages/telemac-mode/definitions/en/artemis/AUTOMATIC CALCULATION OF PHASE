@@ -1,0 +1,4 @@
+HELP = 'TRUE : AUTOMATIC CALCULATION OF INCIDENTE PHASE
+(based on reference water depth)        '
+
+DEFAULT = NON

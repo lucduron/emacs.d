@@ -1,0 +1,4 @@
+HELP = The latitude in degrees for which the both Coriolis
+coefficients are computed.
+
+DEFAULT = 0.

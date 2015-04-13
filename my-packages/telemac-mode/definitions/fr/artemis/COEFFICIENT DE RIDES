@@ -1,0 +1,7 @@
+AIDE = Specifie le coefficient de rides utilise dans la formule de
+Van Rijn pour calculer le facteur de frottement.
+
+DÉFAUT = 0.7
+
+CHOIX = '1.0 = " 1.0     : Pour des rides seules"';
+'0.7 = " 0.7     : Pour des rides superposees a des vagues de sable"'

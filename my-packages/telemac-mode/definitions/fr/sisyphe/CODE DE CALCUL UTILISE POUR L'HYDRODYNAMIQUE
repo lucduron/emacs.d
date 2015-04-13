@@ -1,0 +1,5 @@
+AIDE = specifie le code utilise pour modeliser l'hydrodynamique
+
+DÉFAUT = 1
+
+CHOIX = '1

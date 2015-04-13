@@ -1,0 +1,5 @@
+AIDE = Mode de calcul des derivees des vitesses suivant z
+1 : derivee lineaire (classique)
+2 : derivee logarithmique (mieux pour profils logarithmiques)
+
+DÉFAUT = 1

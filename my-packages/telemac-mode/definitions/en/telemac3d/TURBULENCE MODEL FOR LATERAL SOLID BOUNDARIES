@@ -1,0 +1,7 @@
+HELP = Defines the turbulence regime for the lateral boundaries
+
+CHOICE = '1
+'2="rough"'
+CONTROLE = 1 ; 3
+
+DEFAULT = 2

@@ -1,0 +1,5 @@
+AIDE = Donne la vitesse et la direction (en degres de 0 a 360,
+0 etant y=0 et x=+inf) du vent lorsqu ils sont consant en temps et
+en espace (mot cle OPTION DU VENT = 1)
+
+DÉFAUT = 0.;0.

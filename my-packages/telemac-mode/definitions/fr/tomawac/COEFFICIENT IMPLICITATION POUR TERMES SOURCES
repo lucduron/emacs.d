@@ -1,0 +1,9 @@
+AIDE = Coefficient controlant l implicitation dans le schema
+d integration des termes sources, compris entre 0 et 1.
+CIMPLI=0.  : explicite
+CIMPLI=0.5 : semi-implicite
+CIMPLI=1.  : implicite.
+**Mots-cles associes :**
+PRISE EN COMPTE DES TERMES SOURCES
+
+DÉFAUT = 0.5

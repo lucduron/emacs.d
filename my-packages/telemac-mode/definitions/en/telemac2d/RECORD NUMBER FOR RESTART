@@ -1,0 +1,4 @@
+HELP = In case of COMPUTATION CONTINUED, record number to
+start from in the PREVIOUS COMPUTATION FILE
+
+DEFAULT = 0

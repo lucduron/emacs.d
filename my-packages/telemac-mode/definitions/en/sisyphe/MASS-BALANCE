@@ -1,0 +1,4 @@
+HELP = Determines whether a check of the mass-balance over the domain
+is made or not
+
+DEFAULT = NO

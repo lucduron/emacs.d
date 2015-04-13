@@ -1,0 +1,4 @@
+HELP = Correction of the velocities on points with a prescribed
+elevation, where the continuity equation has not been solved
+
+DEFAULT = NO

@@ -1,0 +1,3 @@
+HELP = Value of Von Karman constant
+
+DEFAULT = 0.4

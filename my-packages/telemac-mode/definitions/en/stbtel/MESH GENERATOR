@@ -1,0 +1,14 @@
+HELP = 'Name of the mesh generator used for preparing the UNIVERSAL FILE. It
+will be selected among the following:
+- SUPERTAB6 (version 6 of SUPERTAB mesh generator),
+- SUPERTAB4 (version 4 of SUPERTAB mesh generator),
+- MASTER2 (version 2 of MASTER-SERIES mesh generator),
+- SIMAIL,
+- SELAFIN (in order to modify a mesh already used, as for example :
+- to interpolate a new bathymetry
+- to eliminate backward dependencies
+- to cut overstressed triangles ),
+- TRIGRID,
+- FASTTABS.'
+
+DEFAULT = MASTER2

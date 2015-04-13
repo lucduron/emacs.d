@@ -1,0 +1,6 @@
+AIDE = 'Nom du fichier additionnel. Ce fichier a une signification
+differente en fonction du mailleur choisi.
+Trigrid : Fichier contenant la table de connectivites (obligatoire).
+Fasttabs : Fichier contenant les conditions limites (optionnel).'
+
+DÉFAUT = aucun

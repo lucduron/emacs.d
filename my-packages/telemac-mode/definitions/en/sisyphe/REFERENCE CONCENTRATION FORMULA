@@ -1,0 +1,8 @@
+HELP = 1 : Zysderman and Fredsoe, equilibrium formula
+2: Bijker method. The near bed concentration
+is related to the bedload . This option cannot be used
+without bedload transport
+3: Van Rijn formula
+4: Soulsby_van Rijn formula
+
+DEFAULT = 1

@@ -1,0 +1,4 @@
+AIDE = PRISME : maillages de triangles empiles
+TETRAEDRE : decoupage en tetraedres des prismes
+
+DÉFAUT = PRISME

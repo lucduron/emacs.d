@@ -1,0 +1,8 @@
+HELP = Selection of spherical coordinates to perform the computation
+(for large computation domains).
+Warning: this option is closely related to the mesh that should have
+been entered onto a nautical chart drawn as per Mercator projection
+The LATITUDE OF ORIGIN POINT (another keyword), which corresponds to
+ordinate y=0 in the mesh, must moreover be given.
+
+DEFAULT = NO

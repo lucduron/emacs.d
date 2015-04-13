@@ -1,0 +1,4 @@
+AIDE = Utilise si le mot-cle FACTEUR DE FROTTEMENT IMPOSE = OUI.
+Fixe le facteur de frottement choisi uniforme sur le domaine
+
+DÉFAUT = 0.

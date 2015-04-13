@@ -1,0 +1,7 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MONODIRECTIONNELLE = OUI
+ou avec l'option
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+Fixe la periode de pic (en sec) du spectre d'energie.
+
+DÉFAUT = 10.0

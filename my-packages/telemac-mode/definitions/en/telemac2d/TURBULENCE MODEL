@@ -1,0 +1,13 @@
+HELP = The current alternatives are as follows: constant viscosity (1)
+elder's model (2) or k-epsilon model (3).
+NOTE: when option 1 is chosen, it should be kept in mind that the
+value of the keyword VELOCITY DIFFUSIVITY has to be ajusted.
+When option 2 is chosen, the two values of key-word :
+NON-DIMENSIONAL DISPERSION COEFFICIENTS are used
+When option 3 is chosen, this parameter should recover its true
+physical value, since it is used as such in the turbulence model.
+
+CHOICE = 1
+;'4="SMAGORINSKI"
+
+DEFAULT = 1

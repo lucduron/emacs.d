@@ -1,0 +1,7 @@
+HELP = POSTEL-3D LIBRARIES description
+
+DEFAULT = builds|PPP|lib|postel3dMMMVVV.LLL';
+'builds|PPP|lib|biefMMMVVV.LLL';
+'builds|PPP|lib|damoMMMVVV.LLL';
+'builds|PPP|lib|parallelMMMVVV.LLL';
+'builds|PPP|lib|specialMMMVVV.LLL

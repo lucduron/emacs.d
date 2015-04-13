@@ -1,0 +1,3 @@
+HELP = constant active layer thickness or not
+
+DEFAULT = YES

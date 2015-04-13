@@ -1,0 +1,3 @@
+HELP = Initial stabilisation of sediment, see subroutine CONDIS
+
+DEFAULT = NO

@@ -1,0 +1,3 @@
+HELP = Steering file for coupling with Delwaq.
+
+DEFAULT = no value

@@ -1,0 +1,5 @@
+AIDE = Determine la periode en nombre de pas de temps d'impression
+des 'VARIABLES POUR LES SORTIES GRAPHIQUES' (voir ce mot-cle)
+dans le FICHIER DES RESULTATS.
+
+DÉFAUT = 1

@@ -1,0 +1,30 @@
+HELP = If this keyword is set to 0, a non-existent spectrum is speci
+fied at the inlet boundaries of the domain. If it ranges from 1 to 7, a
+JONSWAP (or TMA) -typed spectrum is specified at these very points as a
+function of the initial wind field and/or of the values of the following
+keywords
+**Related keywords :**
+BOUNDARY SIGNIFICANT HEIGHT
+BOUNDARY PEAK FREQUENCY
+BOUNDARY PEAK FACTOR
+BOUNDARY VALUE OF SIGMA-A FOR SPECTRUM
+BOUNDARY VALUE OF SIGMA-B FOR SPECTRUM
+BOUNDARY PHILLIPS CONSTANT
+BOUNDARY MEAN FETCH VALUE
+BOUNDARY MAXIMUM PEAK FREQUENCY
+BOUNDARY MAIN DIRECTION 1
+BOUNDARY DIRECTIONAL SPREAD 1
+BOUNDARY MAIN DIRECTION 2
+BOUNDARY DIRECTIONAL SPREAD 2
+BOUNDARY WEIGHTING FACTOR FOR ADF
+
+CHOICE = 0
+'1="JONSWAP spectrum"';
+'2="JONSWAP spectrum"';
+'3="JONSWAP spectrum"';
+'4="JONSWAP spectrum"';
+'5="JONSWAP spectrum"';
+'6="JONSWAP spectrum"';
+'7="TMA spectrum"
+
+DEFAULT = 0

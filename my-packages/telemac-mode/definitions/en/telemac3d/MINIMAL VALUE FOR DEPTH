@@ -1,0 +1,3 @@
+HELP = Sets the minimum H value
+
+DEFAULT = -1000.

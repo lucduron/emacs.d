@@ -1,0 +1,4 @@
+AIDE = Prise en compte de la force de trainee de structures verticales
+(il faut alors remplir la subroutine DRAGFO)
+
+DÉFAUT = NON

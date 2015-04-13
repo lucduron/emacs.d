@@ -1,0 +1,10 @@
+HELP = 'Matches the writing of the .i.GEOMETRY FILE FOR TELEMAC; to the binary
+standard chosen for the latter. It will be selected among the
+following :
+- IBM   : IBM binary,
+- I3E   : HP binary,
+- STD   : takes by default the binary on the computer with which
+the user is working. The normal READ and WRITE commands
+are then used.'
+
+DEFAULT = STD

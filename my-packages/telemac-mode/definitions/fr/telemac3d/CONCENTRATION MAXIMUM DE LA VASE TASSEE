@@ -1,0 +1,5 @@
+AIDE = concentration maximale pouvant etre atteinte par une couche
+de vase lors du tassement.
+Ce parametre est utilise si MODELE DE TASSEMENT DE GIBSON = OUI .
+
+DÉFAUT = 500.

@@ -1,0 +1,17 @@
+HELP = Five choices available.
+Beware : if option 1 chosen, give the right
+COEFFICIENT FOR HORIZONTAL DIFFUSION OF VELOCITIES
+DIFFUSION DES ....
+If option 3 ou 7 is chosen, this parameter must get its real physical
+value of molecular diffusivity, generally about 1.E-6.
+
+CHOICE = '1
+'2="MIXING LENGTH"';
+'3="K-EPSILON MODEL"';
+'4="SMAGORINSKI"';
+'5= ';
+'6= ';
+'7="K-OMEGA MODEL" '
+CONTROLE = 1 ; 7
+
+DEFAULT = 1

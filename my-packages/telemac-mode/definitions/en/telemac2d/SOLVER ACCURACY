@@ -1,0 +1,4 @@
+HELP = Required accuracy for solving the propagation step
+(refer to Principle note).
+
+DEFAULT = 1.E-4

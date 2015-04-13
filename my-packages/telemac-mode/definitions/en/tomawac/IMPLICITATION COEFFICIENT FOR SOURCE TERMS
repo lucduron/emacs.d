@@ -1,0 +1,9 @@
+HELP = Implicitation coefficient for the source terms integration,
+included between 0 et 1.
+CIMPLI=0.  : explicit
+CIMPLI=0.5 : semi-implicit
+CIMPLI=1.  : implicit.
+**Related keyword :**
+CONSIDERATION OF SOURCE TERMS
+
+DEFAULT = 0.5

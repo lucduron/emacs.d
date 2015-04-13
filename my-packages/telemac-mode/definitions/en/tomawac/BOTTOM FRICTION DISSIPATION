@@ -1,0 +1,12 @@
+HELP = Selection of the modelling type of the bottom friction source
+term. If its value is 0, the bottom friction dissipation is ignored;
+if its value is 1, it is integrated in accordance with a formula that
+is similar to that of WAM cycle 4.
+**Related keywords :**
+INFINITE DEPTH
+BOTTOM FRICTION COEFFICIENT
+
+CHOICE = 0
+'1="Dissipation in accordance with WAM cycle 4"
+
+DEFAULT = 0

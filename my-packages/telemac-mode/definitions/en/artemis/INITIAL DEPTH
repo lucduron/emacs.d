@@ -1,0 +1,4 @@
+HELP = Value specified when using the option :
+INITIAL CONDITIONS : CONSTANT DEPTH.
+
+DEFAULT = 0.

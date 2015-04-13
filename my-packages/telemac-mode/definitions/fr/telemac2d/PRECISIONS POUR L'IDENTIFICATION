@@ -1,0 +1,4 @@
+AIDE = 4 nombres : precision absolue sur H, U, V,
+et precision relative sur la fonction cout
+
+DÉFAUT = 1.E-3;1.E-3;1.E-3;1.E-4

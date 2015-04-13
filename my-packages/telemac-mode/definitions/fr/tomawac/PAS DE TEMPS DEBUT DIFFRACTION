@@ -1,0 +1,8 @@
+AIDE = Numero du pas de temps a partir duquel la diffraction est
+prise en compte dans la simulation.
+**Mots-cles associes :**
+DIFFRACTION
+SEUIL DE VARIANCE CONSIDEREE POUR DIFFRACTION
+FILTRE POUR DIFFRACTION
+
+DÉFAUT = 1

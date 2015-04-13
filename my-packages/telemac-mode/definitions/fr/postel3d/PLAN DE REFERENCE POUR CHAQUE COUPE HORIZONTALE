@@ -1,0 +1,8 @@
+AIDE = Chaque coupe horizontale sera parallele a son plan de reference.
+Ainsi il est possible de faire des coupes par exemple :
+- a telle distance au-dessus du fond,
+- a telle distance sous la surface,
+- suivant un plan intermediaire,...
+Le plan 0 correspond au plan parfaitement horizontal a la cote 0.
+
+DÉFAUT = 0;1;2;3;4;5;6;7;8

@@ -1,0 +1,6 @@
+HELP = Name of a file containing the results of an
+earlier  sedimentological computation which was made
+on the same mesh. The last recorded time step will provide
+the initial conditions for the new computation.
+
+DEFAULT = no value

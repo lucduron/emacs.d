@@ -1,0 +1,3 @@
+HELP = diameter of roughness element
+
+DEFAULT = 0.006

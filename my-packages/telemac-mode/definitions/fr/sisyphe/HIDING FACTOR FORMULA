@@ -1,0 +1,8 @@
+AIDE = 4 formules pour le hiding factor sont programmees dans SISYPHE
+0: const => il faut donner le HIDING FACTOR PAR CLASSE GRANULO
+1: Egiazaroff
+2: Ashida & Michiue
+:
+4: Karim, Holly & Yang
+
+DÉFAUT = 0

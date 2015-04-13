@@ -1,0 +1,4 @@
+HELP = C.P.U. time (in seconds) allowed for making the computation.
+Please note that this keyword is a string of characters.
+
+DEFAULT = 10

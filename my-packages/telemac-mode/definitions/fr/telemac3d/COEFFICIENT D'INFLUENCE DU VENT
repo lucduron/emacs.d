@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur du coefficient d'entrainement du vent (cf.
+Note de principe).
+
+DÉFAUT = 0.

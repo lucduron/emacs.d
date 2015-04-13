@@ -1,0 +1,5 @@
+AIDE = Pour la suspension, sert a initialiser la valeur
+de la concentration volumique pour chaque classe. ne sera pas pris
+en compte si CONCENTRATION EN ENTREE IMPOSEE=OUI
+
+DÉFAUT = 0.;0.;0.;0.;0.;0.;0.;0.;0.;0.

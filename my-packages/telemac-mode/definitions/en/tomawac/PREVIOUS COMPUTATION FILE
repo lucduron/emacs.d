@@ -1,0 +1,7 @@
+HELP = Name of the file containing the global results of a previous
+computation realised with the same mesh. This file gives the initial
+conditions for a next computation.
+**Related keywords :**
+BINARY OF THE PREVIOUS COMPUTATION FILE
+
+DEFAULT = no value

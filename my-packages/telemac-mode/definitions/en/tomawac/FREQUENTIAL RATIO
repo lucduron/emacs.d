@@ -1,0 +1,8 @@
+HELP = Define the ratio between 2 successive discretised
+frequencies
+**Related keywords :**
+MINIMAL FREQUENCY
+NUMBER OF FREQUENCIES
+SPECTRUM TAIL FACTOR
+
+DEFAULT = 1.1

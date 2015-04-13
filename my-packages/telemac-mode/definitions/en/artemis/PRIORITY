@@ -1,0 +1,4 @@
+HELP = Type of invoice requested for CRAY computation : there are
+3 possibilities : jour, nuit, and weekend.
+
+DEFAULT = JOUR

@@ -1,0 +1,4 @@
+AIDE = Nom du fichier facultatif contenant la bathymetrie
+associee au maillage.
+
+DÉFAUT = aucun

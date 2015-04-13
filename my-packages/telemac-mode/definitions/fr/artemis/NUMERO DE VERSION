@@ -1,0 +1,6 @@
+AIDE = Numero de version des bibliotheques ARTEMIS TELEMAC2D UTILE DAMO
+BIEF et HP.
+Si ce nom commence par D il s'agit de l'option Debug (exemple DV1P0)
+Si ce nom commence par F il s'agit de l'option Flowtrace.
+
+DÉFAUT = V7P0

@@ -1,0 +1,5 @@
+HELP = Binary type used to write on the results file. This type depends on
+the machine used to create this file. Allowed values are the same
+as used for the geometry file.
+
+DEFAULT = STD

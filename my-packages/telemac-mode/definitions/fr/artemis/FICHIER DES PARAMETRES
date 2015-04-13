@@ -1,0 +1,5 @@
+AIDE = Nom du fichier contenant les parametres du calcul a realiser.
+
+DÉFAUT = aucun
+
+CHOIX = cas

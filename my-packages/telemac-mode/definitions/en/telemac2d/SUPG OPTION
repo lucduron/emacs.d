@@ -1,0 +1,5 @@
+HELP = 0:no upwinding              1: classical SUPG  2:modified SUPG
+These coefficients are applied respectively to
+1) U et V     2) H      3) T     4) K and EPSILON
+
+DEFAULT = 2;2;2;2

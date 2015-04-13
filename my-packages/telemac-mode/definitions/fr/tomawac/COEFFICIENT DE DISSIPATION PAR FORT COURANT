@@ -1,0 +1,7 @@
+AIDE = Coefficient de dissipation pour des vagues stoppees
+par un courant fort adverse (effets de wave-blocking).
+Expression de van der Westhuysen (2012): Cds,cur.
+**Mots-cles associes :**
+DISSIPATION PAR FORT COURANT
+
+DÉFAUT = 0.65

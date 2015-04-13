@@ -1,0 +1,6 @@
+AIDE = Determine la periode en nombre de pas de temps d'impression
+des 'VARIABLES A IMPRIMER' (voir ce mot-cle) Pour la mise au point;
+il faut savoir que la sortie des resultats est effectuee
+systematiquement sur le listing
+
+DÉFAUT = 1

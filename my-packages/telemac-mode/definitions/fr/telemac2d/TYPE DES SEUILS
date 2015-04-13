@@ -1,0 +1,6 @@
+AIDE = Méthode de traitement des seuils
+
+DÉFAUT = 1
+
+CHOIX = '1="HORIZONTAL AVEC MEME NOMBRE DE NOEUDS AMONT/AVAL (Solution historique avec bord)"';
+'2="GENERALE (Nouvelle solution avec pts sources)"'

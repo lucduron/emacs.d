@@ -1,0 +1,7 @@
+HELP = Geometrical ratio of the time sub-increments for the
+depth-induced breaking
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+NUMBER OF BREAKING TIME STEPS
+
+DEFAULT = 1.45

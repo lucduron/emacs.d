@@ -1,0 +1,3 @@
+HELP = A constant in the production terms of Omega
+
+DEFAULT = 7.071

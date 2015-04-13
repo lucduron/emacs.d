@@ -1,0 +1,5 @@
+AIDE = En condition initiale, une energie inferieure a ce seuil
+pour un couple frequence-direction donnee est prise nulle. Utile
+surtout pour les comparaisons avec WAM cycle 4.
+
+DÉFAUT = 1.D-30

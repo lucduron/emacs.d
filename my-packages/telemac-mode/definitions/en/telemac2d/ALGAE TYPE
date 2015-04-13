@@ -1,0 +1,10 @@
+HELP = Algae type. For choice 1 the algae particles will be
+modeled as spheres, and for the other choices see Gaylord et
+al. (1994)
+
+CHOICE = 1
+'2="IRIDAEA FLACCIDA (CLOSE TO ULVA)"';
+'3="PELVETIOPSIS LIMITATA"';
+'4="GIGARTINA LEPTORHYNCHOS"
+
+DEFAULT = 1

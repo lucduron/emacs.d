@@ -1,0 +1,4 @@
+AIDE = Definit le nombre de pas de temps effectues lors de
+l'execution du code.
+
+DÉFAUT = 1

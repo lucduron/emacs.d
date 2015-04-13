@@ -1,0 +1,4 @@
+HELP = Yes, if one wants to include dissipation through bottom friction
+in the computation.
+
+DEFAULT = NON

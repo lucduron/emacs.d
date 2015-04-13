@@ -1,0 +1,5 @@
+AIDE = Utilise pour determiner la valeur de la contrainte critique
+d'entrainement (sédiments non-cohésifs). En multiclasse, specifier la valeur
+pour chaque classe,sinon on prend la même valeur.
+Par défaut (si aucune valeur donnee) le code calcule lui
+même le parametre de Shields en fonction du diametre.

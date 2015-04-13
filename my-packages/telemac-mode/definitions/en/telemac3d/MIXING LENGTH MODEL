@@ -1,0 +1,4 @@
+HELP = 1: PRANDTL 3: NEZU AND NAKAGAWA 5: QUETIN 6: TSANIS
+4 (jet) has been suppressed
+
+DEFAULT = 1

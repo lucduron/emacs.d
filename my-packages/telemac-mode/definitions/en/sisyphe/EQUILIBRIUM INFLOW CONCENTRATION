@@ -1,0 +1,4 @@
+HELP = impose the equilibrium concentration for the inflow and at t
+thanks to the formula of Fredsoe for non cohesive sediments
+
+DEFAULT = NO

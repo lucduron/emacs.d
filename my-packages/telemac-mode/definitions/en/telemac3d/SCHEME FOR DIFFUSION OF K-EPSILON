@@ -1,0 +1,8 @@
+HELP = Monitors the choice of the diffusion scheme
+for k and epsilon
+
+CHOICE = '0
+'1="IMPLICIT"'
+CONTROLE = 0 ; 1
+
+DEFAULT = 1

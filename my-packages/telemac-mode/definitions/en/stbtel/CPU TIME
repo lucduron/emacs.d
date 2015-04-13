@@ -1,0 +1,5 @@
+HELP = 'CPU time (in seconds) allotted for making the computation. It should
+be noted it is a string of characters. Option not implemented on a
+workstation'
+
+DEFAULT = 10

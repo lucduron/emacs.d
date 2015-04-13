@@ -1,0 +1,11 @@
+HELP = Defines the turbulence regime for the bottom in the case of a
+k-epsilon or mixing-length model.
+1 : smooth;
+2 : rough
+3 : rough also (for compatibility with old versions)
+
+CHOICE = '1
+'2= rough'
+CONTROLE = 1 ; 3
+
+DEFAULT = 2

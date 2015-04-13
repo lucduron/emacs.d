@@ -1,0 +1,3 @@
+HELP = The Coriolis force is taken into account or ignored.
+
+DEFAULT = NO

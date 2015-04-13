@@ -1,0 +1,6 @@
+HELP = Determines the origin used for computing latitudes when
+a computation is made in spherical coordinates.
+this latitude is in particular used to compute the Coriolis force.
+In cartesian coordinates, Coriolis coefficient is considered constant.
+
+DEFAULT = 48.

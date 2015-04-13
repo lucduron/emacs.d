@@ -1,0 +1,8 @@
+AIDE = Prise en compte ou non de la diffusion des traceurs
+avec option sur le schema.
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1="IMPLICITE"';
+'2 ="VERTICAL DIFFUSION ONLY"

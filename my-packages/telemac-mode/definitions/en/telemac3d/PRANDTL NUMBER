@@ -1,0 +1,3 @@
+HELP = Ratio between eddy viscosity and eddy diffusivity
+
+DEFAULT = 1.0

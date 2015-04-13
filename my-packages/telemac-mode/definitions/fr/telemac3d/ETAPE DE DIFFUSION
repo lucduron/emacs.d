@@ -1,0 +1,6 @@
+AIDE = Prise en compte ou non des termes de diffusion.
+En cas de reponse positive,
+on peut encore supprimer certains termes de diffusion avec
+les mots-cles SCHEMA POUR LA DIFFUSION...
+
+DÉFAUT = OUI

@@ -1,0 +1,6 @@
+HELP = Indicates whether a wind is taken into account, either in
+a file or in cdicow.f.
+**Related keyword :**
+WINDS FILE
+
+DEFAULT = .FALSE.

@@ -1,0 +1,6 @@
+HELP = Used with the option FRICTION = YES.
+Enables to restrict the total roughness to the skin roughnes
+in the case of an automatic calculation of the friction
+factor for sandy beds.
+
+DEFAULT = NON

@@ -1,0 +1,5 @@
+HELP = Provided for performing several computations of lagrangian
+drifts starting at different times.
+Add A and G in the VARIABLES FOR GRAPHIC PRINTOUTS key-word
+
+DEFAULT = 0

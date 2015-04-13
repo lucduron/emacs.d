@@ -1,0 +1,3 @@
+HELP = Printout period for Delwaq files.
+
+DEFAULT = 1

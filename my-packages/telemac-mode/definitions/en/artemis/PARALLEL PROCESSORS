@@ -1,0 +1,7 @@
+HELP = NUMBER OF PROCESSORS FOR PARALLEL PROCESSING
+0 : 1 machine, compiling without parallel library
+1 : 1 machine, compiling with a parallel library
+2 : 2 processors or machines in parallel
+etc....
+
+DEFAULT = 0

@@ -1,0 +1,5 @@
+HELP = Angle of repose of the sediment. Used in the Soulsby formula
+to take into account the influence of bed slope on critical shear stress.
+Use if ...=2
+
+DEFAULT = 40.

@@ -1,0 +1,4 @@
+HELP = Yes, if one wants to run computations by scanning a period range
+(resonance computations, see also reals of index 8, 9, and 10).
+
+DEFAULT = NON

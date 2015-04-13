@@ -1,0 +1,5 @@
+AIDE = 'Nom du fichier contenant la bathymetrie (au standard SINUSX), qui
+servira pour la definition, par interpolation, de la profondeur en
+chaque point du maillage.'
+
+DÉFAUT = ';' ';' ';' ';'

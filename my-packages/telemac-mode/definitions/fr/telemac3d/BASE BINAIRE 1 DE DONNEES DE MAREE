@@ -1,0 +1,5 @@
+AIDE = Base de donnees binaire 1.
+Dans le cas des donnees satellitaires de l OSU (type TPXO), ce fichier correspond
+aux donnees de niveau d'eau, par exemple h_tpxo7.2
+
+DÉFAUT = aucun

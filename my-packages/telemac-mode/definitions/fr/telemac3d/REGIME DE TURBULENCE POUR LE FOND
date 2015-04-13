@@ -1,0 +1,10 @@
+AIDE = Permet de definir le regime de turbulence pour le fond dans le
+cas du modele de longueur de melange ou du modele k-epsilon :
+1 : lisse;
+2 : rugueux
+3 : rugueux (compatibilite avec anciennes versions)
+
+DÉFAUT = 2
+
+CHOIX = 1
+'2= rugueux

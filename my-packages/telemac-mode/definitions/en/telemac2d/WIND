@@ -1,0 +1,4 @@
+HELP = Determines whether the wind effects are to be taken into
+account or not.
+
+DEFAULT = NO

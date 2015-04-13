@@ -1,0 +1,4 @@
+DÉFAUT = 0
+
+CHOIX = '0="Pas de Tsunami"';
+'1="Generation d'un Tsunami sur la base du modele de Okada 1992"'

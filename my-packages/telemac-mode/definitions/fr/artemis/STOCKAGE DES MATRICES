@@ -1,0 +1,4 @@
+AIDE = 1 : EBE classique  2 : EBE assemble  3 : par segment
+attention, avec 2, il faut une numerotation speciale des points
+
+DÉFAUT = 3

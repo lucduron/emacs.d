@@ -1,0 +1,4 @@
+AIDE = Permet de fixer la date d'origine des temps du modele lors
+de la prise en compte de la force generatrice de la maree.
+
+DÉFAUT = 0;0;0

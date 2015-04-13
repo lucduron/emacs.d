@@ -1,0 +1,6 @@
+AIDE = Nom d'un fichier contenant les resultats d'un
+calcul precedent sedimentologique realise sur le meme maillage
+et dont le dernier pas de temps enregistre va fournir les
+conditions initiales pour une suite de de calcul.
+
+DÉFAUT = aucun

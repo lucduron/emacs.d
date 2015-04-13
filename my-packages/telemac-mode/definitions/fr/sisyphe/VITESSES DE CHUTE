@@ -1,0 +1,3 @@
+AIDE = Pas de valeur par defaut
+Si non donne par l utilisateur, on utilise la subroutine vitchu-sisyphe :
+formules de Stokes, Zanke ou Van Rijn, selon la taille des grains

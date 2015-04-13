@@ -1,0 +1,3 @@
+HELP = Specifies the compoment along y of the velocities of the sources.
+If nothing is specified, the sources diffuse without any velocity
+in every direction (cf. validation case 004_source).

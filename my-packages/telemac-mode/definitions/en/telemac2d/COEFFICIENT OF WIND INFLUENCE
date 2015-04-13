@@ -1,0 +1,4 @@
+HELP = Sets the value of the wind driving coefficient.
+Refer to principle note.
+
+DEFAULT = 0.

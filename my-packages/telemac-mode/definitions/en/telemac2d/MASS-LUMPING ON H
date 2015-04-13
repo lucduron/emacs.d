@@ -1,0 +1,10 @@
+HELP = TELEMAC provides an opportunity to carry out mass-lumping
+either on C,H or on the velocity.
+This is equivalent to bringing the matrices AM1 (h) or AM2 (U) and
+AM3 (V) wholly or partly, back onto their diagonal.
+Thanks to that technique, the code can be speeded up to a quite
+significant extent and it can also be made much more stable. The
+resulting solutions, however, become artificially smoothed.
+This parameter sets the extent of mass-lumping that is performed on h.
+
+DEFAULT = 0.

@@ -1,0 +1,6 @@
+AIDE = Nombre de siphons traites comme des termes sources ou
+puits. Ces siphons doivent etre decrits comme des sources dans le
+fichier cas. Leurs caracteristiques sont donnees dans le
+fichier de donnees des siphons (voir la documentation ecrite)
+
+DÉFAUT = 0

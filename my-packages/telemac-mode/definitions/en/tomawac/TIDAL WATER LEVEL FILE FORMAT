@@ -1,0 +1,14 @@
+HELP = Selection of the type of tidal water level file format :
+3 = selafin, TELEMAC type
+4 = user format (the maruti.f procedure should then be amended)
+**Related keywords :**
+CONSIDERATION OF TIDE
+BINARY TIDAL WATER LEVEL FILE
+FORMATTED TIDAL WATER LEVEL FILE
+TIDAL WATER LEVEL FILE BINARY
+TIDE REFRESHING PERIOD
+
+CHOICE = 3
+'4="User format (maruti.f)"
+
+DEFAULT = 3

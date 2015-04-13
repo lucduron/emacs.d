@@ -1,0 +1,5 @@
+HELP = gives the speed and direction (degre (from 0 to 360),
+0 given y=0 anx x=+infinity) when they are constant in time and space
+(keyword OPTION FOR WIND = 1)
+
+DEFAULT = 0.;0.

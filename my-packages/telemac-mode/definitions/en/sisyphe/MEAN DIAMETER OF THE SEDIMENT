@@ -1,0 +1,3 @@
+HELP = Sets value of diameter dm for particular size class.
+
+DEFAULT = .01;.01;.01;.01;.01;.01;.01;.01;.01;.01

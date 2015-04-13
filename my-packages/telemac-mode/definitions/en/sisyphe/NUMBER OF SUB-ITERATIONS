@@ -1,0 +1,8 @@
+HELP = enable to realize sub-iteration inside a time step
+(this key word is not used if the key word VARIABLE TIME-STEP
+is set equal to yes). It could be useful for a non steady case
+be useful for a non steady case when the time step which is fixed
+by the graphic printout period of the HYDRODYNAMIC FILE
+is too large.
+
+DEFAULT = 1

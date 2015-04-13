@@ -1,0 +1,4 @@
+HELP = 4 numbers: absolute precision on H, U V,
+and relative precision on the cost function
+
+DEFAULT = 1.E-3;1.E-3;1.E-3;1.E-4

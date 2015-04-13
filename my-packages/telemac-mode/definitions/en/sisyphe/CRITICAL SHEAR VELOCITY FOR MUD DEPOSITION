@@ -1,0 +1,3 @@
+HELP = Critical shear velocity for deposition (m/s)
+
+DEFAULT = 1000.

@@ -1,0 +1,6 @@
+HELP = Indicates whether the wind evolves temporally and requires
+to be updated
+**Related keyword :**
+CONSIDERATION OF A WIND
+
+DEFAULT = .TRUE.

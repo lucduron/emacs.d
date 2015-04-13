@@ -1,0 +1,18 @@
+HELP = Choice of the preconditioning in the resolution of the linear
+system that the convergence is speeded up when it is being solved (Used
+only if the key-word MASS LUMPING  is equal to false).
+0: no preconditioning
+2: diagonal preconditioning
+3: diagonal preconditioning with the condensed matrix
+7: Crout's preconditioning per element (not implemented).
+Some operations (either 2 or 3 diagonal preconditioning) can be
+performed concurrently with the others.
+Only prime numbers are therefore kept to denote the preconditioning
+operations. When several of them are to be performed concurrently,
+the product of relevant options shall be made.
+
+CHOICE = 2
+'3="diagonal condensee"'; '7="crout"';
+'14="diagonal and crout"'; '21="diagonal condensed  and crout"
+
+DEFAULT = 2

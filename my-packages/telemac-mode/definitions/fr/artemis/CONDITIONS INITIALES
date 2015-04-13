@@ -1,0 +1,22 @@
+AIDE = Permet de definir les conditions initiales sur les hauteurs d'eau.
+Les valeurs possibles sont :
+- COTE NULLE. Initialise la cote de surface libre a 0.
+Les hauteurs d'eau initiales sont alors retrouvees en
+faisant la difference entre les cotes de surface libre
+et du fond.
+- COTE CONSTANTE .Initialise la cote de surface libre a la
+valeur donnee par le mot-cle COTE INITIALE. Les hauteurs
+d'eau initiales sont calculees comme precedemment.
+- HAUTEUR NULLE .Initialise les hauteurs d'eau a 0.
+- HAUTEUR CONSTANTE. Initialise les hauteurs d'eau a la valeur
+donnee par le mot-cle HAUTEUR INITIALE.
+- PARTICULIERES. Les conditions initiales sur la hauteur d'eau
+doivent etre precisees dans le sous-programme CONDIH.
+
+DÉFAUT = COTE NULLE
+
+CHOIX = '"COTE NULLE"';
+'"COTE CONSTANTE"';
+'"HAUTEUR NULLE"';
+'"HAUTEUR CONSTANTE"';
+'"PARTICULIERES"'

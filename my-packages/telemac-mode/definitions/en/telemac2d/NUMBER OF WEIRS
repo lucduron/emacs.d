@@ -1,0 +1,5 @@
+HELP = Number of weirs that will be treated by boundary conditions.
+They must be described as boundaries of the domain and their features
+are given in the weir data file (see written documentation)
+
+DEFAULT = 0

@@ -1,0 +1,16 @@
+AIDE = Choix du model pour representer la diffraction :
+0 : Pas de prise en compte de la diffraction
+1 : Mild Slope Equation de Berkhoff (1972)
+2 : Revised Mild Slope Equation de Porter (2003)
+La diffraction est modelisee suivant l approche proposee
+par Holthuijsen (2003)
+**Mots-cles associes :**
+PAS DE TEMPS DEBUT DIFFRACTION
+SEUIL DE VARIANCE CONSIDEREE POUR DIFFRACTION
+FILTRE POUR DIFFRACTION
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Mild Slope Equation de Berkhoff (1972)"';
+'2="Revised Mild Slope Equation de Porter (2003)"

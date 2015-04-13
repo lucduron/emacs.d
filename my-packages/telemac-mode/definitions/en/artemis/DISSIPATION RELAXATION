@@ -1,0 +1,4 @@
+HELP = Fixes the relaxation coefficient used between two sub-iterations
+for the computation of the dissipation term.
+
+DEFAULT = 0.5

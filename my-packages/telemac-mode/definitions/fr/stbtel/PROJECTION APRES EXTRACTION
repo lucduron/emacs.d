@@ -1,0 +1,4 @@
+AIDE = 'Lors d'une extraction de maillage suivant un polygone, projette ou
+non le maillage extrait sur les aretes du polygone.'
+
+DÉFAUT = OUI

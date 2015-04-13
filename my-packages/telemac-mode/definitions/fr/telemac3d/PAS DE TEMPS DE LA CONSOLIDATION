@@ -1,0 +1,7 @@
+AIDE = valeur du pas de temps pour le modele de consolidation qui
+peut etre plus grand que le pas de temps hydrodynamique car le
+phenommene est tres lent.Ce parametre est utilise si
+MODELE DE TASSEMENT DE GIBSON = OUI ou
+MODELE DE TASSEMENT MULTICOUCHES = OUI.
+
+DÉFAUT = 1200.

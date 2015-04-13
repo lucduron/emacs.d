@@ -1,0 +1,3 @@
+HELP = Accuracy requested for the linear system solver.
+
+DEFAULT = 1.E-4

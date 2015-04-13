@@ -1,0 +1,6 @@
+AIDE = OUI si on souhaite lisser les hauteurs de houle
+pour ameliorer le calcul des contraintes de radiation
+(actif uniquement en houle reguliere).
+Valeur par defaut = NON.
+
+DÉFAUT = NON

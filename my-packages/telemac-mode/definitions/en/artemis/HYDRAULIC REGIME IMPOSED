@@ -1,0 +1,5 @@
+HELP = Used with the option FRICTION = YES.
+Enables to impose the hydraulic regime in the case of an automatic
+calculation of the friction factor for sandy beds.
+
+DEFAULT = NON

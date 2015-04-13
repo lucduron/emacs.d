@@ -1,0 +1,4 @@
+AIDE = Precision demandee pour la resolution de l'etape de propagation
+(cf.  Note de principe).
+
+DÉFAUT = 1.E-4

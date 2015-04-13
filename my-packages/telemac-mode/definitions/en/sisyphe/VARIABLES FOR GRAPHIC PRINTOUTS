@@ -1,0 +1,44 @@
+HELP = Names of variables the user wants to write
+into the graphic results file.
+Each variable is represented by a letter. See CHOIX1 above.
+One can use *, *A* means all fractions
+
+CHOICE = U
+'V="velocity along y axis (m/s)"';
+'C="wawe celerity (m/s)"';
+'H="water depth (m)"';
+'S="free surface elevation (m)"';
+'B="bottom elevation (m)"';
+'F="Froude number"';
+'Q="scalar flowrate of fluid (m2/s)"';
+'I="flowrate along x axis (m2/s)"';
+'J="flowrate along y axis (m2/s)"';
+'M="bed-load discharge (m2/s)"';
+'N="bed-load discharge along x axis (m2/s)"';
+'P="bed-load discharge along y axis (m2/s)"';
+'E="bottom evolution (m)"';
+'R="non erodable bottom"';
+'KS="total bed roughness (m)"';
+'TOB="Bed Shear stress (Totalfriction) (N/m2)"';
+'MU = "Skin friction correction factor"';
+'D50 = "Mean grain diameter"';
+'THETAW="wave angle with axis Oy (deg)"';
+'QSSUSP="suspended load transport rate (m2/s)"';
+'QSBL="bed load transport rate (m2/s)"';
+'W="wave height"';
+'X="wave period"';
+'UWB="wave orbital velocity (m/s)"';
+'1Ai="fraction of sediment of class i in the first layer"';
+'2Ai="fraction of sediment of class i in the second layer"';
+'kAi="fraction of sediment of class i in the k layer"';
+'kES="thickness of the k layer"';
+'kCONC="concentration of bed layer k"';
+'QSi="bed load transport rate of sediment of class i"';
+'CSi="concentration volumic or mass concentration for class i"';
+'CSAT="saturated concentration (kg/m3)"';
+'A="supplementary variable A"';
+'G="supplementary variable G"';
+'L="supplementary variable L"';
+'O="supplementary variable O"
+
+DEFAULT = U,V,H,S,B,E

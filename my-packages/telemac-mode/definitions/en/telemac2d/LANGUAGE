@@ -1,0 +1,5 @@
+HELP = 1: FRENCH   2: ENGLISH
+
+CHOICE = '1
+
+DEFAULT = 2

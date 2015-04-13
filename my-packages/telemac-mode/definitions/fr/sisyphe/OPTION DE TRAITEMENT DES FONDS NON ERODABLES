@@ -1,0 +1,11 @@
+AIDE = Ce parametre permet de fixer la methode retenue pour traiter
+les fonds non erodables :
+0 = FONDS ERODABLES PARTOUT
+1 = MINIMISATION DU DEBIT SOLIDE POUR LES FONDS NON ERODABLES
+2 = DEBIT SOLIDE NUL POUR LES FONDS NON ERODABLES
+3 = MINIMISATION DU DEBIT SOLIDE EN ELEMENTS FINIS/MASS-LUMPING
+4 = MINIMISATION DU DEBIT SOLIDE EN VOLUMES FINIS
+Quand le fond rigide peut etre atteint lors de la simulation, il est
+conseille d utiliser la metode 3 ou bien 4
+
+DÉFAUT = 0

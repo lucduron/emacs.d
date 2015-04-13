@@ -1,0 +1,10 @@
+HELP = If diffraction is considered, the keyword indicates
+whether the local amplitudes of the directional spectra are
+filtered to compute the diffraction parameter and the transfer
+rates.
+**Related keywords :**
+DIFFRACTION
+VARIANCE THRESHOLD FOR DIFFRACTION
+STARTING TIME STEP FOR DIFFFRACTION
+
+DEFAULT = .FALSE.

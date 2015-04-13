@@ -1,0 +1,9 @@
+AIDE = Permet de reactualiser, pour un meme pas de temps, les champs
+convecteur et propagateur au cours de plusieurs sous-iterations. A la
+premiere sous-iteration, ces champs sont donnes par C et le champ de
+vitesses au pas de temps precedent. Aux iterations suivantes, ils sont
+pris egaux au champ de vitesse obtenu a la fin de la sous-iteration
+precedente. Cette technique permet d'ameliorer la prise en compte des
+non linearites.
+
+DÉFAUT = 1

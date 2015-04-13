@@ -1,0 +1,6 @@
+AIDE = Liste des codes avec lesquels on couple TELEMAC-3D
+SISYPHE : couplage interne avec Sisyphe
+TOMAWAC : couplage interne avec Tomawac
+DELWAQ : sortie de fichiers de resultats pour Delwaq
+
+DÉFAUT = aucun

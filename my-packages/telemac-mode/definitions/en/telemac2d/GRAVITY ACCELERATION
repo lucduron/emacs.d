@@ -1,0 +1,3 @@
+HELP = Set the value of the acceleration due to gravity.
+
+DEFAULT = 9.81

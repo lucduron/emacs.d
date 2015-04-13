@@ -1,0 +1,6 @@
+HELP = Determines whether limiting the water depth H by a lower value
+desirable or not. (for instance in the case of tidal flats)
+This key-word may have an influence on mass conservation since
+the truncation of depth is equivalent to adding mass.
+
+DEFAULT = NO

@@ -1,0 +1,9 @@
+AIDE = Nombre de point d integration sur omega 2 lorsque le terme de
+transfert non lineaire est calcule de maniere exacte (methode GQM):
+grossier 6 ; moyen 8 ; fin 12
+
+DÉFAUT = 6
+
+CHOIX = 6
+'8="moyen"';
+'12="fin"

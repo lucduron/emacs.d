@@ -1,0 +1,9 @@
+AIDE = Utilise avec l'option FROTTEMENT = OUI.
+Oui, permet de choisir d'imposer un facteur de frottement, par un
+mot-cle s'il est uniforme (voir le reel d'index 29) ou en
+programmant dans le sous-programme FWSPEC.
+Si Non, ARTEMIS considere par defaut que les fonds sont sableux,
+et calcule automatiquement le facteur de frottement avec les
+caracteristiques du sediment et de l'ecoulement.
+
+DÉFAUT = NON

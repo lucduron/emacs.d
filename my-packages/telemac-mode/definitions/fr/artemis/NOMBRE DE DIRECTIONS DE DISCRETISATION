@@ -1,0 +1,7 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+Pour un calcul en houle aleatoire multidirectionnelle,
+nombre de bandes d'egale energie servant a discretiser le spectre
+directionnel d'energie.
+
+DÉFAUT = 5

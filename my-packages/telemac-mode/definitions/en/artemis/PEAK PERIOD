@@ -1,0 +1,7 @@
+HELP = Used with otion :
+MONODIRECTIONAL RANDOM WAVE = YES
+or
+MULTIDIRECTIONAL RANDOM WAVE = YES
+Fixes the peak period (in sec) of the energy spectrum
+
+DEFAULT = 10.0

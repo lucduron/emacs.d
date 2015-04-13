@@ -1,0 +1,4 @@
+HELP = Wave friction enhancement for the calculation of the wave generated
+longshore current  (cf OConnor and Yoo, 1988, Coast Eng.12.)
+
+DEFAULT = NO

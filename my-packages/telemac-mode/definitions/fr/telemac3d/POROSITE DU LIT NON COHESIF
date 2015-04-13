@@ -1,0 +1,5 @@
+AIDE = la concentration massique  du lit (CFDEP) est definie par
+CFDEP= (1-porosite)* RHOS
+Ce paramètre est utilisé  pour les sediments non-cohesifs.
+
+DÉFAUT = 0.4

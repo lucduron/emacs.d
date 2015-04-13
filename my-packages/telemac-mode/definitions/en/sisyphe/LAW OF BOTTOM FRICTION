@@ -1,0 +1,12 @@
+HELP = Selects the type of formulation used for the bottom friction.
+To know the possible laws see CHOIX1 above. See FRICTION COEFFICIENT. Beware: in the case
+of internal coupling with Telemac, the friction coefficient is selected in the Telemac steering
+file, except when BED ROUGHNESS PREDICTION is set to YES
+
+CHOICE = 1
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"
+
+DEFAULT = 3

@@ -1,0 +1,2 @@
+HELP = Values of prescribed flowrates at the inflow boundaries.
+The section about boundary conditions is to be read in the manual

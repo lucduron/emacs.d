@@ -1,0 +1,5 @@
+HELP = Takes into account the diffusion terms or not.
+If yes, some diffusion terms can still be deleted with the keywords
+SCHEME FOR DIFFUSION OF...
+
+DEFAULT = YES

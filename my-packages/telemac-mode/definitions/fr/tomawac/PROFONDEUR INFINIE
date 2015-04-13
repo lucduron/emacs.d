@@ -1,0 +1,4 @@
+AIDE = Indique si on se place dans l hypothese de profondeur infinie.
+Cette option inhibe les frottements sur le fond.
+
+DÉFAUT = .FALSE.

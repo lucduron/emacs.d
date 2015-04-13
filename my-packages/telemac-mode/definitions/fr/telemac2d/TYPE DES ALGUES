@@ -1,0 +1,10 @@
+AIDE = Type des algues. Pour le choix 1 les algues seront
+modelisees comme des spheres, pour les autres choix voir Gaylord
+et al. (1994).
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="IRIDAEA FLACCIDA (PROCHE DES ULVES)"';
+'3="PELVETIOPSIS LIMITATA"';
+'4="GIGARTINA LEPTORHYNCHOS"

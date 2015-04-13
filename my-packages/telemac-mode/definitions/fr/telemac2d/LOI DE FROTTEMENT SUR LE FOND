@@ -1,0 +1,18 @@
+AIDE = selectionne le type de formulation utilisee pour le calcul
+du frottement sur le fond.
+Les lois possibles sont les suivantes (cf.
+Note de principe) : - 0 : pas de frottement sur le fond;
+1 : formule de Haaland
+2 : formule de Chezy
+3 : formule de STRICKLER
+4 : formule de MANNING
+5 : formule de NIKURADSE
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="HAALAND"';
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"

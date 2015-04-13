@@ -1,0 +1,4 @@
+CHOICE = '0="No Tsunami"';
+'1="Tsunami generated on the basis of the Okada model 1992"'
+
+DEFAULT = 0

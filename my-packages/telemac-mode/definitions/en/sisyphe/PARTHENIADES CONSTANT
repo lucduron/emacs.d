@@ -1,0 +1,3 @@
+HELP = constant of the Krone and Partheniades erosion law (Kg/m2/s)
+
+DEFAULT = 1.E-03

@@ -1,0 +1,4 @@
+HELP = Specifies the water kinematic viscosity.
+M/S2
+
+DEFAULT = 1.E-6

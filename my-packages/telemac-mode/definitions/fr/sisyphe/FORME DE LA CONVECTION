@@ -1,0 +1,20 @@
+AIDE = Determine le schema utilise pour la convection :
+1: caracteristiques
+2: schema semi-implicite + supg
+3 et 4: schema N
+5: schema psi
+6: schema psi non conservatif
+7: schema N non conservatif
+13 et 14: schema N par segment (recommande pour les bancs decouvrants)
+
+DÉFAUT = 1
+
+CHOIX = '1="CARACTERISTIQUES"';
+'2="SUPG"';
+'3="SCHEMA N CONSERVATIF"' ;
+'4="SCHEMA N CONSERVATIF"' ;
+'5="SCHEMA PSI CONSERVATIF"';
+'6="SCHEMA PSI NON CONSERVATIF"';
+'7="SCHEMA N IMPLICITE NON CONSERVATIF"';
+'13="SCHEMA N PAR SEGMENTS"';
+'14="SCHEMA N PAR SEGMENTS"'

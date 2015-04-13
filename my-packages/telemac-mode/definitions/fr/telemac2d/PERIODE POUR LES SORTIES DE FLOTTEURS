@@ -1,0 +1,5 @@
+AIDE = Nombre de pas de temps entre 2 sorties de positions de
+flotteurs dans le fichier des resultats binaire supplementaire
+N affecte pas la qualite du calcul de la trajectoire
+
+DÉFAUT = 1

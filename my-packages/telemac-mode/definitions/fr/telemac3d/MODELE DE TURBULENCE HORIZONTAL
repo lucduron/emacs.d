@@ -1,0 +1,16 @@
+AIDE = Quatre choix sont possibles actuellement.
+Attention : si on choisit l'option 1;
+il ne faut pas oublier d'ajuster la valeur du mot-cle COEFFICIENT DE
+DIFFUSION DES ....
+Si on choisit l'option 3,
+ce meme parametre doit retrouver sa vraie valeur physique car elle est
+utilisee comme telle dans le modele de turbulence
+
+DÉFAUT = 1
+
+CHOIX = 1
+'3="MODELE K-EPSILON"';
+'4= "SMAGORINSKI"';
+'5= ';
+'6= ';
+'7="MODELE K-OMEGA"

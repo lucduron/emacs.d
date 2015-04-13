@@ -1,0 +1,4 @@
+HELP = Sets the minimum value of the water depth.
+Is used when the keyword TIDAL FLATS is equal to yes.
+
+DEFAULT = 1.E-3

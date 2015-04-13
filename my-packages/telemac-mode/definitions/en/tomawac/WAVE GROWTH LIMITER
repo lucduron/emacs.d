@@ -1,0 +1,12 @@
+HELP = Choice of the wave growth limiter.
+If LIMIT=0, no wave growth limiter.
+If LIMIT=1, WAM 4 original limiter.
+If LIMIT=2, Hersbach et Janssen (1999) limiter.
+**Related keywords :**
+CONSIDERATION OF SOURCE TERMS
+
+CHOICE = 0
+'1="WAM 4 original limiter"';
+'2="Hersbach et Janssen (1999) limiter"
+
+DEFAULT = 1

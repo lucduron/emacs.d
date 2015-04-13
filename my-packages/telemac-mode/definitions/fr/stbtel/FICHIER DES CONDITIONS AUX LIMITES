@@ -1,0 +1,7 @@
+AIDE = 'Nom du fichier qui contiendra les conditions aux limites lues dans le
+FICHIER UNIVERSEL, et qui servira pour les calculs TELEMAC 2D.
+(les conditions aux limites sont definies lors de la realisation du
+maillage, au moyen de couleurs affectees aux noeuds des frontieres du
+domaine de calcul).'
+
+DÉFAUT = aucun

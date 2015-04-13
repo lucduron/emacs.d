@@ -1,0 +1,4 @@
+HELP = Indicates whether the coordinates are spherical (unit
+degree) or cartesian (unit = meter).
+
+DEFAULT = .FALSE.

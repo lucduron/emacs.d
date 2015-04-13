@@ -1,0 +1,18 @@
+AIDE = Choix du type de modelisation du terme de transfert non
+lineaire entre triplets de frequences. Si sa valeur est 0, on ne
+prend pas en compte les transferts non lineaires entre triplets
+de frequences, si sa valeur est 1, ils sont integres selon le
+modele LTA, si sa valeur est 2, ils sont integres selon le
+modele SPB.
+**Mots-cles associes :**
+TRIADS 1 (LTA) CONSTANTE ALPHA
+TRIADS 1 (LTA) CONSTANTE RFMLTA
+TRIADS 2 (SPB) CONSTANTE K
+TRIADS 2 (SPB) BORNE DIRECTIONNELLE INFERIEURE
+TRIADS 2 (SPB) BORNE DIRECTIONNELLE SUPERIEURE
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="modele LTA (Eldeberky, 1996)"';
+'2="modele SPB (Becq, 1998)"

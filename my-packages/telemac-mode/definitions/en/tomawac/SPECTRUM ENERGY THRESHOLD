@@ -1,0 +1,5 @@
+HELP = For initial conditions, the energy on a frequency-direction
+component lower to this threshold is taken to 0.
+Useful for comparisons with WAM cycle 4.
+
+DEFAULT = 1.D-30

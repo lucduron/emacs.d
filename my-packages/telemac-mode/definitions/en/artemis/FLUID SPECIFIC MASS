@@ -1,0 +1,3 @@
+HELP = Fluid specific weight (water) in Kg/m3.
+
+DEFAULT = 1000.0

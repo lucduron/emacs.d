@@ -1,0 +1,5 @@
+AIDE = Precision demandee pour la resolution du systeme
+(ce parametre n'est utilise que si le mot cle MASS LUMPING
+est egal a faux).
+
+DÉFAUT = 1.E-7

@@ -1,0 +1,9 @@
+HELP = This option is primarily used for the validation
+documents. If this keyword is equal to YES, the REFERENCE FILE
+is then considered as a reference which the computation is
+going to be compared with.
+The comparison is made by the subroutine VALIDA, which can be
+modified so as to include,for example,a comparison with an
+exact solution.
+
+DEFAULT = NO

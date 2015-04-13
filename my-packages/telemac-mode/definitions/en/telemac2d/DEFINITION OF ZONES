@@ -1,0 +1,4 @@
+HELP = Triggers the call to def_zones
+to give a zone number to every point
+
+DEFAULT = NO

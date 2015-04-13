@@ -1,0 +1,4 @@
+HELP = Binary-coded result file for validation.
+The results to be entered into this file shall be written on channel
+
+DEFAULT = no value

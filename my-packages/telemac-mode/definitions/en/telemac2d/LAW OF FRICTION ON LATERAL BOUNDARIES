@@ -1,0 +1,21 @@
+HELP = Selects the type of formulation used for the friction on lateral boundaries.
+The possible laws are as follows (refer to the Principle note):
+0: no friction
+1: linear
+2: Chezy
+3: Strickler
+4: Manning
+5: NIKURADSE's formula
+6 : law log
+7 : Colebrook-White
+
+CHOICE = 0
+'1="HAALAND"';
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"';
+'6="LOG LAW"';
+'7="COLEBROOK-WHITE"
+
+DEFAULT = 0

@@ -1,0 +1,9 @@
+HELP = Used with the option FRICTION = YES.
+Yes, enables the user to impose a friction factor, by a key-word
+for a constant value (see real of index 29) or by programming in
+the FWSPEC sub-routine for non-uniform value.
+If Not, ARTEMIS automatically computes the friction factor assuming
+that the bottom is sandy and uses the characteristics of sediment
+and of motion.
+
+DEFAULT = NON

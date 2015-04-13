@@ -1,0 +1,4 @@
+HELP = PRISM : superimposed meshes of triangles
+TETRAHEDRON : the same but prisms are split into tetrahedrons
+
+DEFAULT = PRISM

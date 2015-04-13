@@ -1,0 +1,4 @@
+AIDE = 'Nom du fichier contenant les references des fichiers et les options
+du calcul a realiser.'
+
+DÉFAUT = aucun

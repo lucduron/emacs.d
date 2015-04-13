@@ -1,0 +1,4 @@
+HELP = ARRAY which contains the residence times of the mud bed
+layers (the first values is related to the bottom layer and the
+last one to the top layer).
+These values are needed when MULTILAYER CONSOLIDATION MODEL = YES

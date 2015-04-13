@@ -1,0 +1,3 @@
+HELP = Give the number of private variables
+
+DEFAULT = 0

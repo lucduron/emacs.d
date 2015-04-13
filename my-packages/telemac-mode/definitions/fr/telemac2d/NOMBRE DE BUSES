@@ -1,0 +1,6 @@
+AIDE = Nombre de buses ou ponts traites comme des termes sources ou
+puits. Ces buses doivent etre decrits comme des sources dans le
+fichier cas. Leurs caracteristiques sont donnees dans le
+fichier de donnees des buses (voir la documentation ecrite)
+
+DÉFAUT = 0

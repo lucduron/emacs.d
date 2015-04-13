@@ -1,0 +1,4 @@
+HELP = Zones file, with on every line:
+point number   zone number
+
+DEFAULT = no value

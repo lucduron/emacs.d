@@ -1,0 +1,12 @@
+HELP = TELEMAC offers the posibility to perform mass-lumping
+on H or U.
+This gathers all or part (given the value of the coefficient)
+of the AM1(H) or AM2(Ut) and AM3(V) matrices on their
+diagonal.
+This technique can speed-up the code a lot and also render it
+more stable.
+Yet, the solutions are smoothened.
+This parameter sets the mass-lumping amount done for H.
+Not recommended for use.
+
+DEFAULT = 0.

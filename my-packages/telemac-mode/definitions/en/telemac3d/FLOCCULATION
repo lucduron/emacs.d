@@ -1,0 +1,4 @@
+HELP = Decides if hindered formulation is to be used to
+compute settling velocity for mud
+
+DEFAULT = NO

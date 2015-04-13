@@ -1,0 +1,15 @@
+AIDE = 'L'interpolation de la bathymetrie sur les noeuds du maillage est
+realisee de la facon suivante. Pour chaque noeud du maillage, on
+decoupe le plan en 4 quadrans. Dans chacun de ces quadrans, on cherche
+le point releve a la table a digitaliser le plus proche. On affecte
+alors au noeud considere une profondeur correspondant a la moyenne,
+ponderee par la distance a ce noeud, des profondeurs en chacun des 4
+points precedemment trouves.
+On verifie toutefois que, lors de la recherche des points, les
+frontieres du domaine ne sont pas franchies, de maniere a ne pas
+introduire d'aberration dans la bathymetrie.
+Ce mot-cle permet alors de definir la distance minimale aux frontieres
+du domaine en dessous de laquelle on refuse de prendre en compte les
+points releves.'
+
+DÉFAUT = 0.

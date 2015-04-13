@@ -1,0 +1,4 @@
+AIDE = Definit la profondeur d eau minimale en dessous de laquelle
+les fonds sont supposes emerges.
+
+DÉFAUT = 0.1

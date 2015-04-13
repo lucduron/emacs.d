@@ -1,0 +1,4 @@
+HELP = 'When removing dry elements, specify if the partially dry elements are
+treated (at least one dry node).'
+
+DEFAULT = NO

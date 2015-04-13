@@ -1,0 +1,14 @@
+AIDE = Type du binaire utilise pour l'ecriture du fichier
+des vents. Ce type depend de la machine sur laquelle le
+fichier a ete genere. Les valeurs possibles sont les memes que pour
+le fichier de geometrie. ATTENTION, ce fichier est binaire si le mot
+cle FORMAT DU FICHIER DES VENTS est superieur ou egal a 3.
+**Mots-cles associes :**
+FICHIER DES VENTS BINAIRE
+FORMAT DU FICHIER DES VENTS
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

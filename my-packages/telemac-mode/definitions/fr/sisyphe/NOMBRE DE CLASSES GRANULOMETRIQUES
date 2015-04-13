@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur du nombre de classes granulometriques
+de grains considerees dans le calcul
+
+DÉFAUT = 1

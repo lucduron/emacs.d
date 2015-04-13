@@ -1,0 +1,4 @@
+AIDE = Fixe la precision demandee sur k pour le test d'arret dans
+l'etape de diffusion et termes sources du modele k-epsilon.
+
+DÉFAUT = 1.E-9

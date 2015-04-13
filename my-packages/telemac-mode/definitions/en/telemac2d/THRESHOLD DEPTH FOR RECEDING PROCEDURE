@@ -1,0 +1,5 @@
+HELP = If > 0., will trigger the receding procedure that
+avoids overwhelming of dykes which are too loosely
+discretised
+
+DEFAULT = 0.

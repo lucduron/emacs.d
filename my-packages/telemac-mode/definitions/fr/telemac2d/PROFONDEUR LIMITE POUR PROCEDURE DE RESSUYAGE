@@ -1,0 +1,4 @@
+AIDE = Si > 0., declenche la procedure de ressuyage qui evite
+le franchissement parasite des digues mal discretisees
+
+DÉFAUT = 0.

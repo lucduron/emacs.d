@@ -1,0 +1,2 @@
+HELP = Specifies if a discharge-elevation curve must be used
+for a given boundary :NO 1:Z(Q) 2: Q(Z)

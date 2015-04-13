@@ -1,0 +1,5 @@
+HELP = Way of computing the velocity derivatives along z
+1 : linear derivative (classic)
+2 : logarithmic derivative (better for logarithmic profiles)
+
+DEFAULT = 1

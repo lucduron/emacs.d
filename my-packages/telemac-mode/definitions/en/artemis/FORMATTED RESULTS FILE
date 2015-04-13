@@ -1,0 +1,4 @@
+HELP = Results file, written in ASCII mode, at the disposal of the user.
+Data of this file must be written on unit 29.
+
+DEFAULT = no value

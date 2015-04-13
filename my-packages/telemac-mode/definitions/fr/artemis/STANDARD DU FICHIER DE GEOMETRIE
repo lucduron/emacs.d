@@ -1,0 +1,11 @@
+AIDE = Adapte la lecture du FICHIER DE GEOMETRIE au standard choisi pour
+celui-ci. Ce peut etre :
+- 1 : un maillage regulier au standard LEONARD,
+- 2 : un maillage quelconque au standard RUBENS,
+- 3 : un maillage quelconque au standard SELAFIN.
+
+DÉFAUT = 3
+
+CHOIX = '1 =LEONARD';
+'2 =RUBENS';
+'3 =SELAFIN'

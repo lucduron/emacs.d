@@ -1,0 +1,6 @@
+HELP = Fixes the Gamma coefficient used in the formulation of Dally et al.,
+1984, for the dissipation coefficient in surf-breaking. Do not confuse
+with the coefficient GAMMA used in the JONSWAP formulae and coefficient
+gammas used to determine the breaking wave height criterion.
+
+DEFAULT = 0.4

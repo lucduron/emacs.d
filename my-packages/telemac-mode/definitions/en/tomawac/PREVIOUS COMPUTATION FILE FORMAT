@@ -1,0 +1,5 @@
+HELP = Previous computation results file format.
+Possible values are provisionnally only:
+- SERAFIND: classical double precision format in Telemac
+
+DEFAULT = SERAFIND

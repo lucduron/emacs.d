@@ -1,0 +1,6 @@
+HELP = If yes, slope effect taken into account:
+deviation + modification of critical shear stress.
+NO will cancel the key-words
+FORMULA FOR SLOPE EFFECT and FORMULA FOR DEVIATION
+
+DEFAULT = YES

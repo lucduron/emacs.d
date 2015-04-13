@@ -1,0 +1,9 @@
+AIDE = Definit le nombre de frequences de propagation de la houle.
+Les frequences sont reparties geometriquement en fonction de la
+FREQUENCE MINIMALE et RAISON FREQUENTIELLE.
+**Mots-cles associes :**
+FREQUENCE MINIMALE
+RAISON FREQUENTIELLE
+FACTEUR DE QUEUE DU SPECTRE
+
+DÉFAUT = 15

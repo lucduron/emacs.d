@@ -1,0 +1,4 @@
+HELP = Give the time of the time origin of the model when taking into
+account the tide generating force.
+
+DEFAULT = 0;0;0

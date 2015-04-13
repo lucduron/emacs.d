@@ -1,0 +1,4 @@
+AIDE = Determine la valeur du coefficient beta qui intervient dans la
+formulation de l'effet de pente de Koch et Flokstra.
+
+DÉFAUT = 1.3

@@ -1,0 +1,5 @@
+HELP = Indicates whether a next compution is done.
+**Related keywords :**
+PREVIOUS RESULTS FILE
+
+DEFAULT = .FALSE.

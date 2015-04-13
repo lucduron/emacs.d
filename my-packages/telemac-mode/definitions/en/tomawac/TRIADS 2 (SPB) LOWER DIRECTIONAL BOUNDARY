@@ -1,0 +1,7 @@
+HELP = Lower directional boundary of the SPB model
+**Related keywords :**
+TRIAD INTERACTIONS
+TRIADS 2 (SPB) COEFFICIENT K
+TRIADS 2 (SPB) UPPER DIRECTIONAL BOUNDARY
+
+DEFAULT = 0.

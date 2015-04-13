@@ -1,0 +1,9 @@
+HELP = Define the minimal frequency in Hz. The discretised frequencies
+are computed from the FREQUENTIAL RATIO r and the NUMBER OF FREQUENCIES
+NF by the relation f=f0*r^(k-1) k=1,NF.
+**Related keywords :**
+FREQUENTIAL RATIO
+NUMBER OF FREQUENCIES
+SPECTRUM TAIL FACTOR
+
+DEFAULT = 1

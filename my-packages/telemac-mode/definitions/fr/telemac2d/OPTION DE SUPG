@@ -1,0 +1,5 @@
+AIDE = 0:pas de decentrement SUPG  1:SUPG classique   2:SUPG modifiee
+ces coefficients sont respectivement appliques a
+1) U et V     2) H      3) T     4) K ET EPSILON
+
+DÉFAUT = 2;2;2;2

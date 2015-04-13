@@ -1,0 +1,6 @@
+AIDE = duree de la simulation. alternative au parametre nombre de pas
+de temps. On en deduit le nombre de pas de temps en prenant l'entier le
+plus proche de (duree du calcul/pas de temps). Si le nombre de pas de
+temps est aussi donne, on prend la plus grande valeur
+
+DÉFAUT = 0.

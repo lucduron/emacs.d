@@ -1,0 +1,3 @@
+HELP = Gel Concentration (Kg/m3)
+
+DEFAULT = 310.D0

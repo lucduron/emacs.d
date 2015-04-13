@@ -1,0 +1,3 @@
+HELP = Density of algae in kg/m3
+
+DEFAULT = 1050.

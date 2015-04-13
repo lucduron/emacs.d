@@ -1,0 +1,4 @@
+HELP = Longitudinal and transversal coefficients in elder s formula.
+Used only with turbulence model number 2
+
+DEFAULT = 6. ; 0.6

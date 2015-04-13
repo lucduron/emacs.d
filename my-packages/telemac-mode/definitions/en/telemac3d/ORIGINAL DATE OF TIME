@@ -1,0 +1,4 @@
+HELP = Gives the date of the time origin of the model when taking into
+account the tide generating force and/or the tidal boundary conditions.
+
+DEFAULT = 1900;1;1

@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur minimale de a lorsque l'option CLIPPING
+DE H est activee.
+
+DÉFAUT = 0.

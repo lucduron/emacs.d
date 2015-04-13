@@ -1,0 +1,4 @@
+HELP = Manning default value for the friction law of Colebrook-White
+(law number 7)
+
+DEFAULT = 0.02

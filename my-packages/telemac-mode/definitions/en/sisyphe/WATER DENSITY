@@ -1,0 +1,3 @@
+HELP = sets the value of water density.
+
+DEFAULT = 1000.

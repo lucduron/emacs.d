@@ -1,0 +1,12 @@
+HELP = Determines the number of iterations over mean angular
+frequency from which the results are first written into the 2D RESULTS
+FILE and the PUNCTUAL RESULTS FILE.
+**Related keywords :**
+PERIOD FOR GRAPHIC PRINTOUTS
+VARIABLES FOR 2D GRAPHIC PRINTOUTS
+ABSCISSAE OF SPECTRUM PRINTOUT POINTS
+ORDINATES OF SPECTRUM PRINTOUT POINTS
+2D RESULTS FILE
+PUNCTUAL RESULTS FILE
+
+DEFAULT = 0

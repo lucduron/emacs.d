@@ -1,0 +1,5 @@
+AIDE = Angle de repos du sediment, intervient pour la prise de compte
+de la pente sur la contrainte critique par la formule de Soulsby.
+Utiliser si ...=2
+
+DÉFAUT = 40.

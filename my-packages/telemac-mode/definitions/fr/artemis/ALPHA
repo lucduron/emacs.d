@@ -1,0 +1,4 @@
+AIDE = Donne le coefficient Alpha dans la Formulation de la dissipation
+par deferlement en houle aleatoire d'apres Battjes & Janssen
+
+DÉFAUT = 1.0

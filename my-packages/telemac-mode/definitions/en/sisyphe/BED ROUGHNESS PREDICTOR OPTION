@@ -1,0 +1,4 @@
+HELP = 1: Flat bed, 2: Rippled bed,
+3: Dunes and mega ripples (Method of Van Rijn)
+
+DEFAULT = 1

@@ -1,0 +1,8 @@
+HELP = Name of the current data file (if binary).
+**Related keywords : **
+CONSIDERATION OF A STATIONARY CURRENT
+CONSIDERATION OF TIDE
+FORMATTED CURRENTS FILE
+CURRENTS FILE FORMAT
+
+DEFAULT = no value

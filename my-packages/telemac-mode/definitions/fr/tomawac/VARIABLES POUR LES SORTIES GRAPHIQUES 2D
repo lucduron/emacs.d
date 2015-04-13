@@ -1,0 +1,79 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans
+le FICHIER DES RESULTATS 2D. Les variables disponibles sont :
+M0   : variance totale
+HM0  : Hauteur significative spectrale
+DMOY : Direction moyenne de houle
+SPD  : Etalement directionnel moyen
+ZF   : Cote du fond
+WD   : Hauteur d'eau
+UX   : Courant suivant X
+UY   : Courant suivant Y
+VX   : Vent suivant X
+VY   : Vent suivant Y
+FX   : Force motrice suivant X
+FY   : Force motrice suivant Y
+SXX  : Contrainte de radiation suivant xx
+SYY  : Contrainte de radiation suivant yy
+SXY  : Contrainte de radiation suivant xy
+UWB  : Vitesse orbitale au fond
+POW  : Puissance lineique de houle (par metre de crete)
+FMOY : Frequence moyenne FMOY
+FM01 : Frequence moyenne FM01
+FM02 : Frequence moyenne FM02
+FPD  : Frequence de pic discrete
+FPR5 : Frequence de pic de Read ordre 5
+FPR8 : Frequence de pic de Read ordre 8
+US   : Vitesse de frottement en surface u*
+CD   : Coefficient de trainee en surface CD
+Z0   : Longueur de rugosite en surface Z0
+WS   : Contrainte de houle en surface
+TMOY : Periode moyenne Tmoy
+TM01 : Periode moyenne Tm01
+TM02 : Periode moyenne Tm02
+TPD  : Periode de pic discrete
+TPR5 : Periode de pic de Read ordre 5
+TPR8 : Periode de pic de Read ordre 8
+PRI  : tableau prive
+BETA : coefficient de deferlement
+**Mots-cles associes :**
+FICHIER DES RESULTATS 2D
+NUMERO DE LA PREMIERE ITERATION POUR LES SORTIES GRAPHIQUES
+PERIODE POUR LES SORTIES GRAPHIQUES
+
+DÉFAUT = HM0,DMOY
+
+CHOIX = M0
+'HM0="Hauteur significative spectrale  (m)"';
+'DMOY="Direction moyenne de houle  (Â°)"';
+'SPD="Etalement directionnel moyen  (Â°)"';
+'ZF="Cote du fond  (m)"';
+'WD="Hauteur d'eau  (m)"';
+'UX="Courant suivant X  (m/s)"';
+'UY="Courant suivant Y  (m/s)"';
+'VX="Vent suivant X  (m/s)"';
+'VY="Vent suivant Y  (m/s)"';
+'FX="Force motrice suivant X  (m/s2)"';
+'FY="Force motrice suivant Y  (m/s2)"';
+'SXX="Contrainte de radiation suivant xx  (m3/s2)"';
+'SYY="Contrainte de radiation suivant yy  (m3/s2)"';
+'SXY="Contrainte de radiation suivant xy  (m3/s2)"';
+'UWB="Vitesse orbitale au fond  (m/s)"';
+'POW="Puissance lineique de houle (par metre de crete)  (kW/m)"';
+'FMOY="Frequence moyenne FMOY  (Hz)"';
+'FM01="Frequence moyenne FM01  (Hz)"';
+'FM02="Frequence moyenne FM02  (Hz)"';
+'FPD="Frequence de pic discrete  (Hz)"';
+'FPR5="Frequence de pic de Read ordre 5  (Hz)"';
+'FPR8="Frequence de pic de Read ordre 8  (Hz)"';
+'US="Vitesse de frottement en surface u*  (m/s)"';
+'CD="Coefficient de trainee en surface CD  (-)"';
+'Z0="Longueur de rugosite en surface Z0  (m)"';
+'WS="Contrainte de houle en surface  (kg/(m.s2))"';
+'TMOY="Periode moyenne Tmoy  (s)"';
+'TM01="Periode moyenne Tm01  (s)"';
+'TM02="Periode moyenne Tm02  (s)"';
+'TPD="Periode de pic discrete  (s)"';
+'TPR5="Periode de pic de Read ordre 5  (s)"';
+'TPR8="Periode de pic de Read ordre 8  (s)"';
+'PRI="tableau prive  (?)"';
+'BETA="coefficient de deferlement  (-)"

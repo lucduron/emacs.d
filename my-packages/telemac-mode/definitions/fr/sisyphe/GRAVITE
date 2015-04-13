@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur de l'acceleration de la pesanteur.
+M/S2
+
+DÉFAUT = 9.81

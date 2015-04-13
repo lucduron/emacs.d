@@ -1,0 +1,3 @@
+HELP = The default value is not given. If the user does not
+give a value, the subroutine vitchu-sisyphe is used:
+Stockes, Zanke or Van Rijn formulae depending on the grain size

@@ -1,0 +1,5 @@
+AIDE = Parametre permettant de calculer la profondeur
+initiale du plan d eau (DEPTH) a partir de la cote du
+fond (ZF) : DEPTH=ZREPOS-ZF.
+
+DÉFAUT = 0.

@@ -1,0 +1,4 @@
+HELP = Name of a potential bathymetry file. If this key-word is specified,
+the bathymetry which it is defining is accounted for.
+
+DEFAULT = no value

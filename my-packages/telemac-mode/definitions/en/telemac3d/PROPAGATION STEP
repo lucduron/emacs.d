@@ -1,0 +1,4 @@
+HELP = Takes into account the propagation terms or not.
+This step has to be done currently.
+
+DEFAULT = YES

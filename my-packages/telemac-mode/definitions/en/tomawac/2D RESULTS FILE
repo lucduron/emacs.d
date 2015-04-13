@@ -1,0 +1,9 @@
+HELP = Name of the file into which the results of the two-dimensional
+computation will be written.
+**Related keywords :**
+2D RESULTS FILE BINARY
+VARIABLES FOR 2D GRAPHIC PRINTOUTS
+PERIOD FOR GRAPHIC PRINTOUTS
+NUMBER OF FIRST ITERATION FOR GRAPHIC PRINTOUTS
+
+DEFAULT = resu2d

@@ -1,0 +1,72 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans le fichier des
+resultats.
+Le choix des separateurs est libre.
+Les possibilites offertes sont les suivantes :
+- HS hauteur de la houle
+- PHAS phase de la houle
+- U0 vitesse u en surface      (a t=0)
+- V0 vitesse v en surface      (a t=0)
+- ZS cote de la surface libre  (a t=0)
+- ZF fond
+- HW hauteur d'eau au repos
+- C vitesse de phase
+- CG vitesse de groupe
+- K nombre d'onde
+- PHIR potentiel reel
+- PHII potentiel imaginaire
+- D prive(1,1) (variable 13)
+- E prive(1,2) (variable 14)
+- F prive(1,3) (variable 15)
+- G prive(1,4) (variable 16)
+- T01 première période moyenne spectrale
+- T02 deuxième période moyenne spectrale
+- TM troisième période moyenne spectrale
+- FX force en X
+- FY force en Y
+- INC incidence de la houle
+- QB taux de deferlement
+- SXX contrainte SXX
+- SXY contrainte SXY
+- SYY contrainte SYY
+L'utilisateur dispose de 4 champs libres, qu'il peut
+utiliser pour ecrire dans le fichier des resultats des variables
+qu'il cree lui-meme. Ces variables propres a l'utlisateur doivent
+etre calculees dans le sous-programme CALRES et le nom que l'on
+desire leur donner doit etre ecrit dans le sous-programme NOMVAR.
+Ces 4 champs sont :
+- D, E, F, G qui correspondent aux tableaux PRIVE(1,1), PRIVE(1,2),
+PRIVE(1,3), PRIVE(1,4). A la difference des variables
+precedentes, celles-ci sont conservees dans tout le programme, et
+peuvent donc etre reutilisees.
+Dans ce dernier cas ne pas oublier de donner une taille
+suffisante au tableau PRIVE,
+en precisant le parametre NPRIV (dans le programme principal).
+
+DÉFAUT = HS,PHAS,ZS,ZF
+
+CHOIX = 'HS="hauteur de la houle"';
+'PHAS="phase de la houle"';
+'U0="vitesse u en surface a t=0"';
+'V0="vitesse v en surface a t=0"';
+'ZS="cote de la surface libre"';
+'ZF="fond"';
+'HW="hauteur d'eau au repos"';
+'C="vitesse de phase"';
+'CG="vitesse de groupe"';
+'K="nombre d'onde"';
+'PHIR="potentiel reel"';
+'PHII="potentiel imaginaire"';
+'D="prive(1,1)"';
+'E="prive(1,2)"';
+'F="prive(1,3)"';
+'G="prive(1,4)"';
+'T01="première période moyenne spectrale"';
+'T02="deuxième période moyenne spectrale"';
+'TM="troisième période moyenne spectrale"';
+'FX="force en X"';
+'FY="force en Y"';
+'INC="incidence de la houle"';
+'QB="taux de deferlement"';
+'SXX="contrainte SXX"';
+'SXY="contrainte SXY"';
+'SYY="contrainte SYY"'

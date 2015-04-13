@@ -1,0 +1,6 @@
+HELP = first integer 1: partial st-venant system
+2: complete st-venant system
+second integer  1: primitive equations
+2: wave equation
+
+DEFAULT = 1;1

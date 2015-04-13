@@ -1,0 +1,7 @@
+AIDE = Les algorithmes utilises pour la resolution de l'etape de
+propagation etant iteratifs; il est necessaire de limiter le nombre
+d'iterations autorisees.
+Remarque : Ce parametre n'est utilise que si le mot cle MASS LUMPING
+est egal a faux.
+
+DÉFAUT = 60

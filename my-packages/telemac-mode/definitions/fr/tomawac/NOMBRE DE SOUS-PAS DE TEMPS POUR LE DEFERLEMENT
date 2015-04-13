@@ -1,0 +1,8 @@
+AIDE = Nombre de sous-pas de temps pour la prise en compte de la
+dissipation d energie par deferlement. Ces sous-pas de temps sont
+en progression geometrique.
+**Mots-cles associes :**
+DISSIPATION PAR DEFERLEMENT
+COEFFICIENT POUR LES SOUS-PAS DE TEMPS POUR LE DEFERLEMENT
+
+DÉFAUT = 1

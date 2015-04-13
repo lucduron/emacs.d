@@ -1,0 +1,5 @@
+HELP = Name of any file containing the bathymetric data associated to
+the SINUSX-formatted grid. It this keyword is used, these bathymetric
+data shall be used for the computation.
+
+DEFAULT = no value

@@ -1,0 +1,5 @@
+AIDE = Taux critique d erosion de la vase (N/m2) -
+Doit etre defini pour chaque couche
+en commencant par la couche de fond
+
+DÉFAUT = 0.05D0;0.05D0

@@ -1,0 +1,7 @@
+AIDE = 1 : formule de Zyserman et Fredsoe
+2 : methode de Bijker. La concentration au fond
+est reliee au taux de transport par charriage
+3 : formule de Van Rijn (1987)
+4 : formule de Soulsy_van Rijn
+
+DÉFAUT = 1

@@ -1,0 +1,7 @@
+AIDE = Fichier de donnees, code en binaire, mis a la disposition de
+l'utilisateur.
+Les donnees de ce fichier seront a lire sur le canal 24.
+
+DÉFAUT = aucun
+
+CHOIX = binaire1

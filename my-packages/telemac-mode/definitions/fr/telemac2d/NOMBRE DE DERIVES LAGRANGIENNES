@@ -1,0 +1,4 @@
+AIDE = Permet d'effectuer simultanement plusieurs calculs de derives
+lagrangiennes initiees a des pas differents
+
+DÉFAUT = 0

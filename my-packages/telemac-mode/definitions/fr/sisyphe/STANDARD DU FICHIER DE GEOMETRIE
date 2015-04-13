@@ -1,0 +1,10 @@
+AIDE = Type de binaire pour l'ecriture du fichier de geometrie.
+Ce type depend de la machine ou ce fichier est genere.
+Les differentes valeurs sont :
+IBM, pour un fichier sur IBM (depuis un CRAY)
+I3E, pour un fichier sur HP (depuis un CRAY)
+STD, pour le type de binaire de la machine ou l'utilisateur
+travaille. Les commandes standard READ et WRITE sont
+alors utilisees.
+
+DÉFAUT = STD

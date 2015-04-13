@@ -1,0 +1,14 @@
+AIDE = Lorsque les effets de wave-blocking ou vagues stoppees
+par un fort courant sont presents, deux options sont proposees.
+Si sa valeur est 1, une limitation est imposee au spectre,
+en utilisant une forme d equilibre de Phillips (1977).
+Si sa valeur est 2, on utilise le terme de dissipation propose
+par Van der Westhuysen (2012).
+**Mots-cles associes :**
+COEFFICIENT DE DISSIPATION PAR FORT COURANT
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Limitation du spectre par une forme de Phillips"';
+'2="Dissipation selon Van der Westhuysen(2012)"

@@ -1,0 +1,10 @@
+HELP = Specifies the time step in seconds in steady case.
+For an unsteady case, this time step is fixed by the graphic
+printout period of the previous computation file, except if
+no name is given for the 'HYDRODYNAMIC FILE' in
+the steering file.
+Remark : If the keyword 'VARIABLE TIME STEP' is set equal
+to yes, the time step required for a correct resolution is
+computed in the code and sub-iterations are performed
+
+DEFAULT = 1.

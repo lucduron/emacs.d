@@ -1,0 +1,4 @@
+AIDE = Definit le nombre de plans du maillage entre le fond et la
+surface. Vaut au moins 2.
+
+DÉFAUT = 2

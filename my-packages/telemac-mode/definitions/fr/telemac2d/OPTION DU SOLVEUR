@@ -1,0 +1,4 @@
+AIDE = si le solveur est GMRES (7) le mot cle est la dimension de
+l'espace de KRYLOV (valeurs conseillees entre 2 et 15)
+
+DÉFAUT = 2

@@ -1,0 +1,13 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MONODIRECTIONNELLE = OUI
+ou avec l'option
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+Indique la valeur de gamma pour le spectre d'energie
+GAMMA = 1   spectre de Pierson-Moskowitz
+GAMMA = 3.3 spectre de JONSWAP moyen (valeur par defaut).
+
+DÉFAUT = 3.3
+
+CHOIX = '1.0 = " spectre de Pierson-Moskowitz"';
+'3.3 = " spectre de JONSWAP moyen"';
+'"0.0" = " spectre au choix"'

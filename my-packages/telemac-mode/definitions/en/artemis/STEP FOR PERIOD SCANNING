@@ -1,0 +1,6 @@
+HELP = Used with the option :
+PERIOD SCANNING = YES
+Fixes the value of the period step (in sec) to be used for
+the period scanning.
+
+DEFAULT = 0.

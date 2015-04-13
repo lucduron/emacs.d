@@ -1,0 +1,7 @@
+AIDE = logique pour la prise en compte du tassement des depots vaseux
+a l'aide d'un modele multicouches : les couches discretisant le fond
+sont caracterisees par leur temps de sejour, temps au bout duquel la
+vase presente dans cette couche bascule dans la couche suivante plus
+consolidee
+
+DÉFAUT = NON

@@ -1,0 +1,15 @@
+HELP = Name of a file containing the results a previous
+computation  made on the same mesh. The hydrodynamic will
+be given by the last record of the file if the case is
+steady or, if the case is unsteady, by the time steps
+describing the tide or flood.
+Remark :If the bed-load transport under the combined
+action of currents and wave is modelled (keyword
+BED-LOAD TRANSPORT FORMULA set equal to 4), this file
+must contain not only the hydrodynamic data
+(water height, velocities) but also the wave data
+(wave height, wave period).However, the user has also
+the possibility to give the values
+of the wave data in the subroutine CONDIM.
+
+DEFAULT = no value

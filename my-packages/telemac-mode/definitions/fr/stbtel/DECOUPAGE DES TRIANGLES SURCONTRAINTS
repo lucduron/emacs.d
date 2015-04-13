@@ -1,0 +1,8 @@
+AIDE = 'Un triangle surcontraint est tel que ses trois noeuds soient situes
+sur une frontiere du domaine de calcul. La presence de tels triangles
+peut entrainer des instabilites lors des calculs realises par
+TELEMAC 2D.
+Cette option permet, en creant un noeud place au barycentre de des
+triangles surcontraints, d'eviter de tels problemes.'
+
+DÉFAUT = NON

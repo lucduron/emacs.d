@@ -1,0 +1,16 @@
+AIDE = Tir initial du solveur de l'etape de propagation.
+Offre la possibilite de modifier la valeur initiale de DH,
+accroissement de H, a chaque iteration,
+dans l'etape de propagation en utilisant les valeurs
+finales de cette variable aux pas de temps precedents. Ceci peut
+permettre d'accelerer la vitesse de convergence lors de la resolution
+du systeme. Trois possibilites sont offertes :
+0 : DH = 0.
+1 : DH = DHn (valeur finale de DH au pas de temps precedent),
+2 : DH = 2DHn - DHn-1 (extrapolation).
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1=precedent';
+'2=extrapolation

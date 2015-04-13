@@ -1,0 +1,10 @@
+AIDE = Donne la date du debut du calcul au format aaaammjjhhmm
+ce qui permet de se reperer par rapport au fichier des vents,
+199310241524 represente le 24 octobre 93 a 15h24.
+**Mots-cles associes :**
+FICHIER DES VENTS BINAIRE
+FICHIER DES VENTS FORMATE
+BINAIRE DU FICHIER DES VENTS
+FORMAT DU FICHIER DES VENTS
+
+DÉFAUT = 0

@@ -1,0 +1,4 @@
+AIDE = Utilise pour determiner la valeur de la contrainte critique
+d'entrainement.
+
+DÉFAUT = 0.047

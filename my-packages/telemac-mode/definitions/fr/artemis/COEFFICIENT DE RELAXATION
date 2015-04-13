@@ -1,0 +1,8 @@
+AIDE = Non utilise dans la version 3.0 .
+Ce coefficient doit etre compris entre 0 et 2.
+coefficient de relaxation  dans le cas d'une resolution par la
+methode  de panchang et al.
+voir Solution of the Mild Slope Wave Problem by Iteration
+Applied Ocean Research, 1991, Vol. 13, No. 4.
+
+DÉFAUT = 1.4

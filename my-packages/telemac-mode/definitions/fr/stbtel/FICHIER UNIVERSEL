@@ -1,0 +1,4 @@
+AIDE = 'Nom du fichier construit par le mailleur, a partir duquel STBTEL va
+travailler.'
+
+DÉFAUT = aucun

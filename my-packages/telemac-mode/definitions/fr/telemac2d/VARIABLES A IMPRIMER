@@ -1,0 +1,31 @@
+AIDE = Nom des variables que l'utilisateur desire ecrire a l'ecran.
+Meme possibilites que pour les sorties graphiques.
+
+DÉFAUT = aucun
+
+CHOIX = U
+'V="vitesse suivant l'axe des y (m/s)"';
+'C="celerite des ondes (m/s)"';
+'H="hauteur d'eau (m)"';
+'S="cote de surface libre (m)"';
+'B="cote du fond (m)"';
+'F="nombre de Froude"';
+'Q="debit scalaire du fluide (m2/s)"';
+'T="traceur"';
+'K="energie turbulente du modele k-epsilon (J/kg)"';
+'E="dissipation de l'energie turbulente (W/kg)"';
+'D="viscosite turbulente du modele k-epsilon (m2/s)"';
+'I="debit suivant l'axe des x (m2/s)"';
+'J="debit suivant l'axe des y (m2/s)"';
+'M="vitesse scalaire (m/s)"';
+'X="vent suivant l'axe des x (m/s)"';
+'Y="vent suivant l'axe des y (m/s)"';
+'P="pression atmospherique (Pa)"';
+'W="coefficient de frottement sur le fond"';
+'A="derive en x  (m)"';
+'G="derive en y  (m)"';
+'L="nombre de courants "';
+'N="variable supplementaire N"';
+'O="variable supplementaire O"';
+'R="variable supplementaire R"';
+'Z="variable supplementaire Z"

@@ -1,0 +1,4 @@
+HELP = Sets the value of the implicitation coefficient for
+the diffusion of velocity
+
+DEFAULT = 1.

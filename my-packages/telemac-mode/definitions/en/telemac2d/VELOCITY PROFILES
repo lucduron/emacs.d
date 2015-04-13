@@ -1,0 +1,9 @@
+HELP = 1:constant normal profile 2:u and v given in the conlim file
+3:normal velocity given in ubor in the conlim file
+4:sqrt(depth) profile
+5:sqrt(depth) profile, variant
+
+CHOICE = 1
+conlim file"';'3="normal velocity given in ubor in the conlim
+file"';'4="velocity proportional to square root of depth"';
+'5="velocity proportional to square root of depth, variant"

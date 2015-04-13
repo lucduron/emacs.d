@@ -1,0 +1,6 @@
+HELP = Maximum period value requested in seconds
+if it is necessary to alter the energy spectrum
+for the computation of the periods in the case
+of random waves (see PERALE).
+
+DEFAULT = 200.

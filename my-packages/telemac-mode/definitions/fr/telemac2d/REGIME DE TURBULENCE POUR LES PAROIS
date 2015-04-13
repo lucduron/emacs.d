@@ -1,0 +1,7 @@
+AIDE = Permet de choisir le regime de turbulence aux parois
+1 : regime turbulent lisse.
+2 : regime turbulent rugueux.
+
+DÉFAUT = 2
+
+CHOIX = '1

@@ -1,0 +1,24 @@
+AIDE = 10 formules de transport solide sont implementees dans SISYPHE.
+Les formules Ne3, Ne30 et Ne9 ne doivent pas etre utilisees en cas de couplage avec la suspension.
+Les formules Ne4, Ne5, Ne8 and Ne9 calculent le taux de transport sous l'action combinee
+de la houle et du courant :
+1 : MEYER-PETER (charriage)
+2 : EINSTEIN-BROWN (charriage)
+3 : ENGELUND-HANSEN + CHOLLET ET CUNGE (VERSION 5.3)
+30: ENGELUND-HANSEN (total)
+4 : BIJKER (charriage + suspension)
+5 : SOULSBY - VAN RIJN (charriage + suspension)
+6 : HUNZIKER (uniquement granulometrie etendue)
+DE MASQUAGE DE HUNZIKER APPLIQUEE
+et mot-cle HIDING-FACTOR not used
+7 : VAN RIJN (bed load)
+8 : BAILARD (charriage + suspension)
+9 : DIBAJNIA ET WATANABE (total)
+L'utilisateur a aussi la possibilite d'imposer une autre formule de
+transport solide (sous-programme QSFORM.F) en fixant la valeur
+du mot cle a 0 :
+0 :  IMPOSEE PAR L'UTILISATEUR
+Attention : dans ce cas, il n'est pas possible de choisir l'option
+PAS DE TEMPS VARIABLE.
+
+DÉFAUT = 1

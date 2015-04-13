@@ -1,0 +1,9 @@
+HELP = Used for updating, within one time step, the advection and
+propagation field.
+upon the first sub-iteration, these fields are given by
+C and the velocity field in the previous time step. At subsequent
+iterations, the results of the previous sub-iteration is used to
+update the advection and propagation field.
+The non-linearities can be taken into account through this technique.
+
+DEFAULT = 1

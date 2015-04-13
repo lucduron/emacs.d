@@ -1,0 +1,7 @@
+AIDE = Ratio pour le calcul du frottement de peau.
+rugosite de peau = ratio * diametre moyen.
+( pour la granulometrie etendue, le diametre moyen utilise
+est une valeur moyenne par noeud calculee a partir de la fraction
+et du diametre moyen de chaque sediment en chaque noeud du maillage)
+
+DÉFAUT = 3.0

@@ -1,0 +1,6 @@
+HELP = White capping dissipation coefficient .
+**Related keywords:**
+WHITE CAPPING DISSIPATION
+WHITE CAPPING WEIGHTING COEFFICIENT
+
+DEFAULT = 4.5

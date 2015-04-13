@@ -1,0 +1,5 @@
+AIDE = Valeur de la periode maximum voulue en secondes
+si on veut tronquer le spectre pour le calcul
+des periodes en houle aleatoire (voir PERALE).
+
+DÉFAUT = 200.

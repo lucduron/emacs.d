@@ -1,0 +1,7 @@
+AIDE = Choix de l'instant de lancement.
+
+DÉFAUT = JOUR
+
+CHOIX = JOUR';
+'NUIT';
+'WEEK-END

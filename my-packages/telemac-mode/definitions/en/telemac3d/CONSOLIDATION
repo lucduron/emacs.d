@@ -1,0 +1,6 @@
+HELP = if this key word is equal to yes, consolidation is simulated
+thanks to a multi-layers model : the bed layers are characterized by
+their residence time which is the time after which the quantity of
+mud which remains in a layer goes into a more consolidated layer
+
+DEFAULT = NO

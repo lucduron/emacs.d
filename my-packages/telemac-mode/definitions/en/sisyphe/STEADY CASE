@@ -1,0 +1,6 @@
+HELP = Specifies steady or unsteady case.If this keyword
+is equal to YES, the last record of the previous computation
+file will give the values of h,u,v and eventually wave height
+and period to be considered.
+
+DEFAULT = NO

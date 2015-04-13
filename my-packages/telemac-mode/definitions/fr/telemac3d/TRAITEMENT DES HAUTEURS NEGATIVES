@@ -1,0 +1,4 @@
+AIDE = Seulement avec OPTION DE TRAITEMENT DES BANCS DECOUVRANTS
+0 : pas de traitement 1 : lissage 2 : limitation des flux
+
+DÉFAUT = 1

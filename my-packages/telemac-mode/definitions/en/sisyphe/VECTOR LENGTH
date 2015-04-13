@@ -1,0 +1,3 @@
+HELP = vector length on vector machines.
+
+DEFAULT = 1

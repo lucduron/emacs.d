@@ -1,0 +1,8 @@
+AIDE = Utilise si 'BANCS DECOUVRANTS' est vrai
+1 : EQUATIONS RESOLUES PARTOUT AVEC CORRECTION
+SUR LES BANCS DECOUVRANTS
+2 : GEL DES ELEMENTS DECOUVRANTS
+Il est conseille de choisir l'option 1 car elle permet de
+conserver la masse.
+
+DÉFAUT = 1

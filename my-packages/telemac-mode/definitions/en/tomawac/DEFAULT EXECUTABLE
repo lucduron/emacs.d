@@ -1,0 +1,3 @@
+HELP = Default executable for TOMAWAC
+
+DEFAULT = builds|PPP|bin|tomawacMMMVVV.exe

@@ -1,0 +1,5 @@
+AIDE = tableau contenant les temps de sejour en heure et centieme
+relatifs a chacune des couches discretisant le fond vaseux
+(la premiere valeur correspond a la couche du fond et la derniere
+correspond a la couche superficielle)
+Valeurs necessaires si MODELE DE TASSEMENT MULTICOUCHES = OUI.

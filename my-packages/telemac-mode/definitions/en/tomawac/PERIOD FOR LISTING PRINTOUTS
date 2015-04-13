@@ -1,0 +1,5 @@
+HELP = Determines the period,
+in number of time step
+of the software messages in the listing file.
+
+DEFAULT = 1

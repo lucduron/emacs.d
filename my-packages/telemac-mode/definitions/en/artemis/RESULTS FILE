@@ -1,0 +1,5 @@
+HELP = Name of the results file corresponding to the computations and
+which contains the variables specified by the key-word
+VARIABLES FOR GRAPHIC PRINTOUTS.
+
+DEFAULT = no value

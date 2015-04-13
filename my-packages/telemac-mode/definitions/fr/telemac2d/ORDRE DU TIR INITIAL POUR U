@@ -1,0 +1,13 @@
+AIDE = Tir initial du solveur de l'etape de propagation.
+Offre la possibilite de modifier la valeur initiale de U, a chaque
+iteration, dans l'etape de propagation en utilisant les valeurs
+finales de cette variable aux pas de temps precedents. Ceci peut
+permettre d'accelerer la vitesse de convergence lors de la resolution
+du systeme. Trois possibilites sont offertes :
+0 : U = 0
+1 : U = U(n)
+2 : U = 2 U(n)- U(n-1) (extrapolation)
+
+DÉFAUT = 1
+
+CHOIX = '0

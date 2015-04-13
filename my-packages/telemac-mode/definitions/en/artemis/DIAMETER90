@@ -1,0 +1,4 @@
+HELP = DIAM90 is the maximum grain diameter, in m, which defines 90% of
+the total weight of sediment.
+
+DEFAULT = 0.15E-3

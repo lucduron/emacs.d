@@ -1,0 +1,4 @@
+HELP = 'The boundary condition will be read in the additional file
+(Fasttabs).'
+
+DEFAULT = NO

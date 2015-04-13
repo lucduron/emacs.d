@@ -1,0 +1,4 @@
+HELP = Values in metres, used to avoid large real numbers,
+added in Selafin format, but so far no other treatment
+
+DEFAULT = 0;0

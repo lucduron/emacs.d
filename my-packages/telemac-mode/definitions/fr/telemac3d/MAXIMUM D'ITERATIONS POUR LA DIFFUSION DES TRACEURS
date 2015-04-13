@@ -1,0 +1,4 @@
+AIDE = Limite le nombre d'iterations du solveur a chaque pas
+de temps pour le calcul de la diffusion des traceurs.
+
+DÉFAUT = 60

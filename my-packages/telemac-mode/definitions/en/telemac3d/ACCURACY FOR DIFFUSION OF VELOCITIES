@@ -1,0 +1,4 @@
+HELP = Sets the accuracy needed for the computation of the
+diffusion of the velocities.
+
+DEFAULT = 1.E-5

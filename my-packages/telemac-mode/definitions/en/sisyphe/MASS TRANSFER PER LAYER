@@ -1,0 +1,5 @@
+HELP = Coefficients de transfert de masse du modele
+de tassement multicouche en s-1
+
+DEFAULT = 5.D-05;4.5D-05;4.0D-05;3.5D-05;3.0D-05;
+2.5D-05;2.0D-05;1.5D-05;1.0D-05;0.D0

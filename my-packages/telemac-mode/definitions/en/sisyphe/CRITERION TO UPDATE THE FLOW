@@ -1,0 +1,5 @@
+HELP = Criterion (Bottom height>CRIT_CFD*Water depth) in order to
+update the flow.
+To use with the option constant flow discharge
+
+DEFAULT = 0.1

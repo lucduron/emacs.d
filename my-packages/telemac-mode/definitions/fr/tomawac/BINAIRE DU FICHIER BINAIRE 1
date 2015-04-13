@@ -1,0 +1,12 @@
+AIDE = Type du binaire utilise pour l'ecriture du fichier
+binaire 1. Ce type depend de la machine sur laquelle le
+fichier a ete genere. Les valeurs possibles sont les memes que pour
+le fichier de geometrie.
+**Mots-cles associes :**
+FICHIER BINAIRE 1
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

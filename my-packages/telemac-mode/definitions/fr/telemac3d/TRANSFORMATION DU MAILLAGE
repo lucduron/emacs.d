@@ -1,0 +1,5 @@
+AIDE = 0:utilisateur (routine CALCOT a programmer)
+1:sigma  2:zstar 3:plans fixes 5: adaptatif
+ce mot-clef doit etre coherent avec condim.f
+
+DÉFAUT = 1

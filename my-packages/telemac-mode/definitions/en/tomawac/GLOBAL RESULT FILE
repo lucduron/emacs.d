@@ -1,0 +1,7 @@
+HELP = Name of the file in which the table F (density spectrum)
+is written at the end of the computation in order to realise a next
+computation.
+**Related keywords :**
+BINARY OF THE GLOBAL RESULT FILE
+
+DEFAULT = no value

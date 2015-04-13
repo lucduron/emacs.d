@@ -1,0 +1,14 @@
+AIDE = Type du binaire utilise pour l'ecriture du fichier
+de geometrie. Ce type depend de la machine sur laquelle le fichier
+a ete genere. Les valeurs possibles sont :
+- IBM; pour un fichier cree sur IBM;
+- I3E; pour un fichier cree sur HP;
+- STD; il s agit alors d'ordres READ et WRITE normaux.
+**Mots-cles associes :**
+FICHIER DE GEOMETRIE
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

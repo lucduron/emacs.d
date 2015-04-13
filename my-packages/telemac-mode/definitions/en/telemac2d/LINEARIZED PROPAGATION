@@ -1,0 +1,5 @@
+HELP = Provided for linearizing the propagation step, e.g. when
+performing test-cases for which an analytical solution in the linearized
+case is available.
+
+DEFAULT = NO

@@ -1,0 +1,4 @@
+AIDE = 'TRUE : CALCUL AUTOMATIQUE DE LA PHASE
+(basee sur une profondeur de reference)'
+
+DÉFAUT = NON

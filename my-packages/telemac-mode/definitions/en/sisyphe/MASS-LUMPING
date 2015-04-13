@@ -1,0 +1,6 @@
+HELP = If this key word is equal to yes, the mass matrix is then
+condensed on its diagonal.This technique is used to accelerate the
+computation and also to make it more stable.However, the solutions
+obtained are smoothed.
+
+DEFAULT = YES

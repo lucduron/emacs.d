@@ -1,0 +1,16 @@
+HELP = Selection of the model used to represent the diffraction :
+0 : Diffraction is not taken into account
+1 : Mild Slope Equation model (Berkhoff - 1972)
+2 : Revised Mild Slope Equation model (Porter - 2003)
+The phase-decoupled approach proposed by Holthuijsen (2003) is
+used to simulate diffraction in TOMAWAC
+**Related keywords :**
+STARTING TIME STEP FOR DIFFRACTION
+VARIANCE THRESHOLD FOR DIFFRACTION
+DIFFRACTION FILTER
+
+CHOICE = 0
+'1="Mild Slope Equation model (Berkhoff - 1972)"';
+'2="Revised Mild Slope Equation model (Porter - 2003)"
+
+DEFAULT = 0

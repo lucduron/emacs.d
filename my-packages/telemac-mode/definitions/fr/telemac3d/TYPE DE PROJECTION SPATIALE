@@ -1,0 +1,8 @@
+AIDE = Option 2 ou 3 obligatoire pour les coordonnees spheriques
+Option 3 : latitude et longitude en degres !
+
+DÉFAUT = 2
+
+CHOIX = 1
+'2="MERCATOR"';
+'3="LATITUDE LONGITUDE"

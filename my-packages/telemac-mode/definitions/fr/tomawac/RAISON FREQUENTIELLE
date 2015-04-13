@@ -1,0 +1,9 @@
+AIDE = Definit le rapport entre 2 frequences de discretisation
+successives. On obtient les autres frequences grace a la FREQUENCE
+MINIMALE f0 et le NOMBRE DE FREQUENCES NF par f=f0*r^(k-1) k=1,NF.
+**Mots-cles associes :**
+FREQUENCE MINIMALE
+NOMBRE DE FREQUENCES
+FACTEUR DE QUEUE DU SPECTRE
+
+DÉFAUT = 1.1

@@ -1,0 +1,4 @@
+HELP = Fixes the ripples coefficient used in the formulae of Van Rijn
+to calculate the friction factor.
+
+DEFAULT = 0.7

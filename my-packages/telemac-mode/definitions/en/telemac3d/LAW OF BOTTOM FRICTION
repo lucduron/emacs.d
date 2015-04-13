@@ -1,0 +1,17 @@
+HELP = Selects the type of formulation used for the bottom friction.
+The possible laws are as follows (refer to the Principle note):
+0: no friction against bottom,
+1: Haaland's formula
+2: CHEZY's formula
+3: STRICKLER's formula
+4: MANNING's formula
+5: NIKURADSE's formula
+
+CHOICE = 0
+'1="HAALAND"';
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"
+
+DEFAULT = 2

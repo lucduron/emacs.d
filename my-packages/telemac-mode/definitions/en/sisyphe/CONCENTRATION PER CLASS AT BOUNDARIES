@@ -1,0 +1,3 @@
+HELP = In case of suspension, will be used to initialize the value
+of volume concentration for each class and each boundary
+order: boundary 1 (class 1, class2, etc., then boundary 2, etc.

@@ -1,0 +1,4 @@
+HELP = Gives the number of planes from bottom to free surface. Must
+be at least 2
+
+DEFAULT = 2

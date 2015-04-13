@@ -1,16 +1,23 @@
-EMACS.D FROM LDN
+emacs.d from LDN
 ================
 
-Brief list of some usefull key bindings and commands
+Brief uncomplete list of some usefull key bindings and commands
 
 # Links
 * https://www.gnu.org/software/emacs/refcards/
 * http://www.emacswiki.org/emacs/EmacsNewbieKeyReference
 * http://ddloeffler.blogspot.fr/2013/04/keybindings-for-emacs-markdown-mode.html
 
+find-file-at-point
+
 # General
 *               list-packages                 List of packages
 * C-u 0         byte-recompile-directory      Byte-compile a directory
+
+# Packages
+M-x list-packages
+M-x install-packages
+ELPA = emacs lisp package archive
 
 # File
 * C-x C-w f                                   Save and change encoding
@@ -42,6 +49,7 @@ Brief list of some usefull key bindings and commands
 # Edit file/code
 * C-_                                      Undo
 * C-8                                      Redo (require redo)
+* M-;           fortran-comment-indent     Align comment or insert new comment
 
 ## Move in file
 * C-l           recenter-top-bottom
@@ -58,12 +66,10 @@ Brief list of some usefull key bindings and commands
 * C-x r y       yank-rectangle             Yank the last killed rectangle with its upper left corner at point
 
 ## Code source
-* M-;                                      Comment...
 * C-M-a         beginning-of-defun         Move to beginning of current or preceding defun
 * C-M-e         end-of-defun               Move to end of current or following defun
 
 ## Fortran Mode
-* M-;           fortran-comment-indent     Align comment or insert new comment
 * C-u C-c C-w   fortran-window-create      Split the current window horizontally with a column ruler
 * C-M-j         fortran-split-line         Break the current line at point and set up a continuation line
 * C-M-q         fortran-indent-subprogram  Indent all the lines of the subprogram point is in
@@ -74,3 +80,22 @@ Brief list of some usefull key bindings and commands
 * C-c C-k         csv-kill-fields
 * C-c C-y         csv-yank-fields
 * C-c C-t         csv-transpose          Interchanges rows and columns
+
+## telemac-mode
+* C-c d           telemac-open-dico
+* C-c h           telemac-keyword-popup-documentation
+* C-c l           telemac-toggle-lang
+* C-c m           telemac-set-module
+
+## package-menu-mode
+
+Enter Describe the package under cursor. (describe-package)
+i     mark for installation. (package-menu-mark-install)
+u     unmark. (package-menu-mark-unmark)
+d     mark for deletion (removal of a installed package). (package-menu-mark-delete)
+x     for “execute” (start install/uninstall of marked items). (package-menu-execute)
+r     refresh the _list_ from server. (package-menu-refresh)
+
+# Emacs Lisp
+C-h f describe-function
+C-h v describe-variable

@@ -1,0 +1,3 @@
+AIDE = Indique si on prend en compte la propagation
+
+DÉFAUT = .TRUE.

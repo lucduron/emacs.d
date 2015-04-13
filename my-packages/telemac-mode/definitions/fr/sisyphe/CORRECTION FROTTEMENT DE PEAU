@@ -1,0 +1,6 @@
+AIDE = prise en compte du frottement de peau (voir aussi KSPRATIO)
+0 : pas de correction (TAUP= TOB)
+1 : fond plat (KSP= KSPRATIO * D50)
+2 : prise en compte des rides
+
+DÉFAUT = 1

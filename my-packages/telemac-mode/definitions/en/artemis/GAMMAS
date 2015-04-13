@@ -1,0 +1,5 @@
+HELP = Fixes the coefficient Gammas used in the criterion of the critical
+breaking wave height. Do not confuse with coefficient Gamma
+used in the JONSAP spectrum.
+
+DEFAULT = 0.88

@@ -1,0 +1,3 @@
+HELP = Sets the value of the tracer diffusivity.
+
+DEFAULT = 1.E-6

@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur du coefficient d'implicitation sur les termes de
+diffusion des vitesses
+
+DÉFAUT = 1.

@@ -1,0 +1,5 @@
+AIDE = Valeur du coefficient de calage pour la fonction de vent
+dans le modele d echanges eau-atmosphere a bilan complet.
+Une valeur comprise entre 0.0017 et 0.0035 est conseillee
+
+DÉFAUT = 0.0025

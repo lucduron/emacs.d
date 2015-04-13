@@ -1,0 +1,21 @@
+AIDE = Choix de la frequence caracteristique du spectre de houle
+1 : Frequence Fmoy
+2 : Frequence F01 (definie par les moments d ordre 0 et 1 du spectre)
+3 : Frequence F02 (definie par les moments d ordre 0 et 2 du spectre)
+4 : Frequence Fpic (frequence d echantillonage correspondant au max)
+5 : Frequence Fread ordre 5 (frequence de pic methode Read ordre 5)
+6 : Frequence Fread ordre 8 (frequence de pic methode Read ordre 8)
+**Mots-cles associes :**
+DISSIPATION PAR DEFERLEMENT
+DEFERLEMENT 2 (TG) FONCTION DE PONDERATION
+DEFERLEMENT 2 (TG) CONSTANTE B
+DEFERLEMENT 2 (TG) CONSTANTE GAMMA
+
+DÉFAUT = 5
+
+CHOIX = 1
+'2="Frequence F01 (definie par les moments d ordre 0 et 1 du spectre)"';
+'3="Frequence F02 (definie par les moments d ordre 0 et 2 du spectre)"';
+'4="Frequence Fpic (frequence d echantillonage correspondant au max)"';
+'5="Frequence Fread ordre 5 (frequence de pic methode Read ordre 5)"';
+'6="Frequence Fread ordre 8 (frequence de pic methode Read ordre 8)"

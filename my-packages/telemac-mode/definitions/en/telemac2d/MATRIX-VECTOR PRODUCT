@@ -1,0 +1,4 @@
+HELP = 1 : classic    2 : frontal
+beware, with option 2, a special numbering of points is required
+
+DEFAULT = 1

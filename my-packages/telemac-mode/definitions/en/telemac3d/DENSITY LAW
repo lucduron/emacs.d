@@ -1,0 +1,4 @@
+HELP = 0 : nothing   1 : function of T   2 : function of salinity
+3 : function of temperature and salinity   4 : beta given
+
+DEFAULT = 0

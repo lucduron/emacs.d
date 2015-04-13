@@ -1,0 +1,9 @@
+AIDE = Coefficient de dissipation par moutonnement de l expression
+de van der Westhuysen (2007): Br (seuil de saturation).
+**Mots-cles associes :**
+DISSIPATION PAR MOUTONNEMENT
+COEFFICIENT DE DISSIPATION DE WESTHUYSEN
+DISSIPATION PAR MOUTONNEMENT DE WESTHUYSEN
+COEFFICIENT DE PONDERATION DE WESTHUYSEN
+
+DÉFAUT = 0.00175

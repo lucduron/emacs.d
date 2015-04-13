@@ -1,0 +1,7 @@
+AIDE = Definit si l'hydrodynamique a prendre en compte est
+permanente ou non. Si la valeur OUI est donnee a ce mot-cle,
+le dernier enregistrement du fichier du calcul precedent
+constituera le champ (h,u,v et eventuellement hauteur et periode
+de houle) a prendre en compte.
+
+DÉFAUT = NON

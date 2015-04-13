@@ -1,0 +1,3 @@
+AIDE = fixe la precision pour l equation de Poisson
+
+DÉFAUT = 1.E-4

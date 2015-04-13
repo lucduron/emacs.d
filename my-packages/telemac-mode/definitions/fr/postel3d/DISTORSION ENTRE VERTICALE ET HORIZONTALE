@@ -1,0 +1,4 @@
+AIDE = Rapport entre echelles verticale et horizontale pour chaque
+coupe verticale.
+
+DÉFAUT = 1.;1.;1.;1.;1.;1.;1.;1.;1.

@@ -1,0 +1,4 @@
+AIDE = 'Decoupe chaque element du mayage en quatre elements homothetiques
+en joignant les milieux des aretes.'
+
+DÉFAUT = NON

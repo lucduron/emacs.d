@@ -1,0 +1,6 @@
+AIDE = Nombre de seuils qui seront traites par des conditions aux
+limites. Ces seuils doivent etre decrits comme des frontieres du
+domaine de calcul, et leurs caracteristiques sont donnees dans le
+fichier de donnees des seuils (voir la documentation ecrite)
+
+DÉFAUT = 0

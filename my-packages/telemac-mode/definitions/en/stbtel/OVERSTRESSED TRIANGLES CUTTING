@@ -1,0 +1,7 @@
+HELP = 'An overstressed triangle is one whose three nodes are located along a
+boundary of the computational domain. The occurrence of such triangles
+may bring about instabilities in the computations made by TELEMAC 2D.
+Such problems can be prevented by this option, through the creation of
+a node at the geometric centres of the overstressed triangles.'
+
+DEFAULT = NO

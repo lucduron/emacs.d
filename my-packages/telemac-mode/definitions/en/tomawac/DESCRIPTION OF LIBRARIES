@@ -1,0 +1,7 @@
+HELP = TOMAWAC LIBRARIES description
+
+DEFAULT = builds|PPP|lib|tomawacMMMVVV.LLL';
+'builds|PPP|lib|biefMMMVVV.LLL';
+'builds|PPP|lib|damoMMMVVV.LLL';
+'builds|PPP|lib|parallelMMMVVV.LLL';
+'builds|PPP|lib|specialMMMVVV.LLL

@@ -1,0 +1,4 @@
+HELP = Algorithms used for solving the matrix system are iterative.
+It is then necessary to limit the maximum number of iterations
+
+DEFAULT = 60000

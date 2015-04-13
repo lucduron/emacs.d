@@ -1,0 +1,3 @@
+HELP = 'Activate the debug mode.'
+
+DEFAULT = NO

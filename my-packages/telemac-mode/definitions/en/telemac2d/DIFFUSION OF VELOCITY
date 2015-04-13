@@ -1,0 +1,4 @@
+HELP = Makes it possible to decide whether the diffusion of velocity
+(i.e. viscosity) is taken into account or not.
+
+DEFAULT = YES

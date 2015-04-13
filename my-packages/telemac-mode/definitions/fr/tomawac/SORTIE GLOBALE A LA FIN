@@ -1,0 +1,6 @@
+AIDE = Indique si on fait une sortie globale a la fin du calcul
+(pour une suite de calcul ulterieure).
+**Mots-cles associes :**
+FICHIER DES RESULTATS GLOBAUX
+
+DÉFAUT = .FALSE.

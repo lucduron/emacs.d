@@ -1,0 +1,3 @@
+HELP = 'Precize that the selafin file is in double precision'
+
+DEFAULT = NO

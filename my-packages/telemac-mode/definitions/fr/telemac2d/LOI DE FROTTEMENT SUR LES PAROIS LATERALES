@@ -1,0 +1,22 @@
+AIDE = selectionne le type de formulation utilisee pour le calcul
+du frottement sur les parois laterales.
+Les lois possibles sont les suivantes (cf. Note de principe) :
+0 : pas de frottement
+1 : lineaire
+2 : Chezy
+3 : Strickler
+4 : Manning
+5 : formule de NIKURADSE
+6 : loi en log
+7 : Colebrook-White
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="HAALAND"';
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"';
+'6="LOG LAW"';
+'7="COLEBROOK-WHITE"

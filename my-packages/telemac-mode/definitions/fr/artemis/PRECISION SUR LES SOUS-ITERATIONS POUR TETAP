@@ -1,0 +1,4 @@
+AIDE = Donne la precision requise pour les sous-iterations du calcul
+automatique de cos(TETAP).
+
+DÉFAUT = 1.E-2

@@ -1,0 +1,4 @@
+HELP = Formatted data file made available to the user.
+The data in this file shall be read on channel 27.
+
+DEFAULT = no value

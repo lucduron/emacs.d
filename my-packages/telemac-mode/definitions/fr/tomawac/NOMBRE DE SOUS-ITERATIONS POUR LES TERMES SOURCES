@@ -1,0 +1,8 @@
+AIDE = Nombre de sous-iterations pour le calcul des
+contributions des termes sources. Le pas de temps considere
+pour les termes sources est le rapport entre le PAS DE TEMPS
+et le NOMBRE DE SOUS-ITERATIONS POUR LES TERMES SOURCES.
+**Mots-cles associes :**
+PAS DE TEMPS
+
+DÉFAUT = 1

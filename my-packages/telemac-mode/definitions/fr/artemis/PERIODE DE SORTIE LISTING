@@ -1,0 +1,7 @@
+AIDE = Determine la periode, en nombre de periodes de houle,
+d'impression des VARIABLES A IMPRIMER (voir ce mot-cle). Pour la mise
+au point, il faut savoir que la sortie des resultats est effectuee
+systematiquement sur le fichier de retour d'execution du code
+(actuellement accessible par le menu 3.e de SPF sur IBM)
+
+DÉFAUT = 1

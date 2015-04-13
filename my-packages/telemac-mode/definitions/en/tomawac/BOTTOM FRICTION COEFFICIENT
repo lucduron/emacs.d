@@ -1,0 +1,6 @@
+HELP = Bottom friction coefficient.
+**Related keywords:**
+INFINITE DEPTH
+BOTTOM FRICTION-INDUCED DISSIPATION
+
+DEFAULT = 0.038

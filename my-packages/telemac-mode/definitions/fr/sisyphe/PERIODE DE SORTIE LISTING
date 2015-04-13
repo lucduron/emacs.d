@@ -1,0 +1,6 @@
+AIDE = Determine la periode en nombre de pas de temps d'impression
+des 'VARIABLES A IMPRIMER' (voir ce mot-cle).
+La sortie des resultats est effectuee sur le fichier listing
+(fichier cas_numerodeprocessus.sortie sur station de travail).
+
+DÉFAUT = 1

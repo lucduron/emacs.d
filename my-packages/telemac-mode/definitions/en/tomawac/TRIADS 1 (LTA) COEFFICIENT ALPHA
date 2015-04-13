@@ -1,0 +1,6 @@
+HELP = Coefficient alpha of the LTA model proposed by Eldeberky(1996).
+If alpha=0, no energy transfers. The energy transfers increase
+with alpha.
+**Related keywords :**
+TRIAD INTERACTIONS
+TRIADS 1 (LTA) COEFFICIENT RFMLTA

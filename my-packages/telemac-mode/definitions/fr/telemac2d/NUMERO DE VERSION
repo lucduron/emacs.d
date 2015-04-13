@@ -1,0 +1,6 @@
+AIDE = Numero de version des bibliotheques utilisees par TELEMAC.
+SUR UNE STATION DE TRAVAIL
+5 versions sont donnees correspondant a :
+TELEMAC,DAMO,UTILE,BIEF,HP
+
+DÉFAUT = V7P0

@@ -1,0 +1,8 @@
+HELP = Indicates the number of the time increment in the TELEMAC
+results file (currents file) corresponding to the desired time for data
+recovery.
+**Related keywords :**
+RANK OF THE TELEMAC DATA ITEM TO BE RECOVERED
+RECOVERY OF TELEMAC DATA ITEM
+
+DEFAULT = 1

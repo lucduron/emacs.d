@@ -1,0 +1,5 @@
+HELP = In case of suspension, will be used to initialize the value
+of volume concentration for each class. Will not be used if
+EQUILIBRIUM INFLOW CONCENTRATION=YES
+
+DEFAULT = 0.;0.;0.;0.;0.;0.;0.;0.;0.;0.

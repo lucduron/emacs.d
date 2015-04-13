@@ -1,0 +1,4 @@
+HELP = 'Designed for dimensioning the array that is used for reading, in the
+BOTTOM TOPOGRAPHY FILES, the points recorded at the digitizing tablet.'
+
+DEFAULT = 20000

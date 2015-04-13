@@ -1,0 +1,5 @@
+HELP = Name of the possible file containing the bathymetric data.
+Where this keyword is used, these bathymetric data shall be used in
+the computation.
+
+DEFAULT = no value

@@ -1,0 +1,4 @@
+HELP = Yes, if one wants to use a spectrum from TOMAWAC on the incident
+boundary.
+
+DEFAULT = NON

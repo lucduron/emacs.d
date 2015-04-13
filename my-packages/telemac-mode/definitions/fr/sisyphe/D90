@@ -1,0 +1,5 @@
+AIDE = Sets value of diameter d90 for particular size class.
+Si le mot cle n est pas entre, la valeur par defaut est
+celle du diametre moyen des grains
+
+DÉFAUT = .01;.01;.01;.01;.01;.01;.01;.01;.01;.01

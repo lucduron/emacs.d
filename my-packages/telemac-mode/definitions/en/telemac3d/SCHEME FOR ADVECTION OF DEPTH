@@ -1,0 +1,6 @@
+HELP = Now 5 is mandatory
+
+CHOICE = '5
+CONTROLE = 5 ; 5
+
+DEFAULT = 5

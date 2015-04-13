@@ -1,0 +1,4 @@
+AIDE = Seuls les enregistrements au-dela de ce numero seront traites
+pour les coupes.
+
+DÉFAUT = 1

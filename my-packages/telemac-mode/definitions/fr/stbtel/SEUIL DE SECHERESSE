@@ -1,0 +1,4 @@
+AIDE = 'Fixe la valeur du seuil (en metre) de hauteur d'eau en dessous
+duquel un noeud est considere comme sec.'
+
+DÉFAUT = 0.1

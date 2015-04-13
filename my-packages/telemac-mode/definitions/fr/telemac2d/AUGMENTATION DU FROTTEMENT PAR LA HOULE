@@ -1,0 +1,5 @@
+AIDE = Active la prise en compte des interactions non-lineaires entre la houle
+et les courant pour le calcul du courant de houle
+(cf OConnor and Yoo, 1988, Coast Eng.12.)
+
+DÉFAUT = NON

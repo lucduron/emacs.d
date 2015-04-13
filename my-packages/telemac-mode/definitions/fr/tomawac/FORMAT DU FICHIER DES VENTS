@@ -1,0 +1,12 @@
+AIDE = Choix du type de format du fichier des vents :
+3 = selafin du type TELEMAC
+4 = format utilisateur (Modifier alors  la procedure venuti.f)
+**Mots-cles associes :**
+FICHIER DES VENTS BINAIRE
+FICHIER DES VENTS FORMATE
+BINAIRE DU FICHIER DES VENTS
+
+DÉFAUT = 1
+
+CHOIX = 3
+'4="Format utilisateur (venuti.f)"

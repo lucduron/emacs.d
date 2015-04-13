@@ -1,0 +1,10 @@
+AIDE = Specifie le format du fichier de sortie
+
+DÉFAUT = SELAFIN
+
+CHOIX = SELAFIN';
+'MED';
+'UNV';
+'CGNS';
+'VTK';
+'CGNS

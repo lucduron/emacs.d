@@ -1,0 +1,7 @@
+AIDE = Fait partie de l ensemble des constantes utilisees dans
+l initialisation du spectre directionnel en fonction du champ
+de vent initial.
+**Mots-cles associes :**
+INITIALISATION DU SPECTRE DIRECTIONNEL
+
+DÉFAUT = 3.3

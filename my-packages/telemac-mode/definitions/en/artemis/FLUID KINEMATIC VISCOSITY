@@ -1,0 +1,3 @@
+HELP = Kinematic viscosity of the fluid (water) in m2/s.
+
+DEFAULT = 1.0E-6

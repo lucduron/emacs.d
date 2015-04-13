@@ -1,0 +1,14 @@
+HELP = Type of the binary used for writing the currents file. That
+type depends on the machine in which the file was generated. The
+possible values are as follows :
+- IBM; for a file created in an IBM machine;
+- I3E; for a file created in a HP machine;
+- STD; normal READ and WRITE instructions are then generated.
+**Related keyword :**
+CONSIDERATION OF TIDE
+BINARY TIDAL WATER LEVEL FILE
+FORMATTED TIDAL WATER LEVEL FILE
+TIDAL WATER LEVEL FILE FORMAT
+TIDE REFRESHING PERIOD
+
+DEFAULT = STD

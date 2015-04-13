@@ -1,0 +1,9 @@
+HELP = Monitors the choice of the diffusion scheme
+for tracers
+
+CHOICE = '0
+'1="IMPLICIT"';
+'2 ="VERTICAL DIFFUSION ONLY"'
+CONTROLE = 0 ; 1
+
+DEFAULT = 1

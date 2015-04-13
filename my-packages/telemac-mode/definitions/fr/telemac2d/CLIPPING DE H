@@ -1,0 +1,4 @@
+AIDE = Determine si l'on desire ou non limiter par valeur inferieure
+la hauteur d'eau H (dans le cas des bancs decouvrants par exemple).
+
+DÉFAUT = NON

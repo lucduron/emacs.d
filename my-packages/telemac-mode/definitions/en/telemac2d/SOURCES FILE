@@ -1,0 +1,4 @@
+HELP = Name of the file containing time-dependent
+information on sources
+
+DEFAULT = no value

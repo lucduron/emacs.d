@@ -1,0 +1,4 @@
+HELP = Name of the file into which the 2D results of the computation
+are written with a period given by the keyword GRAPHIC PRINTOUT PERIOD.
+
+DEFAULT = no value

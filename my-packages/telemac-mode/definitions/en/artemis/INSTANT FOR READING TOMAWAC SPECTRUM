@@ -1,0 +1,4 @@
+HELP = Give the instant of the TOMAWAC computation at which we
+want to import the spectrum for ARTEMIS
+
+DEFAULT = 0.

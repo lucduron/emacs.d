@@ -1,0 +1,4 @@
+HELP = Below this limiting depth, all sediment erosion rates are set to zero.
+See subroutine FLUSED
+
+DEFAULT = 0.2

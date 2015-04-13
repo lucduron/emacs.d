@@ -1,0 +1,6 @@
+AIDE = Nom du fichier servant a valider le calcul.
+Si VALIDATION = OUI, les resultats du calcul vont etre
+comparees aux valeurs contenues dans ce fichier.
+La comparaison est effectuee par le sous-programme VALIDA.
+
+DÉFAUT = aucun

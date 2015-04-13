@@ -1,0 +1,7 @@
+HELP = Type of the binary used for writing the binary file1. This
+type depends on the machine in which the file was generated. The
+possible values are the same as for the geometry file.
+**Related keyword :**
+BINARY FILE 1
+
+DEFAULT = STD

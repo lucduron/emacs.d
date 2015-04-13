@@ -1,0 +1,4 @@
+AIDE = valeur par defaut du manning pour la loi de frottement de
+Colebrook-White (loi numero 7)
+
+DÉFAUT = 0.02

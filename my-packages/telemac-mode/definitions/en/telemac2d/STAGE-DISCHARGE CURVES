@@ -1,0 +1,4 @@
+HELP = Says if a discharge-elevation curve must be used
+for a given boundary :NO 1:Z(Q) 2: Q(Z) (2 not programmed)
+
+CHOICE = '0

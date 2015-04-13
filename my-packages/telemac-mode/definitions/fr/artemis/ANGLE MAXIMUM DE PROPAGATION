@@ -1,0 +1,8 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+indique la borne superieure de l'intervalle des directions de
+propagation dans le cas d'une houle aleatoire multidirectionnelle
+L'angle est donne en degres et est compte positivement dans le sens
+direct a partir de l'axe x.
+
+DÉFAUT = 180.

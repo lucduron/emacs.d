@@ -1,0 +1,11 @@
+AIDE = Indique si on recupere des donnees TELEMAC dans LECDON.f
+Si oui il faut veiller a utiliser un FICHIER DES COURANTS au bon format
+et donner le rang de la variable en question dans le fichier TELEMAC.
+**Mots-cles associes :**
+FICHIER DES COURANTS BINAIRE
+FICHIER DES COURANTS FORMATE
+FORMAT DU FICHIER DES COURANTS
+RANG DE LA DONNEE TELEMAC A RECUPERER
+NUMERO DU PAS DE TEMPS DU FICHIER TELEMAC
+
+DÉFAUT = .FALSE.

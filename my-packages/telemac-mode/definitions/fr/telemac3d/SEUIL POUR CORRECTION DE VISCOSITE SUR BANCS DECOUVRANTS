@@ -1,0 +1,4 @@
+AIDE = Pour les profondeurs inferieures, la viscosite sera
+progressivement reduite. Voir le sous-programme VISCLIP
+
+DÉFAUT = 0.2

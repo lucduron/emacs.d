@@ -1,0 +1,11 @@
+AIDE = Indique si on prend en compte l'influence de la maree,
+c'est-a-dire, prise en compte d'un niveau d'eau et de courants
+instationnaires.
+**Mots-cles associes :**
+FICHIER DU NIVEAU DE LA MAREE FORMATE
+FICHIER DU NIVEAU DE LA MAREE BINAIRE
+FORMAT DU FICHIER DU NIVEAU DE LA MAREE
+PERIODE D ACTUALISATION DE LA MAREE
+BINAIRE DU FICHIER DU NIVEAU DE LA MAREE
+
+DÉFAUT = .FALSE.

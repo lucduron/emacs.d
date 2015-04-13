@@ -1,0 +1,7 @@
+AIDE = Si oui, on effectue du mass-lumping sur la cote du fond.
+Ceci revient a ramener toute la matrice de masse sur sa
+diagonale lors de la resolution du systeme. Cette technique permet
+d'accelerer le code et de le rendre egalement plus stable. Cependant,
+les solutions obtenues se trouvent lissees.
+
+DÉFAUT = OUI

@@ -1,0 +1,8 @@
+HELP = Not used in version 3.0 .
+This coefficient is a real between 0 and 2.
+It is a relaxation coefficient used in the solving method proposed
+by Panchang et al.
+See  Solution of the Mild Slope Wave Problem by Iteration
+Applied Ocean Research, 1991, Vol. 13, No. 4.
+
+DEFAULT = 1.4

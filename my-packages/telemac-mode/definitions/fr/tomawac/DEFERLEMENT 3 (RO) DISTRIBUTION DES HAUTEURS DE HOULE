@@ -1,0 +1,16 @@
+AIDE = Choix de la distribution des hauteurs de houle pour le
+modele de deferlement de Roelvink :
+1...Weibull,
+2...Rayleigh.
+**Mots-cles associes :**
+DISSIPATION PAR DEFERLEMENT
+DEFERLEMENT 3 (RO) EXPOSANT FONCTION DE PONDERATION
+DEFERLEMENT 3 (RO) CHOIX FREQUENCE CARACTERISTIQUE
+DEFERLEMENT 3 (RO) CONSTANTE ALPHA
+DEFERLEMENT 3 (RO) CONSTANTE GAMMA
+DEFERLEMENT 3 (RO) CONSTANTE GAMMA2
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="Rayleigh"

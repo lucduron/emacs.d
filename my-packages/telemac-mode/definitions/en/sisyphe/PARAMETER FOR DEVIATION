@@ -1,0 +1,3 @@
+HELP = Parameter pour la deviation pour la formule de Talmon et al.
+
+DEFAULT = 0.85

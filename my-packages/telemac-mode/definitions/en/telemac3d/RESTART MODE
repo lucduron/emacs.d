@@ -1,0 +1,5 @@
+HELP = Triggers the filling of the RESTART FILE,
+which ensures a perfect restart of a computation,
+unlike using the 3D RESULT FILE
+
+DEFAULT = NO

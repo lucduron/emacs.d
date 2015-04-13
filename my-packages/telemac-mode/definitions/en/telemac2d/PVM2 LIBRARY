@@ -1,0 +1,6 @@
+HELP = Utilise par la procedure de lancement sur station de travail
+
+CHOICE = " "
+'"$PVM_ROOT/lib/$PVM_ARCH/libgpvm3.a"="PVM2 library"
+
+DEFAULT = no value

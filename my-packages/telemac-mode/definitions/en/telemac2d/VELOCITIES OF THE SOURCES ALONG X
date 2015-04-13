@@ -1,0 +1,2 @@
+HELP = Velocities at the sources. If they are not given, the velocity
+of the flow at this location is taken

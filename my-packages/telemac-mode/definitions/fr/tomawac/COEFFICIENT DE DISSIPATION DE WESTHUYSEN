@@ -1,0 +1,9 @@
+AIDE = Coefficient de dissipation par moutonnement de l expression
+de van der Westhuysen (2007): Cdis,break.
+**Mots-cles associes :**
+DISSIPATION PAR MOUTONNEMENT
+SEUIL DE SATURATION POUR LA DISSIPATION
+DISSIPATION PAR MOUTONNEMENT DE WESTHUYSEN
+COEFFICIENT DE PONDERATION DE WESTHUYSEN
+
+DÉFAUT = 0.00005

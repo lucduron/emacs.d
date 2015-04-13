@@ -1,0 +1,7 @@
+HELP = The bed roughness is predicted according to the selected
+BED ROUGHNESS PREDICTOR OPTION. In case of coupling with Telemac2d,
+the calculated bed roughness is sent to Telemac.
+The FRICTION COEFFICIENT and FRICTION LAW are no longer
+used (KFROT is set to 5)
+
+DEFAULT = NO

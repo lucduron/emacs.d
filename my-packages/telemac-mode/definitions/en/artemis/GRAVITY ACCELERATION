@@ -1,0 +1,3 @@
+HELP = Fixes the gravity acceleration value.
+
+DEFAULT = 9.81

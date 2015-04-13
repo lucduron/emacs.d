@@ -1,0 +1,2 @@
+AIDE = Nombres reels donnant les abscisses d eventuelles sources de debit (en metres).
+La source sera placee au noeud du maillage le plus proche

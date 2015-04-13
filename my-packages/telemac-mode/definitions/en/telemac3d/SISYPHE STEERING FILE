@@ -1,0 +1,3 @@
+HELP = SISYPHE parameter file in cas of internal coupling.
+
+DEFAULT = no value

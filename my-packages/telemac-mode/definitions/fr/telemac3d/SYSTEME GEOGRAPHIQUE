@@ -1,0 +1,13 @@
+AIDE = Systeme de coordonnees geographiques dans lequel est construit
+le modele numerique.
+Indiquer la zone correspondante avec le mot-cle
+
+DÉFAUT = -1
+
+CHOIX = '-1="PAS DE VALEUR PAR DEFAUT. CHOISIR LE SYSTEME PARMI LES CHOIX POSSIBLES"';
+'0="DEFINI PAR L'UTILISATEUR"';
+'1="WGS84 LONGITUDE/LATITUDE EN DEGRES REELS"';
+'2="WGS84 NORD UTM"';
+'3="WGS84 SUD UTM"';
+'4="LAMBERT"';
+'5="MERCATOR PROJECTION"'

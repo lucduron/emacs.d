@@ -1,0 +1,4 @@
+HELP = Fixes the coefficient K used in the formulation of the dissipation
+coefficient proposed by Dally et al. 1984.
+
+DEFAULT = 0.1

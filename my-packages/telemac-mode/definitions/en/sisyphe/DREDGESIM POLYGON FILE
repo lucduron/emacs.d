@@ -1,0 +1,3 @@
+HELP = Name of the DredgeSim polygon file
+
+DEFAULT = no value

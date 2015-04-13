@@ -1,0 +1,2 @@
+HELP = Name of the boundary conditions file. It is automatically built
+by STBTEL or by the mesh generator MATISSE.

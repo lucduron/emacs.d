@@ -1,0 +1,5 @@
+AIDE = Permet de lineariser l'etape de propagation,
+par exemple lors de la realisation de cas tests pour lesquels on dispose
+d'une solution analytique dans le cas linearise.
+
+DÉFAUT = NON

@@ -1,0 +1,6 @@
+HELP = 0
+3 = Rouse (normalized)
+
+CHOICE = 0
+'2="Constant or Rouse if sediment"';
+'3= "Normalized Rouse profile and imposed conc"

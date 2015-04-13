@@ -1,0 +1,14 @@
+AIDE = Determine si le calcul en cours est independant de tout autre
+resultat ou est une reprise effectuee a partir du resultat d'un calcul
+precedent.
+NON : Il s'agit du premier passage pour ce calcul et il est necessaire
+de definir un jeu complet de conditions initiales
+OUI : Il s'agit d'une reprise de calcul :
+les conditions initiales sont constituees par le dernier pas de
+temps du 'FICHIER PRECEDENT SEDIMENTOLOGIQUE' du fichier des parametres
+utilise pour soumettre le calcul.
+Par contre, l'ensemble des donnees du fichier des parametres
+peuvent etre redefinies
+De meme, il est necessaire de definir des conditions aux limites
+
+DÉFAUT = NON

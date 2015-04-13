@@ -1,0 +1,7 @@
+HELP = Specifies the moment when the SISYPHE extrapolation current
+filed is no more valid. This value set the maximum ratio between
+evolutions and the water depth.
+Generally, it is considered that an evolution lower than 0,1 time the
+water depth does not perceptibly modify the current field distribution.
+
+DEFAULT = 1.

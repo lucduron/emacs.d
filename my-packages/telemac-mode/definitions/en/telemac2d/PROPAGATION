@@ -1,0 +1,5 @@
+HELP = Determines whether the propagation step is taken into account
+or not.
+The diffusion being included in that step will be deleted as well.
+
+DEFAULT = YES

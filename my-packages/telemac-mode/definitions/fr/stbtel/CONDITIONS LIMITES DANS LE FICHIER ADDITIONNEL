@@ -1,0 +1,4 @@
+AIDE = 'Permet de relire les conditions limites dans le fichier
+additionnel (Fasttabs).'
+
+DÉFAUT = NON

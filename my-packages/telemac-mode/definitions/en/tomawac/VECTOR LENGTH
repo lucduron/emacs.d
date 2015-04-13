@@ -1,0 +1,4 @@
+HELP = Indicates the vector length of the vectorial machine
+being used.
+
+DEFAULT = 1

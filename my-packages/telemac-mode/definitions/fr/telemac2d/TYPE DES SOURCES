@@ -1,0 +1,6 @@
+AIDE = 1: Source portee par une base elements finis
+2: Source portee  par une fonction de Dirac
+
+DÉFAUT = 1
+
+CHOIX = '1

@@ -1,0 +1,4 @@
+HELP = Fixes the period, in number of wave periods, for the writing
+of the VARIABLES TO BE PRINTED (see this key-word)
+
+DEFAULT = 1

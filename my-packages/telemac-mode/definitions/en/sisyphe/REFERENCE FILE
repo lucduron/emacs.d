@@ -1,0 +1,6 @@
+HELP = Name of the file used to validate the computation.
+If VALIDATION = YES, the results of the computation will be
+compared with the values of this file. The comparison is
+made by the subroutine VALIDA.
+
+DEFAULT = no value

@@ -1,0 +1,5 @@
+AIDE = Prise en compte de breches dans le calcul par
+modification altimetrique dans le maillage. La description
+des breches se fait avec le fichier de donnees des breches.
+
+DÉFAUT = NON

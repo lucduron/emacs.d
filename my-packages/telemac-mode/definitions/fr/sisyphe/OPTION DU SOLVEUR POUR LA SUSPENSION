@@ -1,0 +1,5 @@
+AIDE = Parametre supplementaire disponible pour le solveur.
+Dans le cas du solveur gmres, il s'agit de la dimension
+de l'espace de Krylov.
+
+DÉFAUT = 2

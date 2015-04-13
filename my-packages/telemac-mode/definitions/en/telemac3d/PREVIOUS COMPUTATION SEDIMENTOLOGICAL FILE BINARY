@@ -1,0 +1,9 @@
+HELP = Binary file type used for writing the sedimentological file.
+This type depends on the machine on which the file was generated.
+The possible values are the same as for the geometry file.
+
+CHOICE = STD';
+'IBM';
+'I3E
+
+DEFAULT = STD

@@ -1,0 +1,6 @@
+HELP = List of parameter to be estimated, choice : FRICTION
+or FRICTION, STEADY
+
+CHOICE = "FRICTION"';'"FROTTEMENT, STEADY"
+
+DEFAULT = no value

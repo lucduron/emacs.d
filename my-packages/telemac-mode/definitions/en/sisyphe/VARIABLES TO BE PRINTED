@@ -1,0 +1,37 @@
+HELP = Names of variables the user wants to write on the listing.
+Each variable is represented by a letter in the same manner as
+it is done in the graphic results file.
+
+CHOICE = U
+'V="velocity along y axis (m/s)"';
+'C="wawe celerity (m/s)"';
+'H="water depth (m)"';
+'S="free surface elevation (m)"';
+'B="bottom elevation (m)"';
+'F="Froude number"';
+'Q="scalar flowrate of fluid (m2/s)"';
+'I="flowrate along x axis (m2/s)"';
+'J="flowrate along y axis (m2/s)"';
+'M="bed-load discharge (m2/s)"';
+'N="bed-load discharge along x axis (m2/s)"';
+'P="bed-load discharge along y axis (m2/s)"';
+'E="bottom evolution (m)"';
+'R="non erodable bottom"';
+'KS="bed friction coefficient (m if Nikuradse)"';
+'TOB="mean bottom friction (N/m2)"';
+'THETAW="wave angle with axis Oy (deg)"';
+'W="wave height"';
+'X="wave period"';
+'1Ai="fraction of sediment of class i in the first layer"';
+'2Ai="fraction of sediment of class i in the second layer"';
+'QSi="bed load transport rate of sediment of class i"';
+'*ES = "thicknes of bed layer i"';
+'*CONC= "concentration of bed layer i "';
+'CSi="concentration for class i"';
+'CSAT="saturated concentration (kg/m3)"';
+'A="supplementary variable A"';
+'G="supplementary variable G"';
+'L="supplementary variable L"';
+'O="supplementary variable O"
+
+DEFAULT = no value

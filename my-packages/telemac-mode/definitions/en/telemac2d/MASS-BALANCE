@@ -1,0 +1,10 @@
+HELP = Determines whether a check of the mass-balance over
+the domain is mader or not.
+This procedures computes the following at each time step:
+the domain inflows and outflows,
+the overall flow across all the boundaries,
+the relative error in the mass for that time step.
+The relative error in the mass over the whole computation can be found
+at the end of the listing.
+
+DEFAULT = NO

@@ -1,0 +1,3 @@
+AIDE = Fixe le taux de mass-lumping effectue sur le traceur.
+
+DÉFAUT = 0.

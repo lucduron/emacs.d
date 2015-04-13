@@ -1,0 +1,4 @@
+HELP = Geometry file of the model from which harmonic constituents
+are extracted
+
+DEFAULT = no value

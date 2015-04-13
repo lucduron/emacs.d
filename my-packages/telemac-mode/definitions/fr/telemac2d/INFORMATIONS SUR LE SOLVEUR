@@ -1,0 +1,4 @@
+AIDE = Donne a chaque pas de temps le nombre d'iterations necessaires
+a la convergence du solveur de l'etape de propagation.
+
+DÉFAUT = OUI

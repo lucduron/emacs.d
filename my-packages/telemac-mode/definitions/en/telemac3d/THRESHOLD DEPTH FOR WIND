@@ -1,0 +1,4 @@
+HELP = Wind is not taken into account for depths smaller
+than this value.
+
+DEFAULT = 1.

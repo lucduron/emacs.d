@@ -1,0 +1,3 @@
+HELP = To be applied to the mass matrix
+
+DEFAULT = 0.

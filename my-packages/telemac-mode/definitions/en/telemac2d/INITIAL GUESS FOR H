@@ -1,0 +1,14 @@
+HELP = Initial guess for the solver in the propagation step.
+Makes it possible to modify the initial value of C, upon each
+iteration in the propagation step, by using the ultimate values this
+variable had in the earlier time steps. Thus, the convergence can be
+speeded up when the system is being solved. 3 options are available:
+0: DH = 0
+1: DH = DHn (ultimate DH value in the next previous time step)
+2: DH = 2DHn - DHn-1 (extrapolation)
+
+CHOICE = 1
+'0=zero';
+'2=extrapolation
+
+DEFAULT = 1

@@ -1,0 +1,7 @@
+AIDE = 1 : formule de Koch et Flokstra, modifie le transport solide
+mot cle associe : BETA
+2 : formule de Soulsby, modifie la contrainte seuil, ne peut
+donc etre utilisee que avec une formule a seuil.
+mot cle associe : ANGLE DE REPOS DU SEDIMENT
+
+DÉFAUT = 1

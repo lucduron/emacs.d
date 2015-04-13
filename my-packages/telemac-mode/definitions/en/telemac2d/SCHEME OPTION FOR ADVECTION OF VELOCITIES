@@ -1,0 +1,7 @@
+HELP = If present replaces and has priority over:
+OPTION FOR CHARACTERISTICS
+SUPG OPTION
+IF PSI SCHEME: 1=explicit 2=predictor-corrector
+for velocities
+
+DEFAULT = 1

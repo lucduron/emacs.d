@@ -1,0 +1,6 @@
+AIDE = Indique si on prend en compte un vent, dans un fichier ou dans
+cdicow.f.
+**Mots-cles associes :**
+FICHIER DES VENTS
+
+DÉFAUT = .FALSE.

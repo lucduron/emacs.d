@@ -1,0 +1,6 @@
+AIDE = Logique indiquant si les directions de propagation
+de la houle sont definies dans le sens trigonometrique a
+partir de l axe des x positifs, ou definies dans le sens
+des aiguilles d une montre a partir du nord geographique
+
+DÉFAUT = .FALSE.

@@ -1,0 +1,15 @@
+AIDE = Option pour les conditions aux limites de maree.
+Pour des marees reelles, l option 1 est recommandee.
+Calage possible par les mots-cles COEFFICIENT POUR CALAGE EN MARNAGE
+et COEFFICIENT POUR CALAGE EN NIVEAU.
+
+DÉFAUT = 0
+
+CHOIX = '0="Pas de maree"';
+'1="Maree reelle (methodologie recommandee)"';
+'2="Maree de vive-eau exceptionnelle (coef. presque 120)"';
+'3="Maree de vive-eau moyenne (coef. presque 95)"';
+'4="Maree moyenne (coef. presque 70)"';
+'5="Maree de morte-eau moyenne (coef. presque 45)"';
+'6="Maree de morte-eau exceptionnelle (coef. presque 20)"';
+'7="Maree reelle (methodologie d avant 2010)"'

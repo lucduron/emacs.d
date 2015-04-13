@@ -1,0 +1,9 @@
+AIDE = Utilise si le mot-cle REGIME HYDRAULIQUE IMPOSE = OUI.
+Determine le regime hydraulique
+
+DÉFAUT = 1
+
+CHOIX = ' 1 = " 1: Pour le regime laminaire"';
+' 2 = " 2: Pour le regime turbulent lisse"';
+' 3 = " 3: Pour le regime turbulent rugueux"';
+' 4 = " 4: Pour le regime transitoire"'

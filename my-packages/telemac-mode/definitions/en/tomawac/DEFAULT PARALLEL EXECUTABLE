@@ -1,0 +1,3 @@
+HELP = Default parallel executable for Tomawac
+
+DEFAULT = builds|PPP|bin|tomawacMMMVVV.exe

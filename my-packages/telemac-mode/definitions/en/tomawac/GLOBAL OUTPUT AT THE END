@@ -1,0 +1,6 @@
+HELP = Indicates whether a global output is made at the end
+of this computation (for a next computation).
+**Related keywords :**
+GLOBAL RESULTS FILE
+
+DEFAULT = .FALSE.

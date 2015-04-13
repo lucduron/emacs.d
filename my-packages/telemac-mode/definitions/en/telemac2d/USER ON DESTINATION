@@ -1,0 +1,4 @@
+HELP = User's name of USER at the workstation onto which the
+results file shall desirebly be rerouted.
+
+DEFAULT = JMH

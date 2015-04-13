@@ -1,0 +1,7 @@
+AIDE = Prise en compte ou non de la diffusion de k et epsilon
+avec option sur le schema.
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1="IMPLICITE"

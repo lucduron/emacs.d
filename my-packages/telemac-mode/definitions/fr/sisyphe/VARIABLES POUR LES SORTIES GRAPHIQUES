@@ -1,0 +1,45 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans
+le fichier des resultats.
+Chaque variable est representee par une lettre.
+Le choix des separateurs est libre. Voir CHOIX ci-dessus.
+On peut utiliser *, *A* signifie : toutes les fractions
+
+DÉFAUT = U,V,H,S,B,E
+
+CHOIX = U
+'V="vitesse suivant l'axe des y (m/s)"';
+'C="celerite"';
+'H="hauteur d'eau (m)"';
+'S="cote de la surface libre (m)"';
+'B="cote du fond (m)"';
+'F="nombre de Froude"';
+'Q="debit"';
+'I="composante du debit selon l'axe des x"';
+'J="composante du debit selon l'axe des y"';
+'M="debit solide"';
+'N="composante du debit solide selon l'axe des x"';
+'P="composante du debit solide selon l'axe des y"';
+'E="evolution du fond"';
+'R="fonds non erodables"';
+'W="hauteur de houle"';
+'X="periode de houle"';
+'UWB="wave orbital velocity (m/s)"';
+'KS="coefficient de Rugosité totale (m)"';
+'TOB="Contrainte de frottement(N/m2)"';
+'MU = "Coefficient de correction pour frottement de peau"';
+'D50 = "Diametre moyen du sediment"';
+'THETAW="angle entre la houle et l'axe Oy (deg)"';
+'QSSUSP="taux de transport en suspension"';
+'QSBL="taux de transport par charriage"';
+'1Ai="fraction de sediment de la classe i dans la premiere couche"';
+'2Ai="fraction de sediment de la classe i dans la deuxieme couche"';
+'kAi="fraction of sediment of class i in the k layer"';
+'kES="thickness of the k layer"';
+'kCONC="concentration of bed layer k"';
+'QSi="debit solide pour la classe i"';
+'CSi="concentration volumique ou g/l pour la classe i"';
+'CSAT="concentration volumique equil. ou g/l"';
+'A="variable supplementaire A"';
+'G="variable supplementaire G"';
+'L="variable supplementaire L"';
+'O="variable supplementaire O"

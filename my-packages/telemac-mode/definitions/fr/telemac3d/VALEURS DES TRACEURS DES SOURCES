@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur des traceurs aux sources
+toutes les sources pour le premier traceur
+puis toutes les sources du deuxieme traceur, etc.
+(cf. manuel de reference).

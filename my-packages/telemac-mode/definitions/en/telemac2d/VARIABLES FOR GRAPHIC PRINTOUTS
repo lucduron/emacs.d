@@ -1,0 +1,81 @@
+HELP = Names of variables the user wants to write into the results
+file. Each variable is represented by a letter. The separators can be
+freely selected.
+The available capabilities are as follows:
+U     :   velocity along x axis (m/s),
+V     :   velocity along y axis (m/s),
+C     :   wave celerity (m/s),
+H     :   water depth (m),
+S     :   free surface elevation (m),
+B     :   bottom elevation (m),
+F     :   Froude number,
+Q     :   scalar flowrate of fluid (m2/s),
+T     :   tracer
+K     :   turbulent kinetic energy in k-epsilon model (J/kg),
+E     :   dissipation of turbulent energy (W/kg),
+D     :   turbulent viscosity of k-epsilon model (m2/s),
+I     :   flowrate along x axis (m2/s),
+J     :   flowrate along y axis (m2/s),
+M     :   scalar velocity (m/s),
+X     :   wind along x axis (m/s)
+Y     :   wind along y axis (m/s),
+P     :   air pressure (Pa),
+W     :   friction coefficient ,
+A     :   drift along x,
+G     :   drift along y,
+L     :   nombre de courant.
+four other variables are also made available to the user who may use
+them for writing into the file the results of variables he creates
+himself. These user-specific variables should be computed in the
+subroutine PRERES and their desired name should be written
+into the subroutine NOMVAR.
+These seven variables are as follows:
+-N, O, R, Z which correspond to arrays PRIVE(1,1) up to PRIVE(1,
+Unlike the preceding variables, they are preserved throughout the
+program, so that they can be used again.
+In the latter case, do not forget to provide the array PRIVE with
+sufficiently large dimensions (in FORTRAN file).
+With this key-word, one can limit the size of the RESULTS FILE.
+It should be kept in mind, however, that if a computation has to be
+continued, the RESULTS FILE should contain the appropriate information
+for running the code,i.e.:
+- velocities U and V,
+- water depths H,
+- bottom elevations B.
+TELEMAC, however, can compute some of these variables from others
+for example, it will compute H from S and B.
+
+CHOICE = U
+'V="velocity along y axis  (m/s)"';
+'C="wave celerity  (m/s)"';
+'H="water depth  (m)"';
+'S="free surface elevation  (m)"';
+'B="bottom elevation  (m)"';
+'F="Froude number  "';
+'Q="scalar flowrate of fluid  (m2/s)"';
+'T1="tracer 1 etc. "';
+'K="turbulent kinetic energy in k-epsilon model  (J/kg)"';
+'E="dissipation of turbulent energy  (W/kg)"';
+'D="turbulent viscosity of k-epsilon model  (m2/s)"';
+'I="flowrate along x axis  (m2/s)"';
+'J="flowrate along y axis  (m2/s)"';
+'M="scalar velocity  (m/s)"';
+'X="wind along x axis  (m/s)"';
+'Y="wind along y axis  (m/s)"';
+'P="air pressure  (Pa)"';
+'W="friction coefficient"';
+'A="drift along x  (m)"';
+'G="drift along y  (m)"';
+'L="Courant number "';
+'N="supplementary variable N "';
+'O="supplementary variable O "';
+'R="supplementary variable R "';
+'Z="supplementary variable Z  "';
+'MAXZ="maximum elevation"';
+'TMXZ="time of maximum elevation "';
+'MAXV="maximum velocity"';
+'TMXV="time of maximum velocity"';
+'US="friction velocity  "'
+COMPOSE=',
+
+DEFAULT = U,V,H,B

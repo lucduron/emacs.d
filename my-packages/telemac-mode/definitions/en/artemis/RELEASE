@@ -1,0 +1,7 @@
+HELP = Number of the release of the ARTEMIS TELEMAC2D UTILE DAMO BIEF
+and HP libraries.
+If this number begins by D, it corresponds to the Debug option
+(example : DV3P0).
+If this number begins by F, it corresponds to the Flowtrace option.
+
+DEFAULT = V7P0

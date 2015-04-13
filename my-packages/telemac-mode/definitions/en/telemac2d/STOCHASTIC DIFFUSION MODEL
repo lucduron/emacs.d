@@ -1,0 +1,5 @@
+HELP = Meant for particles: drogues, algae, oil spills
+
+CHOICE = '0
+
+DEFAULT = 0

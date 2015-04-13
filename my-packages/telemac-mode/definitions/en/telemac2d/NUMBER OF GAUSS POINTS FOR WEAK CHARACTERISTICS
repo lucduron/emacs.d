@@ -1,0 +1,5 @@
+HELP = See release notes 6.3
+
+CHOICE = '1
+
+DEFAULT = 3

@@ -1,0 +1,13 @@
+AIDE = 0 : schema de Roe 1 : cinetique ordre 1  2 : cinetique ordre 2
+3 : schema de Zokagoa 4 : schema de Tchamen 5 : HLLC ordre 1
+6 : WAF ordre 2
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1="schéma cinetique ordre 1"';
+'2="schéma cinetique ordre 2"' ;
+'3="schéma Zokagoa ordre 1"';
+'4="schéma Tchamen ordre 1"';
+'5="schéma HLLC ordre 1"';
+'6="schéma WAF ordre 2"

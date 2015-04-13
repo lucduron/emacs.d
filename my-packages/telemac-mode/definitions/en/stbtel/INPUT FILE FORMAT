@@ -1,0 +1,3 @@
+HELP = Specify input file format
+
+DEFAULT = SELAFIN

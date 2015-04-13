@@ -1,0 +1,5 @@
+AIDE = Prise en compte ou non de la propagation de la vitesse et de la
+hauteur d'eau.
+La diffusion etant contenue dans cette etape sera supprimee aussi.
+
+DÉFAUT = OUI

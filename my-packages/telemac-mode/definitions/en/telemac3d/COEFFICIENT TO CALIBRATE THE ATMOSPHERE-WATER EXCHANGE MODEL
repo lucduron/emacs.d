@@ -1,0 +1,5 @@
+HELP = Value of the calibration coefficient for the wind function
+of the atmosphere-water exchange model with a complete balance.
+A value between 0.0017 and 0.0035 is advised
+
+DEFAULT = 0.0025

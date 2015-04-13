@@ -1,0 +1,3 @@
+HELP = Record number to read in the wave driven currents file
+
+DEFAULT = 1

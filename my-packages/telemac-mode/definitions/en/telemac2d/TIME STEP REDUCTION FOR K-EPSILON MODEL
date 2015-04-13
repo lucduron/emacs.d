@@ -1,0 +1,5 @@
+HELP = Time step reduction coefficient for k-epsilon model
+(which is normally same the same as that of the hydrodynamic system)
+Not recommended for use.
+
+DEFAULT = 1.

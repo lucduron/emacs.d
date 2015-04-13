@@ -1,0 +1,3 @@
+HELP = Default executable for SISYPHE
+
+DEFAULT = builds|PPP|bin|sisypheMMMVVV.exe

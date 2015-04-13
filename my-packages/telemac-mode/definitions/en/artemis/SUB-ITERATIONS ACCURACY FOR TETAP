@@ -1,0 +1,4 @@
+HELP = Fixes the accuracy requested for sub-iterations necessary to
+determine value of TETAP (criterion on cos(TETAP).
+
+DEFAULT = 1.E-2

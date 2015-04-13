@@ -1,0 +1,4 @@
+AIDE = Pour les profondeurs inferieures a cette valeur limite, la viscosite sera
+progressivement reduite. Voir le sous-programme FLUSED
+
+DÉFAUT = 0.2

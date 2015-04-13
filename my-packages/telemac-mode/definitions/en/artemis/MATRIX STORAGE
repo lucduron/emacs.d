@@ -1,0 +1,4 @@
+HELP = 1 : classical EBE  2 : assembled EBE  3 : edge by edge
+beware, with option 2, a special numbering of points is required
+
+DEFAULT = 3

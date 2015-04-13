@@ -1,0 +1,6 @@
+AIDE = Coefficient pour ajuster les composantes de vitesse
+de l'onde de maree aux frontieres maritimes.
+La valeur par defaut 999999. signifie que c'est la racine carree
+du COEFFICIENT DE CALAGE DU MARNAGE qui est prise
+
+DÉFAUT = 999999.

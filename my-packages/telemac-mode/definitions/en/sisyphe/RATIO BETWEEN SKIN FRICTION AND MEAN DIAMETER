@@ -1,0 +1,9 @@
+HELP = Ratio for the computation of skin friction.
+skin roughness = ratio * mean diameter
+(for the mixture of sand, the mean diameter used is a value per node which
+is computed thanks to the fraction and the mean diameter of each sediment
+for each node of the mesh)
+if KSPRATIO =0 : use skin friction prediction from Van Rijn (2007)
+for currents and the Wiberg and Harris method for waves
+
+DEFAULT = 3.0

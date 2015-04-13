@@ -1,0 +1,20 @@
+HELP = Makes it possible to select the solver used for solving the
+bottom evolution equation (Used only if the key-word MASS LUMPING
+is equal to false). All the currently available methods are
+variations of the Conjugate Gradient method. They are as follows:
+1: conjugate gradient
+2: conjugate residual
+3: conjugate gradient on a normal equation
+4: minimum error
+5: conjugate gradient squared (not implemented)
+6: conjugate gradient squared stabilised (cgstab)
+7: gmres (see option for solver)
+
+CHOICE = 3
+'1="conjugate gradient"';
+'2="conjugate residual"';
+'4="minimum error"';
+'6="cgstab"';
+'7="gmres"
+
+DEFAULT = 3

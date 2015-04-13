@@ -1,0 +1,5 @@
+AIDE = Definit le nombre de directions de propagation de la houle.
+Les directions de propagation sont regulierement reparties entre 0
+et 360 degres.
+
+DÉFAUT = 12

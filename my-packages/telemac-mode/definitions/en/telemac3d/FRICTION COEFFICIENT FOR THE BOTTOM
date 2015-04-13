@@ -1,0 +1,3 @@
+HELP = Friction coefficient on the bottom, if constant
+
+DEFAULT = 60.

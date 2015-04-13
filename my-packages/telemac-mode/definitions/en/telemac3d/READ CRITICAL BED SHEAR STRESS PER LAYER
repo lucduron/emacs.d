@@ -1,0 +1,4 @@
+HELP = Decides if erosion shear stress at each layer is
+read from selafin GEOMETRY FILE
+
+DEFAULT = NO

@@ -1,0 +1,6 @@
+AIDE = Type de binaire pour l'ecriture du fichier precedent
+sedimentologique. Ce type depend de la machine ou le fichier
+precedent sedimentologique est genere. Les differentes valeurs
+sont identiques a celles du fichier de geometrie.
+
+DÉFAUT = STD

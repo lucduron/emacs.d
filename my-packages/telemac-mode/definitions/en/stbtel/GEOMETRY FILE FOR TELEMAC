@@ -1,0 +1,4 @@
+HELP = 'Name of the file that will contain the mesh data to SELAFIN format,
+and to be used in TELEMAC 2D computations.'
+
+DEFAULT = no value

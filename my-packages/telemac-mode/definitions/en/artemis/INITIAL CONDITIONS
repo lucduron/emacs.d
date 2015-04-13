@@ -1,0 +1,21 @@
+HELP = Enables to define the initial conditions on water depths.
+Allowable values are :
+- ZERO ELEVATION : fixes the free surface level to 0.
+Water depths are then equal to the difference between
+free surface level and bottom level.
+- CONSTANT ELEVATION : fixes the free surface level to the value
+specified by the key-word INITIAL WATER LEVEL. Water
+level are then computed as before.
+- ZERO DEPTH : initializes the water depths to 0.
+- CONSTANT DEPTH : initializes the water depths to the value
+specified by the key-word INITIAL DEPTH.
+- SPECIAL : initial conditions on water depths are to be
+precised in the sub-routine CONDIH.
+
+CHOICE = '"ZERO ELEVATION"';
+'"CONSTANT ELEVATION"';
+'"ZERO DEPTH"';
+'"CONSTANT DEPTH "';
+'"SPECIAL"'
+
+DEFAULT = ZERO ELEVATION

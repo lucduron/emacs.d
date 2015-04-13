@@ -1,0 +1,3 @@
+AIDE = Fixe le taux de mass-lumping effectue sur la vitesse.
+
+DÉFAUT = 0.

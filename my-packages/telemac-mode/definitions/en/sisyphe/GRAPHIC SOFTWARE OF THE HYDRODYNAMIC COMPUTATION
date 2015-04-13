@@ -1,0 +1,7 @@
+HELP = Specifies the used graphic software for the
+graphic printouts of the previous computation:
+1: LEONARD
+2: RUBENS
+3: SELAFIN.
+
+DEFAULT = 3

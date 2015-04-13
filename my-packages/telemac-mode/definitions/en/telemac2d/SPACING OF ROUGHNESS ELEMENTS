@@ -1,0 +1,3 @@
+HELP = spacing of rouhness element
+
+DEFAULT = 0.14

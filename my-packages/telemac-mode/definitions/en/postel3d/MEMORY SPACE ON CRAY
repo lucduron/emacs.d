@@ -1,0 +1,4 @@
+HELP = Storage capacity (in words of 8 bytes) reserved in machine for
+making the computation.
+
+DEFAULT = 1500000W

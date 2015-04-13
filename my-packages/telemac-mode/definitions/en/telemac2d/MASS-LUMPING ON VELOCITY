@@ -1,0 +1,4 @@
+HELP = Sets the amount of mass-lumping that is performed on
+the velocity.
+
+DEFAULT = 0.

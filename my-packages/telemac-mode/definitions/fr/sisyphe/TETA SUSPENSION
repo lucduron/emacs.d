@@ -1,0 +1,4 @@
+AIDE = implicitation factor for the deposition flux and the diffusion.
+for teta =0, the deposition flux is only explicit.
+
+DÉFAUT = 1.

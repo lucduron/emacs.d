@@ -1,0 +1,7 @@
+AIDE = Les algorithmes utilises pour la resolution de l'etape de
+propagation etant iteratifs; il est necessaire de limiter le nombre
+d'iterations autorisees.
+Remarque : un maximum de 40 iterations par pas de temps semble
+raisonnable.
+
+DÉFAUT = 200

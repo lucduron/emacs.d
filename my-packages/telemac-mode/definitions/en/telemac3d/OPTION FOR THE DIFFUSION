@@ -1,0 +1,3 @@
+HELP = 1 : implicit diffusion    2 : splitting horizontal-vertical
+
+DEFAULT = 1

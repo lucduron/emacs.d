@@ -1,0 +1,7 @@
+AIDE = Format du fichier de resultats du calcul precedent.
+Les valeurs possibles sont provisoirement seulement:
+- SERAFIND: format standard double precision pour Telemac
+
+DÉFAUT = SERAFIND
+
+CHOIX = SERAFIN ';'SERAFIND';'MED

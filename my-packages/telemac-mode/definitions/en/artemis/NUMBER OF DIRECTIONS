@@ -1,0 +1,6 @@
+HELP = Used with the option :
+MULTIDIRECTIONAL RANDOM WAVE = YES
+It fixes the number of iso-energy bands which discretizes the wave
+directional spectrum.
+
+DEFAULT = 5

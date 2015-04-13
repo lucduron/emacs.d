@@ -1,0 +1,13 @@
+HELP = Possibility to add a linear wave growth term
+to the wind generation source term.
+If its value is 0, the linear wave growth is ignored;
+if its value is 1, it is added to the source term,
+as in the formula of Cavaleri and Malanotte-Rizzoli (1981).
+**Related keywords :**
+CONSIDERATION OF A WIND
+WINDS FILE
+
+CHOICE = 0
+'1="linear wave growth as in Cavaleri and Malanotte-Rizzoli (1981)"
+
+DEFAULT = 0

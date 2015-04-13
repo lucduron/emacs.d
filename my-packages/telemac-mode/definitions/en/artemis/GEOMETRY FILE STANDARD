@@ -1,0 +1,10 @@
+HELP = Adapts the reading of the GEOMETRY FILE to the specific standard :
+- 1 : regular mesh on standard LEONARD
+- 2 : any mesh on standard RUBENS
+- 3 : any mesh on standard SELAFIN
+
+CHOICE = '1 =LEONARD';
+'2 =RUBENS';
+'3 =SELAFIN'
+
+DEFAULT = 3

@@ -1,0 +1,18 @@
+HELP = Choice of the preconditioning in the propagation step linear
+system that the convergence is speeded up when it is being solved.
+0: no preconditioning
+2: diagonal preconditioning
+3: diagonal preconditioning with the condensed matrix
+7: Crout's preconditioning per element or segment
+11: Gauss-Seidel's preconditioning per element or segment
+Some operations (either 2 or 3 diagonal preconditioning) can be
+performed concurrently with the others.
+Only prime numbers are therefore kept to denote the preconditioning
+operations. When several of them are to be performed concurrently,
+the product of relevant options shall be made.
+
+CHOICE = 2
+'3="diagonal condensee"'; '7="crout"';'11="gauss-seidel"';
+'14="diagonal and crout"'; '21="diagonal condensed and crout"
+
+DEFAULT = 2

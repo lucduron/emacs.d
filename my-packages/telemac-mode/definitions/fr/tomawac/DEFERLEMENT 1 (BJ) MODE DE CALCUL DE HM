@@ -1,0 +1,12 @@
+AIDE = Choix du critere de deferlement donnant la hauteur de houle
+de deferlement (1 : Hm = GAMMA*D ; 2 : Hm par critere de Miche).
+**Mots-cles associes :**
+DISSIPATION PAR DEFERLEMENT
+DEFERLEMENT 1 (BJ) CHOIX FREQUENCE CARACTERISTIQUE
+DEFERLEMENT 1 (BJ) CONSTANTE GAMMA1
+DEFERLEMENT 1 (BJ) CONSTANTE GAMMA2
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="Hm par critere de Miche"

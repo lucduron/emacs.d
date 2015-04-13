@@ -1,0 +1,11 @@
+AIDE = Permet de choisir la methode de correction de la
+partie diagnostique du spectre.
+0 : Pas de queue diagnostique
+1 : Une decroissance en f^(-TAILF) est imposee au dessus de
+max(4fPM;2.5fmoy)
+**Mots-cles associes :**
+FACTEUR DE QUEUE DU SPECTRE
+NOMBRE DE FREQUENCES
+RAISON FREQUENTIELLE
+
+DÉFAUT = 1

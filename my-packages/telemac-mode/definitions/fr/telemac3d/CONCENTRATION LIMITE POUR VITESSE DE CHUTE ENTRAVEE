@@ -1,0 +1,5 @@
+AIDE = The sediment concentration at which hindered
+settling is initiated. These values are
+needed when HINDERED SETTLING = YES
+
+DÉFAUT = 0.0

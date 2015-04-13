@@ -1,0 +1,5 @@
+HELP = 1: Koch and Flokstra
+2: formula of Talmon et al. 1995, JHR 33(4) formulas (1) and (17)
+linked keyword : BETA2
+
+DEFAULT = 1

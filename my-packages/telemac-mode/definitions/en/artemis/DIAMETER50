@@ -1,0 +1,5 @@
+HELP = DIAM50 is the maximum grain diameter, in m, which defines 50% of
+the total weight of sediment. Usually, we have
+DIAM90 = 1.5 * DIAM50. DIAM50 is a more common value used.
+
+DEFAULT = 0.10E-3

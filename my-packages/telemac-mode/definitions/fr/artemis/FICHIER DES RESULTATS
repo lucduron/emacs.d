@@ -1,0 +1,15 @@
+AIDE = Nom du fichier dans lequel seront ecrits les resultats du calcul,
+avec la periodicite donnee par le mot cle PERIODE POUR LES SORTIES
+GRAPHIQUES.
+Sur IBM, ce fichier est alloue automatiquement s'il n'existe pas,
+avec les caracteristiques suivantes :
+Format d'enregistrement   : VBS
+Longueur d'enregistrement : X
+Taille de bloc            : 6204
+Nombre de pistes          : 50 en primaire, 10 en secondaire
+La place memoire ainsi reservee est suffisante pour la plupart des
+calculs de dimension moyenne.
+
+DÉFAUT = aucun
+
+CHOIX = resu

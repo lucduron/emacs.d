@@ -1,0 +1,7 @@
+HELP = 1 : formula of Koch et Flokstra, modification of bed load
+linked keyword : BETA
+2 : formula of Soulsby, modification critical shear stress,
+can only be used with a threshold fomula
+linked keyword : FRICTION ANGLE OF THE SEDIMENT
+
+DEFAULT = 1

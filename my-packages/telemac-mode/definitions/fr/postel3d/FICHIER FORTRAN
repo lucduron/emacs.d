@@ -1,0 +1,6 @@
+AIDE = Nom du fichier FORTRAN a soumettre.
+Il ne sert a priori qu'a dimensionner les tableaux utilises par
+POSTEL3D, mais peut contenir des sous-programmes modifies ou propres
+a l'utilisateur.
+
+DÉFAUT = DEFAUT

@@ -1,0 +1,12 @@
+HELP = Geographic coordinates system in which the numerical model is built.
+Indicate the corresponding zone with the keyword
+
+CHOICE = '-1="NO DEFAULT VALUE. CHOOSE THE SYSTEM AMONG THE POSSIBLE CHOICES"';
+'0="DEFINED BY USER"';
+'1="WGS84 LONGITUDE/LATITUDE IN REAL DEGREES"';
+'2="WGS84 NORTHERN UTM"';
+'3="WGS84 SOUTHERN UTM"';
+'4="LAMBERT"';
+'5="MERCATOR FOR TELEMAC"'
+
+DEFAULT = -1

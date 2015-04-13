@@ -1,0 +1,13 @@
+AIDE = Selectionne le type de formulation utilisee pour le calcul
+du frottement sur le fond, voir COEFFICIENT DE FROTTEMENT.
+Pour les lois possibles, voir CHOIX ci-dessus (cf. Note de principe).
+En cas de couplage avec Telemac, le choix du frottement est impose par Telemac, sauf
+si le mot-cle :PREDICTION DE LA RUGOSITE est mis a OUI
+
+DÉFAUT = 3
+
+CHOIX = 1
+'2="CHEZY"';
+'3="STRICKLER"';
+'4="MANNING"';
+'5="NIKURADSE"

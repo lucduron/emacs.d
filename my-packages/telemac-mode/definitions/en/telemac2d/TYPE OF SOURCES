@@ -1,0 +1,6 @@
+HELP = 1: Source term multiplied by a finite element basis
+2: Source term multiplied by a Dirac function
+
+CHOICE = '1
+
+DEFAULT = 1

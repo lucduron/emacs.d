@@ -1,0 +1,3 @@
+HELP = For computing tidal range and phase of tide
+
+DEFAULT = 0.;0.

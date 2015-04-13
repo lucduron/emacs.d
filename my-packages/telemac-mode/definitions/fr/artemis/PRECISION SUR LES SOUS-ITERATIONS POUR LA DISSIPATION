@@ -1,0 +1,4 @@
+AIDE = Donne la precision requise pour les sous-iterations du calcul
+du coefficient de dissipation.
+
+DÉFAUT = 1.E-2

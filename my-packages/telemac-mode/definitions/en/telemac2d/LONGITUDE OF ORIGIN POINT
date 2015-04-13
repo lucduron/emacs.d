@@ -1,0 +1,4 @@
+HELP = Give the value of the longitude of the origin point
+of the model, when taking into account of the tide generator force.
+
+DEFAULT = 0.

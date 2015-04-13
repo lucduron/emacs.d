@@ -1,0 +1,21 @@
+HELP = Makes it possible to select the solver used for solving
+the system of the k-epsilon model.
+1: conjugate gradient
+2: conjugate residuals
+3: conjugate gradient on normal equation
+4: minimum error
+5: conjugate gradient squared
+6: conjugate gradient squared stabilised (cgstab)
+7: gmres (see option for the solver for k-epsilon model)
+8: direct
+
+CHOICE = 1
+'2="conjugate residuals"';
+'3="conjugate gradient on normal equation"';
+'4="minimum error"';
+'5="conjugate gradient squared"';
+'6="conjugate gradient squared stabilised (cgstab)"';
+'7="gmres (see option for the solver for k-epsilon model)"';
+'8="direct"
+
+DEFAULT = 1

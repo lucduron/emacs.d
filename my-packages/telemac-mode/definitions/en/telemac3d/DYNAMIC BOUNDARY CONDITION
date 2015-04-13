@@ -1,0 +1,4 @@
+HELP = If yes, will set at the free surface a
+velocity obeying the dynamic boundary condition
+
+DEFAULT = NO

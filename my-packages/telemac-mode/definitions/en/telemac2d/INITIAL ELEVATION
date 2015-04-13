@@ -1,0 +1,4 @@
+HELP = Value to be used with the option :
+INITIAL CONDITIONS  -CONSTANT ELEVATION
+
+DEFAULT = 0.

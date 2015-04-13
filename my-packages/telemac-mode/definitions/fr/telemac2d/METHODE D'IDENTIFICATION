@@ -1,0 +1,9 @@
+AIDE = 0 : plan d'experience 1 : gradient simple
+2 : gradient conj. 3 : interp. de Lagrange
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1="gradient simple"';
+'2="gradient conj"';
+'3="interp. de Lagrange"

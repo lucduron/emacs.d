@@ -1,0 +1,7 @@
+HELP = Used to consider in the computations the contribution
+of the non discretised high frequencies
+**Related keywords :**
+NUMBER OF FREQUENCIES
+FREQUENTIAL RATIO
+
+DEFAULT = 5.

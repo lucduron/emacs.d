@@ -1,0 +1,4 @@
+HELP = 'When treating dry elements elimination, specify that
+all time steps are to be stored in the results file.'
+
+DEFAULT = NO

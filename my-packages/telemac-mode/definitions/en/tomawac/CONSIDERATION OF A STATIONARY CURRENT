@@ -1,0 +1,6 @@
+HELP = Indicates whether a stationary current is taken into account,
+either in a file or in condiw.f.
+**Related keyword :**
+CURRENTS FILE
+
+DEFAULT = .FALSE.

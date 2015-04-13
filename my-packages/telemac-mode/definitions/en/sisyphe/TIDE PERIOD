@@ -1,0 +1,2 @@
+HELP = Sets the period of the event (tide or flood)
+for an unsteady case.

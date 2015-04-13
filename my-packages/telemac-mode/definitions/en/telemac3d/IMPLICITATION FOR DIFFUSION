@@ -1,0 +1,3 @@
+HELP = 'Value to be used with OPTION FOR THE DIFFUSION
+
+DEFAULT = 1.

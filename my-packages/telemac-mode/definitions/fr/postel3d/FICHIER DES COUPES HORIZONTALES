@@ -1,0 +1,5 @@
+AIDE = Nom generique des fichiers des coupes horizontales.
+Le fichier contenant la coupe i aura pour nom ce nom generique suivi
+de l'extension '.i'.
+
+DÉFAUT = aucun

@@ -1,0 +1,5 @@
+AIDE = Definit, en permanent, le nombre de pas de temps effectues
+lors de l'execution du code. En non permanent, ce mot-cle
+n'est pas utilise.
+
+DÉFAUT = 1

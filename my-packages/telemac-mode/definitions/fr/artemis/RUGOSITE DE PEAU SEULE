@@ -1,0 +1,6 @@
+AIDE = Utilise avec l'option FROTTEMENT = OUI.
+Permet de choisir de ne prendre en compte
+que la rugosite de peau dans le cas d'un calcul automatique
+du facteur de frottement sur fonds sableux.
+
+DÉFAUT = NON

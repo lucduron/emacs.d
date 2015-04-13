@@ -1,0 +1,4 @@
+HELP = 'Limit of water depth value (in meter) under which the node is
+considered as dry node.'
+
+DEFAULT = 0.1

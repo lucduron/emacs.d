@@ -1,0 +1,6 @@
+AIDE = Fixe de facon uniforme pour l'ensemble du domaine;
+la valeur du coefficient de diffusion de viscosite globale (dynamique +
+turbulente). Cette valeur peut avoir une influence non negligeable sur
+la forme et la taille des recirculations.
+
+DÉFAUT = 1.E-6

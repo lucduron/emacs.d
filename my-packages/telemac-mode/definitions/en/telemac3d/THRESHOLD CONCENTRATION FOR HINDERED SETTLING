@@ -1,0 +1,5 @@
+HELP = The sediment concentration at which hindered
+settling is initiated. These values are
+needed when HINDERED SETTLING = YES
+
+DEFAULT = 0.0

@@ -1,0 +1,21 @@
+HELP = Enables to choose the solver used for solving the matrix system.
+They are :
+1 : conjugate gradient
+2 : conjugate residual
+3 : conjugate gradient on the normal equation
+4 : minimum error
+5 : squarred conjugate gradient (not programmed)
+6 : CGSTAB conjugate gradient
+7 : GMRES
+8 : direct solver
+
+CHOICE = '1 = "conjugate gradient"';
+'2 = "conjugate residual"';
+'3 = "conjugate gradient on a normal equation"';
+'4 = "minimum error"';
+'5 = "squared conjugate gradient"';
+'6 = "CGSTAB"';
+'7 = "GMRES"';
+'8 = "direct"'
+
+DEFAULT = 8

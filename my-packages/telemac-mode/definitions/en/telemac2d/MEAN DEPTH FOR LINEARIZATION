@@ -1,0 +1,4 @@
+HELP = Sets the water depth about which the linearization is made when
+the LINEARIZED PROPAGATION OPTION is selected.
+
+DEFAULT = 0.

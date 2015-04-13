@@ -1,0 +1,5 @@
+AIDE = En non permanent, definit le nombre de marees ou de crues
+effectuees lors de l'execution du code.En permanent, ce mot-cle
+n'est pas utilise.
+
+DÉFAUT = 1

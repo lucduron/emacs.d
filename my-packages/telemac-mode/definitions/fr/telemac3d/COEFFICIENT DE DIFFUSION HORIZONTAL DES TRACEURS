@@ -1,0 +1,5 @@
+AIDE = Fixe la valeur du coefficient de diffusion horizontal du traceur.
+L'influence de ce parametre sur l'evolution du traceur dans
+le temps est importante.
+
+DÉFAUT = 1.E-6

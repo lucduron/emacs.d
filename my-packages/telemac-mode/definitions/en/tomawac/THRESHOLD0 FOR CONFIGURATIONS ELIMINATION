@@ -1,0 +1,8 @@
+HELP = Choice of threshold for configurations elimination when the
+non linear transfer term is calculated with the exact GQM method
+**Related keywords:**
+THRESHOLD1 FOR CONFIGURATIONS ELIMINATION
+THRESHOLD2 FOR CONFIGURATIONS ELIMINATION
+NON-LINEAR TRANSFERS BETWEEN FREQUENCIES
+
+DEFAULT = 0.00

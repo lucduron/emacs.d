@@ -1,0 +1,7 @@
+HELP = When the influence of turbulence on the settling velocity
+is modelled,this coefficient traduces the breaking of flocs by
+turbulence ( coefficient b of Van Leussen formula.
+Value to be imposed if
+INFLUENCE OF TURBULENCE ON SETTLING VELOCITY = YES.
+
+DEFAULT = 0.09

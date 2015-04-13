@@ -1,0 +1,5 @@
+HELP = Tide data base of harmonic constituents
+extracted from the tidal model file.
+Old name in 6.1 version: TIDE DATA BASE
+
+DEFAULT = no value

@@ -1,0 +1,5 @@
+AIDE = Direction du nord en degres, par rapport a l'axe des y
+dans le sens trigonometrique. Notation decimale 10.5 signifie  10 degres
+et trente minutes.
+
+DÉFAUT = 0.

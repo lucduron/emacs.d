@@ -1,0 +1,7 @@
+AIDE = Utilise pour les schemas PSI et N, avec option 2, on ne retrouve
+pas exactement les valeurs imposees des traceurs,
+mais le flux est correct
+
+DÉFAUT = 1
+
+CHOIX = '1

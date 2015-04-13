@@ -1,0 +1,3 @@
+HELP = One integer per liquid boundary is given
+1 : classical boundary conditions
+2 : Thompson method based on characteristics

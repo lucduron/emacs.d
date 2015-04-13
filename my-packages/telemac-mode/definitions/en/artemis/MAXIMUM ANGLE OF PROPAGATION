@@ -1,0 +1,7 @@
+HELP = Used with the option :
+MULTIDIRECTIONAL RANDOM WAVE = YES
+Fixes the maximum value (in deg) of the directions range. It is
+counted positively in the trigonometric sense relatively to the x
+axis.
+
+DEFAULT = 180.

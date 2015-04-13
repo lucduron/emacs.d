@@ -1,0 +1,7 @@
+HELP = Number of time steps for the breaking source term.
+These time steps are in a geometric progression
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+COEFFICIENT FOR THE BREAKING TIME STEPS
+
+DEFAULT = 1

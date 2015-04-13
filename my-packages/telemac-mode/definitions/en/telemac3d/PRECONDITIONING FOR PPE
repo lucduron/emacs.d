@@ -1,0 +1,15 @@
+HELP = Preconditioning for Poisson pressure equation
+
+CHOICE = 0
+'2="diagonal"';
+'3="diagonal condensed"';
+'5="diagonal with absolute values"';
+'7="Crout"';
+'11="Gauss-Seidel EBE"';
+'13="Matrix defined by the user"';
+'14="diagonal and Crout"';
+'17="direct solver on the vertical"';
+'21="diagonal condensed and Crout"';
+'34="diagonal and direct solver on the vertical"
+
+DEFAULT = 2

@@ -1,0 +1,3 @@
+AIDE = Ensemble des bibliotheques utilises pour un calcul.
+
+DÉFAUT = artemis,telemac,util,damo,bief,hp

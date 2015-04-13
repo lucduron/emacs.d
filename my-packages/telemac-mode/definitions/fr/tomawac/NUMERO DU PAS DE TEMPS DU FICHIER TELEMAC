@@ -1,0 +1,8 @@
+AIDE = Indique le numero du pas de temps du fichier de resultats
+TELEMAC (fichier des courants) correspondant a l instant desire
+pour recuperer la donnee.
+**Mots-cles associes :**
+RANG DE LA DONNEE TELEMAC A RECUPERER
+RECUPERATION DE DONNEES TELEMAC
+
+DÉFAUT = 1

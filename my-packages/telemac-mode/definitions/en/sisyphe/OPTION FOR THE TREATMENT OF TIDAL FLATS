@@ -1,0 +1,6 @@
+HELP = Used if 'TIDAL FLATS' is true
+1 : EQUATIONS SOLVED EVERYWHERE WITH CORRECTION ON TIDAL FLATS
+2 : DRY ELEMENTS FROZEN
+It is recommended to choose 1 since it ensures mass conservation.
+
+DEFAULT = 1

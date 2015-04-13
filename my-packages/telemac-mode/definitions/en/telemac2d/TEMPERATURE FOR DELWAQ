@@ -1,0 +1,3 @@
+HELP = Triggers output of temperature for Delwaq
+
+DEFAULT = NO

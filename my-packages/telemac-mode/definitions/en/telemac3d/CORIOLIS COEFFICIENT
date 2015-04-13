@@ -1,0 +1,11 @@
+HELP = Sets the value of the Coriolis force coefficient, in cartesian
+coordinates.
+This coefficient, denoted FCOR in the code, should be equal to
+2 w sin(l)d  where w denotes the earth angular speed of rotation
+and l the latitude. w = 7.27 10-5 rad/sec
+The Coriolis force components are then:
+FU =  FCOR x V,
+FV = -FCOR x U
+In spherical coordinates, the latitudes are known and this
+
+DEFAULT = 0.

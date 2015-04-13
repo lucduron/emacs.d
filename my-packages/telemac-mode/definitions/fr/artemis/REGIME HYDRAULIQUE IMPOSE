@@ -1,0 +1,5 @@
+AIDE = Utilise avec l'option FROTTEMENT = OUI.
+Permet de choisir d'imposer le regime hydraulique dans le cas
+d'un calcul automatique du facteur de frottement sur fonds sableux.
+
+DÉFAUT = NON

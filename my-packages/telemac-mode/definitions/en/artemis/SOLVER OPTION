@@ -1,0 +1,4 @@
+HELP = Defines the dimension of the Krylov space when using
+the solver 7 (GMRES)
+
+DEFAULT = 3

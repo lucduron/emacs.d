@@ -1,0 +1,4 @@
+AIDE = Indique l instant de calcul TOMAWAC associe au spectre
+qui doit etre importe dans ARTEMIS
+
+DÉFAUT = 0.

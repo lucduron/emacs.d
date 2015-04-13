@@ -1,0 +1,5 @@
+HELP = Name of the parallelim file.
+**Related keywords :**
+NUMBER OF PROCESSORS
+
+DEFAULT = no value

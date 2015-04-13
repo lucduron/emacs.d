@@ -1,0 +1,6 @@
+HELP = Used with the option FRICTION = YES.
+Fixes the formulation used for bottom friction law :
+1 : Kostense et al., 1986
+2 : Putnam & Johnson, 1949.
+
+DEFAULT = 1

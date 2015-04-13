@@ -1,0 +1,4 @@
+HELP = Name of the file containing the parameters of the computation
+Written by the user.
+
+DEFAULT = no value

@@ -1,0 +1,10 @@
+HELP = Sets the value of the friction coefficient for the selected
+formulation. It is noteworthy that the meaning of this figure changes
+according to the selected formula (Chezy, Strickler, etc.) :
+1 : linear coefficient
+2 : Chezy coefficient
+3 : Strickler coefficient
+4 : Manning coefficient
+5 : Nikuradse grain size
+
+DEFAULT = 50.

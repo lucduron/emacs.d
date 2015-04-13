@@ -1,0 +1,5 @@
+HELP = Sets value of diameter d90 for particular size class.
+If the keyword is not in the sterring file, the default value
+is the value of the mean diameter of the sediment.
+
+DEFAULT = .01;.01;.01;.01;.01;.01;.01;.01;.01;.01

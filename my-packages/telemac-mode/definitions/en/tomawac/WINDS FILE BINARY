@@ -1,0 +1,10 @@
+HELP = Type of the binary used for writing the winds file. This type
+depends on the machine in which the file was generated. The possible
+values are the same as for the geometry file.
+WARNING! This file is a binary one is
+the keyword WINDS FILE FORMAT is higher than or equal to 3.
+**Related keywords :**
+BINARY WINDS FILE
+WINDS FILE FORMAT
+
+DEFAULT = STD

@@ -1,0 +1,4 @@
+HELP = every iteration implies at least a direct and
+an adjoint computation
+
+DEFAULT = 20

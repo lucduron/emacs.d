@@ -1,0 +1,8 @@
+AIDE = Utilise pour prendre en compte dans les calculs la
+contribution des hautes frequences non discretisees.
+**Mots-cles associes :**
+NOMBRE DE FREQUENCES
+FREQUENCE MINIMALE
+RAISON FREQUENTIELLE
+
+DÉFAUT = 5.

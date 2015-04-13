@@ -1,0 +1,5 @@
+AIDE = permet de supprimer les tests sur les bancs decouvrants, dans
+les cas ou l'on est certain qu'il n'y en aura pas.
+En cas de doute : oui
+
+DÉFAUT = OUI

@@ -1,0 +1,7 @@
+HELP = Used so far only with the PSI and N schemes.
+With option 2, Dirichlet prescribed values are not obeyed,
+but the fluxes are correct
+
+CHOICE = '1
+
+DEFAULT = 1

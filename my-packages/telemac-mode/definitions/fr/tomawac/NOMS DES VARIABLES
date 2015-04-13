@@ -1,0 +1,12 @@
+AIDE = Nom des variables dans les fichiers au format SERAFIN
+1: Vitesse U
+2: Vitesse V
+3: Vitesse du vent suivant X
+4: Vitesse du vent suivant Y
+5: Profondeur
+
+DÉFAUT = VITESSE U       M/S             ';
+'VITESSE V       M/S             ';
+'VENT X          M/S             ';
+'VENT Y          M/S             ';
+'HAUTEUR D'EAU   M

@@ -1,0 +1,6 @@
+AIDE = Utilise par la procedure de lancement sur station de travail
+
+DÉFAUT = aucun
+
+CHOIX = " "
+'"$PVM_ROOT/lib/$PVM_ARCH/libpvm3.a"="bibliotheque PVM1"

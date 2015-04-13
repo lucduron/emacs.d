@@ -1,0 +1,8 @@
+AIDE = Coefficients utilises par la methode S.U.P.G.
+ces coefficients sont respectivement appliques a
+1) U et V
+2) H ou C
+3) T
+4) K ET EPSILON
+
+DÉFAUT = 1.;1.;1.;1

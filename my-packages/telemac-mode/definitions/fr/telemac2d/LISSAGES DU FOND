@@ -1,0 +1,7 @@
+AIDE = Nombre de lissages effectues sur la topographie.
+chaque lissage, effectue a l'aide d'une matrice de masse,
+est conservatif.
+Utilise lorsque les donnees de bathymetrie donnent des resultats
+trop irreguliers apres interpolation.
+
+DÉFAUT = 0

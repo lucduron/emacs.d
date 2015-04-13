@@ -1,0 +1,7 @@
+HELP = Name of wind data file (if formatted).
+**Related keywords :**
+CONSIDERATION OF WIND
+BINARY WINDS FILE
+WINDS FILE FORMAT
+
+DEFAULT = no value

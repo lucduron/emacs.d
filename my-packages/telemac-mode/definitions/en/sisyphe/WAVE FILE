@@ -1,0 +1,13 @@
+HELP = Name of a file containing the results a previous
+TOMAWAC computation  made on the same mesh. The wave data (wave height,
+wave period, wave angle ) will
+be given by the last record of the file.
+The user has to verify that both informations (wave and current data)
+are consistent.
+Remark :The wave data can also be specified in
+the hydrodynamic file. the user has also
+the possibility to give the values
+of the wave data in the subroutine CONDIM.
+This is recommended for non-steady flow simulation.
+
+DEFAULT = no value

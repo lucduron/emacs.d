@@ -1,0 +1,3 @@
+HELP = Name of the DredgeSim steering file
+
+DEFAULT = no value

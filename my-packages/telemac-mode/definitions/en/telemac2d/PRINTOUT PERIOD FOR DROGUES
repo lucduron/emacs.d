@@ -1,0 +1,4 @@
+HELP = Number of time steps between 2 outputs of drogues
+positions in the binary file
+
+DEFAULT = 1

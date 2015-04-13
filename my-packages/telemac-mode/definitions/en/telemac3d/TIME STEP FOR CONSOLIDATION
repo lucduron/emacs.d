@@ -1,0 +1,5 @@
+HELP = time step for the modelling consolidation, which can
+be greater than the hydrodynamic time step. This parameter is
+used if GIBSON CONSOLIDATION MODEL = YES or MULTILAYER MODEL = YES.
+
+DEFAULT = 1200.

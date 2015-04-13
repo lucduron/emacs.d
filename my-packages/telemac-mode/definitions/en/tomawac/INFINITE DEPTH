@@ -1,0 +1,4 @@
+HELP = Indicates whether an infinite depth is assumed. If so, bottom
+friction is inhibited.
+
+DEFAULT = .FALSE.

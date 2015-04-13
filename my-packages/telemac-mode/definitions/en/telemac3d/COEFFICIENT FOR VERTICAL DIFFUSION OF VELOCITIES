@@ -1,0 +1,7 @@
+HELP = Sets, in an even way for the whole domain, the value of the
+coefficient of global (dynamic+turbulent) viscosity
+for the horizontal direction. This value may
+have a significant effect both on the shapes and sizes of
+recirculation zones.
+
+DEFAULT = 1.E-6

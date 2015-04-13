@@ -1,0 +1,4 @@
+HELP = Concentration limite en kg/m3 au dela de la quelle la couche de vase fluide devient solide.
+Cette valeur est demandee losque la HINDERED SETTLING = YES
+
+DEFAULT = 0.0

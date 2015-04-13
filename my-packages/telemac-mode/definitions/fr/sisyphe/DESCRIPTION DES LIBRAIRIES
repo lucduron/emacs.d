@@ -1,0 +1,8 @@
+AIDE = Description des librairies de SISYPHE
+
+DÉFAUT = builds|PPP|lib|sisypheMMMVVV.LLL';
+'builds|PPP|lib|dredgesimMMMVVV.LLL';
+'builds|PPP|lib|biefMMMVVV.LLL';
+'builds|PPP|lib|damoMMMVVV.LLL';
+'builds|PPP|lib|parallelMMMVVV.LLL';
+'builds|PPP|lib|specialMMMVVV.LLL

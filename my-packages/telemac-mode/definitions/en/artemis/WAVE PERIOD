@@ -1,0 +1,3 @@
+HELP = Defines the wave period for monochromatic mode.
+
+DEFAULT = 10.

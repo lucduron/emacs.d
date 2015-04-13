@@ -1,0 +1,9 @@
+AIDE = Choix du seuil pour l elimination de configurations lorsque
+le terme de transfert non lineaire est calcule de maniere exacte
+(methode GQM)
+**Mots-cles associes :**
+SEUIL1 ELIMINATION DE CONFIGURATIONS
+SEUIL2 ELIMINATION DE CONFIGURATIONS
+TRANSFERTS NON LINEAIRES INTER-FREQUENCES
+
+DÉFAUT = 0.00

@@ -1,0 +1,3 @@
+HELP = Variable time-step to get a given Courant number
+
+DEFAULT = NO

@@ -1,0 +1,3 @@
+HELP = Number of private arrays used by the user
+
+DEFAULT = 0

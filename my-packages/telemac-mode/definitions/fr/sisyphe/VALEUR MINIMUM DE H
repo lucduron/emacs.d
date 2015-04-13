@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur minimale de la hauteur d'eau.
+Est utilise lorsque le mot cle BANCS DECOUVRANTS est egal a oui.
+
+DÉFAUT = 1.E-3

@@ -1,0 +1,12 @@
+AIDE = Type du binaire utilise pour l'ecriture du fichier
+du calcul precedent. Ce type depend de la machine sur laquelle le
+fichier a ete genere. Les valeurs possibles sont les memes que pour
+le fichier de geometrie.
+**Mots-cles associes :**
+FICHIER DU CALCUL PRECEDENT
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

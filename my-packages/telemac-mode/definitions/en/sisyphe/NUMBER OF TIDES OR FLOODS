@@ -1,0 +1,5 @@
+HELP = For an unsteady case, specifies the number of tides or
+floods performed when running the code. For a steady case, this
+keyword is not used.
+
+DEFAULT = 1

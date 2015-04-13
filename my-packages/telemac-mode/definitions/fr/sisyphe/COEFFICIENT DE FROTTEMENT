@@ -1,0 +1,6 @@
+AIDE = Fixe la valeur du coefficient de Strickler
+intervenant dans le calcul de la contrainte de
+frottement au fond. Sa signification depend de
+la LOI DE FROTTEMENT SUR LE FOND.
+
+DÉFAUT = 50.

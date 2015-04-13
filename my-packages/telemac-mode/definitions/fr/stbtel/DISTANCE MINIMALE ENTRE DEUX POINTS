@@ -1,0 +1,7 @@
+AIDE = 'Distance (en metres)en dessous de laquelle deux noeuds sont consideres
+comme confondus par STBTEL, lors de la verification des resultats
+fournis par le mailleur. Lorsque deux noeuds sont confondus, l'un
+d'entre eux est elimine, et tous les noeuds du maillage sont
+renumerotes.'
+
+DÉFAUT = 1.E-5

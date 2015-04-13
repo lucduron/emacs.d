@@ -1,0 +1,8 @@
+AIDE = donne les options pour introduire le vent:
+0: pas de vent (enleve le mot cle VENT (logique))
+1: constant en temps et en espace (donne par le mot cle
+VITESSE ET DIRECTION DU VENT)
+2: variable en temps donne par fichier formate
+3: variable en temps et en espace donne par fichier formate
+
+DÉFAUT = 0

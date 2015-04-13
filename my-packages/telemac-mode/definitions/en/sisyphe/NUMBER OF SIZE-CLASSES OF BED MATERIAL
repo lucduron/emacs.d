@@ -1,0 +1,3 @@
+HELP = Sets value of number of size classes of bed materials.
+
+DEFAULT = 1

@@ -1,0 +1,4 @@
+AIDE = chaque iteration comprend au moins un
+calcul direct et un calcul adjoint
+
+DÉFAUT = 20

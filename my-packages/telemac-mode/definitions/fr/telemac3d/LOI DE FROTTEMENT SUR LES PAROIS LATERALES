@@ -1,0 +1,18 @@
+AIDE = selectionne le type de formulation utilisee pour le calcul
+du frottement sur les parois laterales.
+Les lois possibles sont les suivantes (cf. Note de principe) :
+0 : pas de frottement , ou AUBOR donne par le fichier des conditions aux limites
+1 :
+2 :
+3 :
+4 :
+5 : formule de NIKURADSE
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="COEFFICIENT PRIS DANS LE FICHIER DES CONDITIONS AUX LIMITES"';
+'2="IDEM"';
+'3="IDEM"';
+'4="IDEM"';
+'5="NIKURADSE"

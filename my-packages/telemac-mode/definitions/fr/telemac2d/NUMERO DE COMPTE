@@ -1,0 +1,4 @@
+AIDE = Numero du compte calcul sur lequel sera impute le cout
+du calcul.
+
+DÉFAUT = aucun

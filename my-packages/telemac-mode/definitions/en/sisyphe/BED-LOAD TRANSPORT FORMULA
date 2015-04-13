@@ -1,0 +1,23 @@
+HELP = 10 bed-load or total load transport formulas are implemented in SISYPHE.
+The formula Ne3, Ne30 and Ne9 should not be used in the case of coupling with the suspension.
+The formula Ne4, Ne5, Ne8 and Ne9  model the transport under the combined action of
+currents and waves :
+1 : MEYER-PETER (bed load)
+2 : EINSTEIN-BROWN (bed load)
+3 : ENGELUND-HANSEN + CHOLLET AND CUNGE (VERSION 5.3)
+30: ENGELUND-HANSEN (total)
+4 : BIJKER (bed load + suspension)
+5 : SOULSBY - VAN RIJN (bed load + suspension)
+6 : HUNZIKER (only for sand grading)
+IN THIS CASE HIDING FACTOR KEYWORD DISCARDED
+And Hunziker formula used
+7 : VAN RIJN (bed load)
+8  : BAILARD (bed load + suspension)
+9 : DIBAJNIA ET WATANABE (total)
+Users can also program other formulas (subroutine QSFORM.f) setting
+this key word to zero :
+0 : FORMULA PROGRAMMED BY USER
+Warning : it is not then possible to choose the option
+VARIABLE TIME-STEP
+
+DEFAULT = 1

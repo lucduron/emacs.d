@@ -1,0 +1,5 @@
+HELP = 'Memory space on CRAY, in 8-byte words, reserved in computer for making
+the computation. An assessment of this value is provided at the head
+of the listing. Option not implemented on a workstation.'
+
+DEFAULT = 1500000W

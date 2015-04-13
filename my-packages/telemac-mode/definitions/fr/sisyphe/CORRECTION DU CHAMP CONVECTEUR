@@ -1,0 +1,4 @@
+AIDE = Modification du champ convecteur 2D pour prise en compte du gradient vertical
+de vitesse et concentration
+
+DÉFAUT = NON

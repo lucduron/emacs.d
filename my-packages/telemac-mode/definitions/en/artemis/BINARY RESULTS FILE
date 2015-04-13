@@ -1,0 +1,4 @@
+HELP = Results file, written in binary mode, at the disposal of the user.
+Data of this file must be written on unit 28.
+
+DEFAULT = no value

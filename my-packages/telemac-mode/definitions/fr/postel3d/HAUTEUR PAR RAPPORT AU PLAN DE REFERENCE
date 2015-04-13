@@ -1,0 +1,4 @@
+AIDE = Decalage entre la coupe et son plan de reference, ceci pour
+chaque coupe horizontale.
+
+DÉFAUT = 0.;0.;0.;0.;0.;0.;0.;0.;0.

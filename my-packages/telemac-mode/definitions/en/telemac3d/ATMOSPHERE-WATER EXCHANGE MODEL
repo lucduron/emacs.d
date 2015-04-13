@@ -1,0 +1,7 @@
+HELP = Choice of the atmosphere-water exchange model.
+
+CHOICE = '0="NO MODEL"';
+'1="LINEARISED FORMULA AT THE FREE SURFACE"';
+'2="MODEL WITH COMPLETE BALANCE"'
+
+DEFAULT = 0

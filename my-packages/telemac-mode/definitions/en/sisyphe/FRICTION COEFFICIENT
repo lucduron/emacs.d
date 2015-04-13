@@ -1,0 +1,5 @@
+HELP = Sets the value of the friction coefficient
+to calculate the bed shear stress.
+Depends on the LAW OF BOTTOM FRICTION.
+
+DEFAULT = 50.

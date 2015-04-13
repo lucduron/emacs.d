@@ -1,0 +1,6 @@
+HELP = Name of the file containing the types of boundary conditions.
+This file is automatically filled by the grid generator by means of
+colours that are assigned to the boundary nodes in the computational
+domain.
+
+DEFAULT = dynam

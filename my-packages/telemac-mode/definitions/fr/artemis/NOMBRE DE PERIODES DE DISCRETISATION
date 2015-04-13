@@ -1,0 +1,9 @@
+AIDE = Valeur utilisee avec l'option :
+HOULE ALEATOIRE MONODIRECTIONNELLE = OUI
+ou avec l'option
+HOULE ALEATOIRE MULTIDIRECTIONNELLE = OUI
+Pour un calcul en houle aleatoire monodirectionnelle ou
+multidirectionnelle, nombre de bandes d'egale energie servant a
+discretiser le spectre d'energie en frequence.
+
+DÉFAUT = 5

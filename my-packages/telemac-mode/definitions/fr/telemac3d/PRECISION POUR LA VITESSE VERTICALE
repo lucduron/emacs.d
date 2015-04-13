@@ -1,0 +1,4 @@
+AIDE = Fixe la precision demandee pour le calcul de la vitesse
+verticale.
+
+DÉFAUT = 1.E-6

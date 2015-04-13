@@ -1,0 +1,7 @@
+HELP = Provided for selecting the type of friction on the walls
+1: smooth
+2: rough
+
+CHOICE = '1
+
+DEFAULT = 2

@@ -1,0 +1,5 @@
+AIDE = Vitesse de chute constant en m/s(>0 since 6.3).
+Valeur imposee si INFLUENCE DE LA TURBULENCE SUR LA VITESSE
+DE CHUTE = NON.
+
+DÉFAUT = 0.01

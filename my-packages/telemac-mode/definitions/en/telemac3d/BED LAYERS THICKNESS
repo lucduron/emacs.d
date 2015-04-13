@@ -1,0 +1,8 @@
+HELP = reference thickness considered for the creation of new
+bed layers.This parameter is used if GIBSON CONSOLIDATION
+MODEL = YES.With this model, the sediment which settles on
+the bottom arrives at first in the fresh deposit layer. When
+the thickness of this layer is equal to the BED LAYERS THICKNESS,
+a new mud layer is added to the mud bed.
+
+DEFAULT = 5.E-3

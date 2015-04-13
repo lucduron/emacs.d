@@ -1,0 +1,31 @@
+AIDE = Si ce mot-cle est pris egal a 0, on specifie un spectre
+nul aux limites. Si il est pris egal entre 1 et 6
+un spectre de type JONSWAP est specifie en tout point des limites
+d entree en fonction du champ de vent initial et ou des valeurs des
+autres mots cles. Si il est pris egal a 7 un spectre de type
+TMA parametre est specifie aux limites.
+**Mots-cles associes :**
+HAUTEUR SIGNIFICATIVE INITIALE
+FREQUENCE DE PIC INITIALE
+FACTEUR DE PIC INITIAL
+VALEUR INITIALE DE SIGMA-A POUR SPECTRE
+VALEUR INITIALE DE SIGMA-B POUR SPECTRE
+CONSTANTE DE PHILLIPS INITIALE
+VALEUR MOYENNE DU FETCH INITIAL
+FREQUENCE DE PIC MAXIMALE
+DIRECTION PRINCIPALE 1 INITIALE
+ETALEMENT DIRECTIONNEL 1 INITIAL
+DIRECTION PRINCIPALE 2 INITIALE
+ETALEMENT DIRECTIONNEL 2 INITIAL
+FACTEUR DE PONDERATION POUR FRA INITIALE
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Spectre JONSWAP"';
+'2="Spectre JONSWAP"';
+'3="Spectre JONSWAP"';
+'4="Spectre JONSWAP"';
+'5="Spectre JONSWAP"';
+'6="Spectre JONSWAP"';
+'7="Spectre TMA"

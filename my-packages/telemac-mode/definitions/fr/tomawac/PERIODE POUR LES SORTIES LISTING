@@ -1,0 +1,5 @@
+AIDE = Determine la periodicite,
+en nombre de pas de temps
+des messages du code sur le fichier listing
+
+DÉFAUT = 1

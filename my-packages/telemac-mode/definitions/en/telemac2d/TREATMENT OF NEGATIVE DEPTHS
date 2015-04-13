@@ -1,0 +1,4 @@
+HELP = Only with OPTION FOR THE TREATMENT OF TIDAL FLATS
+0: no treatment 1:smoothing 2:flux control
+
+DEFAULT = 1

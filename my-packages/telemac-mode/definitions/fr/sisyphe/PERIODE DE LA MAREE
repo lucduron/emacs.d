@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur de la periode de l'evenement
+(maree ou crue) en non permanent.
+
+DÉFAUT = 44640.

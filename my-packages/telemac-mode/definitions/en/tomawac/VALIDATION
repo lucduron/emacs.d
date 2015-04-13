@@ -1,0 +1,5 @@
+HELP = True if the computation is a validation
+**Related keyword :**
+REFERENCE FILE
+
+DEFAULT = .FALSE.

@@ -1,0 +1,3 @@
+HELP = Friction coefficient on the lateral boundaries, if constant
+
+DEFAULT = 60.

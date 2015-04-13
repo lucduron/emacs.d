@@ -1,0 +1,3 @@
+HELP = number of processors for domain decomposition
+
+DEFAULT = 0

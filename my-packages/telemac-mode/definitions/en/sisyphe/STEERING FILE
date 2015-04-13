@@ -1,0 +1,4 @@
+HELP = Name of the file containing the parameters
+of the computation. Could be written by the user with EDAMOX.
+
+DEFAULT = no value

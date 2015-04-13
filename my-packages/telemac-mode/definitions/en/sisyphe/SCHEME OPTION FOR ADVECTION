@@ -1,0 +1,7 @@
+HELP = If present replaces and has priority over:
+OPTION FOR CHARACTERISTICS (not yet implemented)
+SUPG OPTION
+IF PSI SCHEME: 1=explicit 2=predictor-corrector
+for tracers
+
+DEFAULT = 1

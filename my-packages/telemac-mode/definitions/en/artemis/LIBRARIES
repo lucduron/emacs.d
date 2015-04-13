@@ -1,0 +1,3 @@
+HELP = Set of libraries required for an ARTEMIS computation.
+
+DEFAULT = artemis,telemac,util,damo,bief,hp

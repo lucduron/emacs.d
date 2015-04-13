@@ -1,0 +1,6 @@
+HELP = Number of smoothings made on bottom features. Each smoothing,
+being made by means of a mass matrix, is conservative. To be used when
+the bathymetric data yield too irregular data after interpolation.
+Also refer to the CORFON subroutine.
+
+DEFAULT = 0

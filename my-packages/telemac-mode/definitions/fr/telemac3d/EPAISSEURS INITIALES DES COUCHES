@@ -1,0 +1,3 @@
+AIDE = Epaisseurs initiales des sediments (m)
+
+DÉFAUT = 10.D0;10.D0

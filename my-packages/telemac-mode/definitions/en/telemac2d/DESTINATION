@@ -1,0 +1,4 @@
+HELP = Possible name of a workstation to which the user wants
+to reroute the result file.
+
+DEFAULT = CHE43A

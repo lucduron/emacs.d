@@ -1,0 +1,4 @@
+HELP = Variations in time of boundary conditions. Data of this file are read
+on channel SIS_FILES(SISLIQ)%LU.
+
+DEFAULT = no value

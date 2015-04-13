@@ -1,0 +1,5 @@
+AIDE = Parametre pour la deviation causee par effet de pente
+pour la formule de Talmon et al.
+Une valeur elevee provoque une faible deviation
+
+DÉFAUT = 0.85

@@ -1,0 +1,6 @@
+HELP = Parameter defining the standard configuration for
+the quadruplet interactions in the DIA method.
+**Related keywords :**
+NON-LINEAR TRANSFERS
+
+DEFAULT = 0.25

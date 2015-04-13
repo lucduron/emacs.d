@@ -1,0 +1,7 @@
+AIDE = Definit le logiciel graphique choisi pour la realisation des
+sorties graphiques du calcul precedent :
+1: LEONARD
+2: RUBENS
+3: SELAFIN.
+
+DÉFAUT = 3

@@ -1,0 +1,3 @@
+AIDE = Nom du fichier contenant les types de conditions aux limites.
+Ce fichier est rempli de facon automatique par le mailleur au moyen de
+couleurs affectees aux noeuds des frontieres du domaine de calcul.

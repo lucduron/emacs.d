@@ -1,0 +1,7 @@
+HELP = Treatment of tidal flats at diffusion step for velocities.
+
+CHOICE = '0
+'1="VALUE BEFORE MASKED"'
+CONTROLE = 0 ; 1
+
+DEFAULT = 0

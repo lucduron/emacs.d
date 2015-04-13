@@ -1,0 +1,6 @@
+AIDE = Prise en compte ou non des termes de convection.
+En cas de reponse positive,
+on peut encore supprimer certains termes de convection avec
+les mots-cles SCHEMA POUR LA CONVECTION...
+
+DÉFAUT = OUI

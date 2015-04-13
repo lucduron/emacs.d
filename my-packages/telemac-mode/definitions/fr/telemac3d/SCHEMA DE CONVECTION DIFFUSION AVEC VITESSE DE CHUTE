@@ -1,0 +1,6 @@
+AIDE = Choix de schema vertical pour la diffusion et le depot du sediment
+: 0 Diffusion implicite
+: 1 schema implicit de convection-diffusion (tridiagonal matrix solver)
+: 2 convection faible sed_fall.f
+
+DÉFAUT = 0

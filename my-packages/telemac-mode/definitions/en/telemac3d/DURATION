@@ -1,0 +1,6 @@
+HELP = duration of simulation. May be used instead of the parameter
+NUMBER OF TIME STEPS. The nearest integer to (duration/time step) is
+taken.
+IF NUMBER OF TIME STEPS is also given, the greater value is taken
+
+DEFAULT = 0.

@@ -1,0 +1,5 @@
+AIDE = 1 : Fond plat ks
+2: Fond ride (methode de Wiberg et Harris),
+3: Dunes et megarides (methode de Van Rijn)
+
+DÉFAUT = 1

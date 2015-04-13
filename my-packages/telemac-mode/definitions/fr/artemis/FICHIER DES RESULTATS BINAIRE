@@ -1,0 +1,8 @@
+AIDE = Fichier des resultats, code en binaire, mis a la disposition de
+l'utilisateur.
+Les resultats a placer dans ce fichier seront a ecrire sur
+le canal 28.
+
+DÉFAUT = aucun
+
+CHOIX = resubin

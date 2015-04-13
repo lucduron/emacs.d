@@ -1,0 +1,3 @@
+HELP = Initial percentage of non cohesive sediment
+
+DEFAULT = 0.D0

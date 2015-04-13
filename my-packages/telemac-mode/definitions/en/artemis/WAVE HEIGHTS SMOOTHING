@@ -1,0 +1,6 @@
+HELP = YES when one wants to smooth the wave heights
+to improve the radiation stresses computation
+(only used in regular wave mode).
+Default value = NO.
+
+DEFAULT = NON

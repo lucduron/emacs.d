@@ -1,0 +1,4 @@
+AIDE = Nom eventuel d'une station de travail sur laquelle
+l'utilisateur desire rediriger le fichier des resultats du calcul.
+
+DÉFAUT = CHE43A

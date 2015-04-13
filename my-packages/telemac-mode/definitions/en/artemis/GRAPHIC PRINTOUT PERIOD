@@ -1,0 +1,5 @@
+HELP = Fixes the period, in number of wave periods, for the writing
+of the VARIABLES FOR GRAPHIC PRINTOUTS (see this key-word) in the
+RESULTS FILE
+
+DEFAULT = 1

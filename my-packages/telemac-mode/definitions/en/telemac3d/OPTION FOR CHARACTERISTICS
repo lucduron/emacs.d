@@ -1,0 +1,5 @@
+HELP = 1: strong form 2: weak form
+
+CHOICE = '1
+
+DEFAULT = 1

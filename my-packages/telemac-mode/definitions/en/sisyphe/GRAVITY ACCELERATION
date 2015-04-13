@@ -1,0 +1,4 @@
+HELP = Sets the value of the acceleration due to gravity.
+M/S2
+
+DEFAULT = 9.81

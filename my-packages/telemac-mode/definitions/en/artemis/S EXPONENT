@@ -1,0 +1,8 @@
+HELP = Used with the option :
+MULTIDIRECTIONAL RANDOM WAVE = YES
+Fixes the maximum value of exponent S in the Goda formula used to
+express the directional wave energy spreading.
+See GODA Y., Random Seas and Design of Maritime Structures - Univ.
+of Tokyo Press, 1987.
+
+DEFAULT = 20.

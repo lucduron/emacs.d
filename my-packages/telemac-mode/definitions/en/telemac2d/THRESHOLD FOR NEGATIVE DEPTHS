@@ -1,0 +1,3 @@
+HELP = Below the threshold the negative depths are smoothed
+
+DEFAULT = 0.

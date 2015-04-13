@@ -1,0 +1,7 @@
+AIDE = permet de realiser des sous iterations au sein de la
+boucle en temps (En mode non permananet).
+Peut etre utile en non permanent lorsque le
+pas de temps qui est donne par le pas de sortie graphique du
+FICHIER DE CALCUL PRECEDENT est trop grand.
+
+DÉFAUT = 1

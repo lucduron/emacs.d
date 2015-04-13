@@ -1,0 +1,4 @@
+AIDE = Nom du fichier contenant les informations variables
+en temps des sources
+
+DÉFAUT = aucun

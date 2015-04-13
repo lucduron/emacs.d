@@ -1,0 +1,4 @@
+HELP = Value of the critical bottom shear stress under which
+deposition occurs.
+
+DEFAULT = 0.2

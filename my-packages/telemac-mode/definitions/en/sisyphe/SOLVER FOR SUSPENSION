@@ -1,0 +1,7 @@
+CHOICE = 1
+'2="conjugate residual"';
+'3="conjugate gradient on a normal equation"';
+'4="minimum error"';
+'7="gmres (see option for the solver for tracer diffusion)"
+
+DEFAULT = 3

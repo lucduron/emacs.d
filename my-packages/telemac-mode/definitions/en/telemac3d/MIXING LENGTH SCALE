@@ -1,0 +1,3 @@
+HELP = Set the mixing length scale for deep waters
+
+DEFAULT = 10.

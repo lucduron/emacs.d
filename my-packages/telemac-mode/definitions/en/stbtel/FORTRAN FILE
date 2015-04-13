@@ -1,0 +1,6 @@
+HELP = Name of FORTRAN file to be entered.
+It is a priori only designed for dimensioning the arrays that are
+used by STBTEL, but it may contain either modified or user-written
+subroutines.
+
+DEFAULT = DEFAUT

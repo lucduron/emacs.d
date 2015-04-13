@@ -1,0 +1,3 @@
+HELP = 'Activate the conversion module.'
+
+DEFAULT = NO

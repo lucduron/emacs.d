@@ -1,0 +1,32 @@
+HELP = Name of variables taht the user whishes to write on the screen.
+Possibilities are the same as for graphic outputs.
+
+CHOICE = 'HS="wave height"';
+'PHAS="wave phase"';
+'U0="velocity u (free surface)(t=0)"';
+'V0="velocity v (free surface)(t=0)"';
+'ZS="free surface elevation (t=0)"';
+'ZF="bottom elevation"';
+'HW="still water height"';
+'C="phase velocity"';
+'CG="group velocity"';
+'K="wave number"';
+'PHIR="real potential"';
+'PHII="imaginal potential"';
+'D="prive(1,1)"';
+'E="prive(1,2)"';
+'F="prive(1,3)"';
+'G="prive(1,4)"';
+'T01="first mean spectral period"';
+'T02="second mean spectral period"';
+'TM="third mean spectral period"';
+'FX="force along X"';
+'FY="force along Y"';
+'INC="wave incidence radian"';
+'QB="breaking rate"';
+'SXX="SXX stress"';
+'SXY="SXY stress"';
+'SYY="SYY stress"'
+COMPOSE = ','
+
+DEFAULT = no value

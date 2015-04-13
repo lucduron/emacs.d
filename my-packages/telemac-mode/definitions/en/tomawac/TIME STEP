@@ -1,0 +1,5 @@
+HELP = Define the time step in seconds.
+**Related keywords :**
+NUMBER OF TIME STEPS
+
+DEFAULT = 1.

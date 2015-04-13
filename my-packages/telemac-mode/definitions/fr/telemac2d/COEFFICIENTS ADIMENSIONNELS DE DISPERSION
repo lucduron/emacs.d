@@ -1,0 +1,4 @@
+AIDE = coefficients longitudinal et transversal dans la formule de
+Elder. Utilises uniquement avec le modele de turbulence 2
+
+DÉFAUT = 6. ; 0.6

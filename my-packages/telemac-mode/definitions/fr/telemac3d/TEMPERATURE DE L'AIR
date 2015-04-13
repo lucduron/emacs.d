@@ -1,0 +1,4 @@
+AIDE = Fixe la temperature de l'air dans le cas d'echanges avec
+l'atmosphere.
+
+DÉFAUT = 10.

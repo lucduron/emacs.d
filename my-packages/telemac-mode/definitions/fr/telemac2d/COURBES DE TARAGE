@@ -1,0 +1,4 @@
+AIDE = Indique si une courbe de tarage doit etre utilisee
+pour une frontiere 0:non 1:Z(Q) 2: Q(Z) (2 non programme)
+
+CHOIX = '0

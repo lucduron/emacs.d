@@ -1,0 +1,3 @@
+HELP = Mass-lumping of the mass-matrix in the diffusion step
+
+DEFAULT = 0.

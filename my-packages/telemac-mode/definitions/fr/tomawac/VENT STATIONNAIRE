@@ -1,0 +1,5 @@
+AIDE = Indique si le vent evolue dans le temps et doit etre mis a jour
+**Mots-cles associes :**
+PRISE EN COMPTE DU VENT
+
+DÉFAUT = .TRUE.

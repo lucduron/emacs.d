@@ -1,0 +1,7 @@
+AIDE = NOMBRE DE PROCESSEURS EN CALCUL PARALLELE
+0 : 1 machine, compilation sans bibliotheque de parallelisme
+1 : 1 machine, compilation avec bibliotheque de parallelisme
+2 : 2 processeurs ou machines en parallele
+etc...
+
+DÉFAUT = 0

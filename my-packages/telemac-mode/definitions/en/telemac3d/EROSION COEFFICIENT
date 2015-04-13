@@ -1,0 +1,4 @@
+HELP = value of the erosion coefficient used in Partheniades
+formula in Kg/m/s
+
+DEFAULT = 2.E-3

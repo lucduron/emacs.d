@@ -1,0 +1,4 @@
+HELP = CPU time (in sec) specified for a computation on CRAY.
+Warning : it is written as a Character.
+
+DEFAULT = 10

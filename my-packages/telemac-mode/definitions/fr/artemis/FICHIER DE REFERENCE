@@ -1,0 +1,4 @@
+AIDE = Fichier de resultats de reference pour la validation.
+Les resultats a placer dans ce fichier seront a ecrire sur le canal 22.
+
+DÉFAUT = aucun

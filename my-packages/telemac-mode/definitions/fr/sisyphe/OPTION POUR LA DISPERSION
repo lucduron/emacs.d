@@ -1,0 +1,7 @@
+AIDE = 1 les mots cles dispersion longitudinale
+et dispersion transversale permettent d affecter une valeur constante,
+2 K1=alphal u*h et K2=alphat u*h affectent les valeurs alphal et alphat
+(par default alphal=6 et alphat=0.6, 3 dipersion fournie par
+telemac2d
+
+DÉFAUT = 1

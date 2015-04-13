@@ -1,0 +1,10 @@
+AIDE = Type du binaire utilise pour l'ecriture des fichiers des
+coupes.
+Ce type depend de la machine sur laquelle le fichier a ete genere.
+Les valeurs possibles sont les memes que pour le fichier des
+resultats 3D.
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'I3E

@@ -1,0 +1,4 @@
+HELP = Vertical bed structure - The number of layers should be less
+than 10
+
+DEFAULT = 1

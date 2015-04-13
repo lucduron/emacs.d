@@ -1,0 +1,4 @@
+AIDE = Fixe la valeur de la contrainte de cisaillement au fond
+au dessous de laquelle se produit le depot.
+
+DÉFAUT = 0.2

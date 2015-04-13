@@ -1,0 +1,3 @@
+HELP = Values less than 1 may suppress spurious oscillations
+
+DEFAULT = 1.

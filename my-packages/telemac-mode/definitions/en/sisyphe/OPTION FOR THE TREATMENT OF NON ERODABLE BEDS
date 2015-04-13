@@ -1,0 +1,11 @@
+HELP = This parameters determines the method used to treat the
+non erodable bottoms :
+0 = ERODABLE BOTTOMS EVERYWHERE
+1 = MINIMISATION OF THE SOLID DISCHARGE
+2 = NUL SOLID DISCHARGE
+3 = MINIMISATION OF THE SOLID DISCHARGE IN FE / MASS-LUMPING
+4 = MINIMISATION OF THE SOLID DISCHARGE IN FINITE VOLUMES
+When the rigid bed can be reached during the computation, it is advised
+to use the method 3 or the method 4
+
+DEFAULT = 0

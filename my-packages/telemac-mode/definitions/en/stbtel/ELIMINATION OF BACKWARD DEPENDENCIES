@@ -1,0 +1,7 @@
+HELP = 'Provides for renumbering of the mesh nodes in order to eliminate the
+backward dependencies, thereby enabling a forced vectorisation when
+the TELEMAC 2D computations are made on a CRAY.
+Warning: about 500 nodes is the least number required for activating
+this option.'
+
+DEFAULT = YES

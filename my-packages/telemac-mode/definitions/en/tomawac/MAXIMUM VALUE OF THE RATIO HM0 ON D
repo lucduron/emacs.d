@@ -1,0 +1,7 @@
+HELP = At the beginning of the integration of the source terms,
+the wave height is lopped in order to satisfy the specified
+ctiterium.
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+
+DEFAULT = 1.

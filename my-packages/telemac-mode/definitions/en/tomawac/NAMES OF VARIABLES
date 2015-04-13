@@ -1,0 +1,12 @@
+HELP = Names of variables in SERAFIN format files
+1: Velocity U
+2: Velocity V
+3: Wind velocity along X
+4: Wind velocity along Y
+5: Depth
+
+DEFAULT = VITESSE U       M/S             ';
+'VITESSE V       M/S             ';
+'VENT X          M/S             ';
+'VENT Y          M/S             ';
+'HAUTEUR D'EAU   M

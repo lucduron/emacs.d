@@ -1,0 +1,4 @@
+HELP = drag forces from vertical structures are taken into account.
+(subroutine DRAGFO must then be implemented)
+
+DEFAULT = NO

@@ -1,0 +1,4 @@
+AIDE = Temps CPU (en secondes) alloue pour la realisation du calcul.
+Attention, il s'agit bien d'une chaine de caracteres.
+
+DÉFAUT = 10

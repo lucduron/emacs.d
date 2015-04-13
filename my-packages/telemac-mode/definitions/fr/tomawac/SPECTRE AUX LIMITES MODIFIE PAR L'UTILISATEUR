@@ -1,0 +1,8 @@
+AIDE = Indique si l'utilisateur desire modifier le spectre
+aux limites. Il doit alors rapatrier chez lui le sous programme
+limwac.f dans le cas d une discretisation frequentielle du
+spectre et le sous programme spelim.f sinon.
+**Mots-cles associes :**
+TYPE DE SPECTRE DIRECTIONNEL AUX LIMITES
+
+DÉFAUT = .FALSE.

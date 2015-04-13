@@ -1,0 +1,7 @@
+HELP = 'When you want to refine a piece of the mesh, this key-word fixes
+the number of vertices of a polygon inside of which the mesh will be
+finally refined.
+ATTENTION: this polygon should have a convex shape and the coordinates
+of the vertices be given with an anti clock wise order.'
+
+DEFAULT = 0

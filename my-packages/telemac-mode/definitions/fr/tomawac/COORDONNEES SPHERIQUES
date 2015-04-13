@@ -1,0 +1,6 @@
+AIDE = Indique si on se place ou non en coordonnes spheriques.
+ATTENTION, en coordonnees cartesiennes, les coordonnees sont
+exprimees em m alors que ce sont des degres en coordonnees
+spheriques.
+
+DÉFAUT = .FALSE.

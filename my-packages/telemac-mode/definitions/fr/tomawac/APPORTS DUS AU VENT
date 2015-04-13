@@ -1,0 +1,30 @@
+AIDE = Choix du type de modelisation du terme source d apport
+par le vent. Si sa valeur est 0, on ne prend pas en compte les
+apports dus au vent, si sa valeur est 1, ils sont integres selon
+la formule utilisee dans WAM cycle 4;
+si sa valeur est 2, ils sont integres selon la formule utilisee
+dans WAM cycle 3; si sa valeur est 3, ils sont integres selon
+l expression de Yan (1987).
+**Mots-cles associes :**
+PRISE EN COMPTE DU VENT
+FICHIER DES VENTS
+DENSITE DE L'AIR
+DENSITE DE L'EAU
+COEFFICIENT DE GENERATION PAR LE VENT
+CONSTANTE DE VON KARMAN
+CONSTANTE DE CHARNOCK
+DECALAGE COURBE DE CROISSANCE DUE AU VENT
+COTE DE MESURE DES VENTS
+COEFFICIENT DE TRAINEE DE VENT
+COEFFICIENT A DE GENERATION PAR LE VENT
+COEFFICIENT B DE GENERATION PAR LE VENT
+COEFFICIENT C DE GENERATION PAR LE VENT
+COEFFICIENT D DE GENERATION PAR LE VENT
+COEFFICIENT TM DE GENERATION PAR LE VENT
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Apport dus au vent selon WAM cycle 4"';
+'2="Apport dus au vent selon WAM cycle 3"';
+'3="Apport dus au vent selon expression de Yan (1987)"

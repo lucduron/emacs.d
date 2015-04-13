@@ -1,0 +1,6 @@
+AIDE = Fichier binaire contenant un spectre issu de TOMAWAC.
+Les donnees de ce fichier seront a lire sur le canal 30.
+
+DÉFAUT = aucun
+
+CHOIX = binaire1

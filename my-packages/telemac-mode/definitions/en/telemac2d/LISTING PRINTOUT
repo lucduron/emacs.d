@@ -1,0 +1,7 @@
+HELP = Result printout on hard copy.
+When NO is selected, the listing only includes the heading and the
+phrase "NORMAL END OF PROGRAM"
+In addition, the options MASS BALANCE and VALIDATION are inhibited.
+Not recommended for use.
+
+DEFAULT = YES

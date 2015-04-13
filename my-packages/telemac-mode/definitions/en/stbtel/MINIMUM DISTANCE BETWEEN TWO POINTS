@@ -1,0 +1,6 @@
+HELP = 'Distance (in meters) below which two nodes are considered as identical
+by STBTEL when the results supplied by the mesh generator are being
+checked. When two nodes occur at the same place, one of them is
+eliminated and all the mesh nodes are renumbered.'
+
+DEFAULT = 1.E-5

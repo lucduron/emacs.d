@@ -1,0 +1,5 @@
+AIDE = 0 : rien   1 : fonction de T   2 : fonction de la salinite
+3 : fonction de temperature et salinite
+4 : beta donne
+
+DÉFAUT = 0

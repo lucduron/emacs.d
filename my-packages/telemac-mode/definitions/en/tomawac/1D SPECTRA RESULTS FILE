@@ -1,0 +1,10 @@
+HELP = Name of the file into which the frequential punctual
+spectra (integrated according to the directions) will be written.
+**Related keywords :**
+PUNCTUAL RESULTS FILE
+ABSCISSAE OF SPECTRUM PRINTOUT POINTS
+ORDINATES OF SPECTRUM PRINTOUT POINTS
+PERIOD FOR GRAPHIC PRINTOUTS
+NUMBER OF FIRST ITERATION FOR GRAPHIC PRINTOUTS
+
+DEFAULT = no value

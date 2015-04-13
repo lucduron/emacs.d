@@ -1,0 +1,4 @@
+HELP = The advection of H  is taken into account or ignored.
+Actually, in version 2.0, the matter is about C advection.
+
+DEFAULT = YES

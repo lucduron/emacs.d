@@ -1,0 +1,4 @@
+HELP = to add or remove water at the free surface. See the key-word
+RAIN OR EVAPORATION IN MM PER DAY
+
+DEFAULT = NO

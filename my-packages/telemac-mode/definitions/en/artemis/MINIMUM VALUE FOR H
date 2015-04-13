@@ -1,0 +1,4 @@
+HELP = Fixes the minimum value of H
+Non active at the moment.
+
+DEFAULT = 1.E-7

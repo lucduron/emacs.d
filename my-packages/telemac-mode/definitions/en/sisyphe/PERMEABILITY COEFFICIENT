@@ -1,0 +1,3 @@
+HELP = Coefficient of permeability for consolidation model
+
+DEFAULT = 8.D0

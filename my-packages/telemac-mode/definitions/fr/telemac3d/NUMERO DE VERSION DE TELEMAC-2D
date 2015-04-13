@@ -1,0 +1,5 @@
+AIDE = Numero de version des bibliotheques utilisees par TELEMAC.
+Si ce nom commence par D il s'agit de l'option Debug (exemple DV3P2)
+Si ce nom commence par F il s'agit de l'option Flowtrace
+
+DÉFAUT = V7P0

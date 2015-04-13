@@ -1,0 +1,4 @@
+HELP = 'When a mesh is extracted inside a polygon, indicates whether the mesh
+should be projected through the faces of the polygon or not.'
+
+DEFAULT = YES

@@ -1,0 +1,6 @@
+AIDE = 1 : EBE classique  3 : Stockage par segments
+
+DÉFAUT = 3
+
+CHOIX = 1
+'3="Stockage par segments"

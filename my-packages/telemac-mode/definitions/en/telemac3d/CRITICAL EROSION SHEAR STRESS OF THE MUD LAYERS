@@ -1,0 +1,5 @@
+HELP = Critical erosion shear stress of the mud per layer (N per m2).
+Needs to be defined  for each layer (N par m2),
+starting from the condolidated bottom layer upwards
+
+DEFAULT = 0.05D0;0.05D0

@@ -1,0 +1,5 @@
+HELP = Name of validation data file
+**Related keywords :**
+VALIDATION
+
+DEFAULT = no value

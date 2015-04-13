@@ -1,0 +1,5 @@
+AIDE = Nom generique des fichiers des coupes verticales.
+Le fichier contenant la coupe i au j ieme pas de temps enregistre aura
+pour nom ce nom generique suivi de l'extension '.i.j'.
+
+DÉFAUT = aucun

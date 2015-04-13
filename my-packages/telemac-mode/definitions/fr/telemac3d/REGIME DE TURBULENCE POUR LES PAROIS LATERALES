@@ -1,0 +1,6 @@
+AIDE = Definit le regime de turbulence pour les parois laterales
+
+DÉFAUT = 2
+
+CHOIX = 1
+'2="rugueux"

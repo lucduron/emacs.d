@@ -1,0 +1,14 @@
+HELP = When wave-blocking effects are present (wave stopped by
+a strong opposing current), two options are possible.
+If its value is 1, an upper limit is imposed to the spectrum,
+using a Phillips (1977) shape.
+If its value is 2, a dissipative term is added, following
+Van der Westhuysen (2012).
+**Related keywords:**
+DISSIPATION COEFFICIENT FOR STRONG CURRENT
+
+CHOICE = 0
+'1="Spectrum limitation by a Phillips shape"';
+'2="Dissipation in accordance with Van der Westhuysen(2012)"
+
+DEFAULT = 0

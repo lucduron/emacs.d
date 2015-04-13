@@ -1,0 +1,6 @@
+HELP = Determines, in number of time steps, the printout period of
+the VARIABLES TO BE PRINTED
+The results are systematically printed out on the listing file
+(file CAS.SORTIE at the workstation).
+
+DEFAULT = 1

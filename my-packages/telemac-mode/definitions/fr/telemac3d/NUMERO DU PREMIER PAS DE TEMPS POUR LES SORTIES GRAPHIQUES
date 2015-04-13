@@ -1,0 +1,4 @@
+AIDE = Determine le numero de pas de temps a partir duquel debute
+l'ecriture des resultats dans le 'FICHIER DES RESULTATS 2D ou 3D'.
+
+DÉFAUT = 0

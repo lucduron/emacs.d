@@ -1,0 +1,11 @@
+AIDE = 1 : profil normal constant
+2 : u et v donnes dans le fichier conlim
+3 : vitesse normale donnee dans ubor dans le fichier conlim
+4 : vitesse en sqrt(h)
+5 : comme 4 mais hauteur virtuelle calculee avec
+la surface libre la plus basse de la frontiere
+
+CHOIX = 1
+conlim"';'3="Vitesse normale donnee dans ubor dans le fichier
+conlim"';'4="Vitesse= racine carree de h"';
+'5="comme 4 mais avec hauteur virtuelle, voir aide"

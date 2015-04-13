@@ -1,0 +1,12 @@
+AIDE = viscosite cinematique du fluide (eau) en m2/s.
+
+DÉFAUT = 1.0E-6
+
+CHOIX = '1.793E-6 = " 1.793E-6 : Pour une temperature de 0 C."';
+'1.567E-6 = " 1.567E-6 : Pour une temperature de 4 C."';
+'1.237E-6 = " 1.237E-6 : Pour une temperature de 12 C."';
+'1.112E-6 = " 1.112E-6 : Pour une temperature de 16 C."';
+'1.011E-6 = " 1.011E-6 : Pour une temperature de 20 C."';
+'0.802E-6 = " 0.802E-6 : Pour une temperature de 30 C."';
+'0.661E-6 = " 0.661E-6 : Pour une temperature de 40 C."';
+'1.0E-6   = " 1.0E-6   : Valeur par defaut"'

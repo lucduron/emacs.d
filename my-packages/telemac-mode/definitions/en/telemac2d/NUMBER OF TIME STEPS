@@ -1,0 +1,4 @@
+HELP = Specifies the number of time steps performed when running
+the code.
+
+DEFAULT = 1

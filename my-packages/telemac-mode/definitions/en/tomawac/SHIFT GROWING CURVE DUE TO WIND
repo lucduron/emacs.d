@@ -1,0 +1,5 @@
+HELP = Constant used in the wind source term.
+**Related keywords:**
+WIND GENERATION
+
+DEFAULT = 0.011

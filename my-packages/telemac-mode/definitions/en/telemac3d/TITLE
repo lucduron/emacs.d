@@ -1,0 +1,4 @@
+HELP = Title of the case being considered. This title will be marked
+on the drawings.
+
+DEFAULT = no value

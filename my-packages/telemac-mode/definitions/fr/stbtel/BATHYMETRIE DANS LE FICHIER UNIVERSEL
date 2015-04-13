@@ -1,0 +1,4 @@
+AIDE = 'Permet de relire la bathymetrie directement dans le fichier de
+maillage (Trigrid ou Fasttabs).'
+
+DÉFAUT = NON

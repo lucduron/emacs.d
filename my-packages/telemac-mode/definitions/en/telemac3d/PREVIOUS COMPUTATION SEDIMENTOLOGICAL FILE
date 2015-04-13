@@ -1,0 +1,6 @@
+HELP = Name of a file containing the sedimentological parameters
+(thickness and concentration of the bed...),results of an earlier
+computation which was made on the same mesh. The last recorded time
+step will providthe initial conditions for the new computation.
+
+DEFAULT = no value

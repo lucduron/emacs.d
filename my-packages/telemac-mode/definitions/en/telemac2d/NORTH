@@ -1,0 +1,4 @@
+HELP = Angle of the North with the y axis, in degrees. 10.5 means
+10 degrees and 30 minutes.
+
+DEFAULT = 0.

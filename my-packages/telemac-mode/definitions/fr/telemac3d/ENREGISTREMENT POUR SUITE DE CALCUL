@@ -1,0 +1,5 @@
+AIDE = En cas de suite de calcul, numero de l'enregistrement
+de depart dans le fichier du calcul precedent. 0 signifie
+que l'on prend le dernier enregistrement
+
+DÉFAUT = 0

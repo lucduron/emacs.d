@@ -1,0 +1,3 @@
+HELP = allows to filter hydrostatic inconsistencies
+
+DEFAULT = NO

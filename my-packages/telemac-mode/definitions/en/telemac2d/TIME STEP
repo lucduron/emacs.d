@@ -1,0 +1,3 @@
+HELP = Specifies the time step in seconds.
+
+DEFAULT = 1.

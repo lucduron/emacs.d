@@ -1,0 +1,4 @@
+HELP = Specifies the value of the beta coefficient used in the Koch
+and Flokstra slope effect formulation.
+
+DEFAULT = 1.3

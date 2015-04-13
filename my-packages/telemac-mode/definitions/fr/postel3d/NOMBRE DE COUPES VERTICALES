@@ -1,0 +1,4 @@
+AIDE = Permet de definir simultanement plusieurs coupes verticales.
+La valeur maximale autorisee est 9.
+
+DÉFAUT = 0

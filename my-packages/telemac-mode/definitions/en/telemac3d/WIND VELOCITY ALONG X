@@ -1,0 +1,3 @@
+HELP = Wind velocity, component along x axis (m/s), if constant.
+
+DEFAULT = 0.

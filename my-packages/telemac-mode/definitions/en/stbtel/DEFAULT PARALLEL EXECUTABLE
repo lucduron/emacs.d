@@ -1,0 +1,3 @@
+HELP = Default parallel executable for Stbtel
+
+DEFAULT = builds|PPP|bin|stbtelMMMVVV.exe

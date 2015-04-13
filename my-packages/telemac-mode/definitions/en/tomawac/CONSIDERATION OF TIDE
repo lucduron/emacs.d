@@ -1,0 +1,10 @@
+HELP = Indicates whether a current is taken into account, either in
+a file or in cdicow.f.
+**Related keyword :**
+FORMATTED TIDAL WATER LEVEL FILE
+BINARY TIDAL WATER LEVEL FILE
+TIDAL WATER LEVEL FILE FORMAT
+TIDE REFRESHING PERIOD
+TIDAL WATER LEVEL FILE BINARY
+
+DEFAULT = .FALSE.

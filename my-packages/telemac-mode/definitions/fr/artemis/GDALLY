@@ -1,0 +1,5 @@
+AIDE = Donne le coefficient Gammad dans la Formulation de la dissipation
+par Dally et al., 1984. Ne pas confondre avec Gamma (Formule de Jonswap)
+et Gammas (Critere de deferlement)
+
+DÉFAUT = 0.4

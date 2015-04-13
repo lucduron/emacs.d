@@ -1,0 +1,3 @@
+HELP = 'Value to be added at the bottom value read in the Trigrid file'
+
+DEFAULT = 0.

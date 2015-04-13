@@ -1,0 +1,4 @@
+HELP = if YES, prints the number of iterations that have been necessar
+to get the solution of the linear system.
+
+DEFAULT = YES

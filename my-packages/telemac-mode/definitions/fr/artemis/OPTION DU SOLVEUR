@@ -1,0 +1,4 @@
+AIDE = Parametre definissant la dimension de l'espace de Krylov
+pour le solveur 7 (GMRES)
+
+DÉFAUT = 3

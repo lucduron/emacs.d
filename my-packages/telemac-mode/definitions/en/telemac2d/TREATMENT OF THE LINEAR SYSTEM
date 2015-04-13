@@ -1,0 +1,5 @@
+HELP = 1 : Coupled  2 : wave equation
+
+CHOICE = '1
+
+DEFAULT = 1

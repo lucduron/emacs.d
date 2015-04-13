@@ -1,0 +1,57 @@
+HELP = Names of variables to be written in the results file.
+Free choice of separator. You can ask for:
+- U   : velocity along x (m/s),
+- V   : velocity along y (m/s),
+- W   : velocity along z (m/s),
+- Z   : elevation z (m),
+- TAx : concentration of tracers,
+- NUX : viscosity for U and V along x (m2/s),
+- NUY : viscosity for U and V along y (m2/s),
+- NUZ : viscosity for U and V along z (m2/s),
+- NAX : viscosity for tracers along x (m2/s),
+- NAY : viscosity for tracers along y (m2/s),
+- NAZ : viscosity for tracers along z (m2/s),
+- RI  : Richardson number for mixing length model,
+- K   : turbulent kinetic energy for k-epsilon model (J/kg),
+- EPS : dissipation of turbulent kinetic energy (W/kg),
+- DP  : dynamic pressure (multiplied by DT/RHO),
+- PH  : hydrostatic pressure (in Pascals),
+- RHO : relative density,
+- P1  : private variable 1,
+- P2  : private variable 2,
+- P3  : private variable 3,
+- P4  : private variable 4
+
+CHOICE = U
+'V="velocity along y axis (m/s)"';
+'W="velocity along z axis (m/s)"';
+'Z="elevation z (m)"';
+'TA1="concentration for tracer 1"';
+'TA2="concentration for tracer 2"';
+'TA3="concentration for tracer 3"';
+'TA4="concentration for tracer 4"';
+'TA5="concentration for tracer 5"';
+'TA6="concentration for tracer 6"';
+'TA7="concentration for tracer 7"';
+'TA8="concentration for tracer 8"';
+'TA9="concentration for tracer 9"';
+'TA*="concentrations for tracers from 1 to 9"';
+'TA**="concentrations for tracers from 10 to 99"';
+'NUX="viscosity for U and V along x axis (m2/s)"';
+'NUY="viscosity for U and V along y axis (m2/s)"';
+'NUZ="viscosity for U and V along z axis (m2/s)"';
+'NAX="viscosity for tracers along x axis (m2/s)"';
+'NAY="viscosity for tracers along y axis (m2/s)"';
+'NAZ="viscosity for tracers along z axis (m2/s)"';
+'RI="Richardson number in case of mixing length model"';
+'K="turbulent energie for k-epsilon model (J/kg)"';
+'EPS="dissipation of turbulent energie (W/kg)"';
+'DP="dynamic pressure (multiplied by DT/RHO)"';
+'PH="hydrostatic pressure (in Pascals)"';
+'RHO="relative density"';
+'P1="private variable 1"';
+'P2="private variable 2"';
+'P3="private variable 3"';
+'P4="private variable 4"
+
+DEFAULT = Z,U,V,W

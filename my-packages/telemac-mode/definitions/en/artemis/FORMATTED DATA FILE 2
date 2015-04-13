@@ -1,0 +1,4 @@
+HELP = Data file, written in ASCII mode, at the disposal of the user.
+Data of this file must be read on unit 27.
+
+DEFAULT = no value

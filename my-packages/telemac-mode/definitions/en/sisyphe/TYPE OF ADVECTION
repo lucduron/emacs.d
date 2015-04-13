@@ -1,0 +1,20 @@
+HELP = Scheme used for advection of suspended sediment :
+1: characteristics
+2: semi-implicit SUPG
+3 et 4: N scheme
+5: psi scheme
+6: non conservative psi scheme
+7: non conservative N scheme
+13 et 14: Edge-based N scheme (recommended for tidal flats)
+
+CHOICE = '1="CHARACTERISTICS"';
+'2="SUPG"';
+'3="CONSERVATIVE N-SCHEME"';
+'4="CONSERVATIVE N-SCHEME"';
+'5="CONSERVATIVE PSI-SCHEME"';
+'6="NON CONSERVATIVE PSI SCHEME"';
+'7="IMPLICIT NON CONSERVATIVE N SCHEME"';
+'13="EDGE-BASED N-SCHEME"';
+'14="EDGE-BASED N-SCHEME"'
+
+DEFAULT = 1

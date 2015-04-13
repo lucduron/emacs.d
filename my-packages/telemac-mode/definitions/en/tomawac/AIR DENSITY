@@ -1,0 +1,7 @@
+HELP = The ratio ROAIR/ROEAU is used in the wind generation
+source term.
+**Related keywords:**
+WIND GENERATION
+WATER DENSITY
+
+DEFAULT = 1.225

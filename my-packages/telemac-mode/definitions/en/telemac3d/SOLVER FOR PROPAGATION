@@ -1,0 +1,13 @@
+HELP = Choice of the solver for the propagation equation
+
+CHOICE = '1
+'2="conjugate residual"';
+'3="conjugate gradient on a normal equation"';
+'4="minimum error"';
+'5="squared conjugate gradient"';
+'6="cgstab"';
+'7="gmres"';
+'8="direct solver"'
+CONTROLE = 1 ; 7
+
+DEFAULT = 1

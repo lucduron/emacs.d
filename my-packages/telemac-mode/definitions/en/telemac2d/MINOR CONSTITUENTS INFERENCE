@@ -1,0 +1,6 @@
+HELP = For TPXO tidal data base only.
+Inference of minor constituents from the one read in input files
+linked to keywords BINARY DATABASE 1 FOR TIDE
+and BINARY DATABASE 2 FOR TIDE
+
+DEFAULT = NO

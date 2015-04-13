@@ -1,0 +1,7 @@
+HELP = Number of Timesteps to next printout
+of the full C-VSM. These printouts are highly
+time and disc consuming.
+0 = Coupled to GRAPHIC PRINTOUT PERIOD
+>0 = Own printout period for the C-VSM
+
+DEFAULT = 0

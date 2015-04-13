@@ -1,0 +1,5 @@
+HELP = Fixes the coefficient Alpha used in the formulation of the dissipation
+coefficient through breaking proposed by Battjes & Janssen, 1978
+for random waves.
+
+DEFAULT = 1.0

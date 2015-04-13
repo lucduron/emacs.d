@@ -1,0 +1,5 @@
+HELP = Takes into account the advection terms or not.
+If yes, some advection terms can still be deleted with the keywords
+SCHEME FOR ADVECTION OF...
+
+DEFAULT = YES

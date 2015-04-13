@@ -1,0 +1,4 @@
+AIDE = Place memoire (en mots de 8 octets) reservee en machine pour la
+realisation du calcul.
+
+DÉFAUT = 1500000W

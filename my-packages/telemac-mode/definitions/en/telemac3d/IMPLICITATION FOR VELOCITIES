@@ -1,0 +1,6 @@
+HELP = Sets the value of the implicitation coefficient
+for the velocity
+in the propagation step (cf. Principe note).
+The values lower than 0.5 give an instable scheme.
+
+DEFAULT = 1.

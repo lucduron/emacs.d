@@ -1,0 +1,4 @@
+AIDE = 'Fixe la valeur a ajouter a la bathymetrie lue dans le fichier
+gemere par Trigrid.'
+
+DÉFAUT = 0.

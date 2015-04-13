@@ -1,0 +1,4 @@
+AIDE = 'Permet de dimensionner le tableau utilise pour la lecture, dans les
+FICHIERS DES FONDS, des points releves a la table a digitaliser.'
+
+DÉFAUT = 20000

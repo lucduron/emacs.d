@@ -1,0 +1,15 @@
+HELP = Option for tidal boundary conditions.
+For real tides, option 1 is recommended.
+Possible calibration with keywords COEFFICIENT TO ADJUST TIDAL RANGE
+and COEFFICIENT TO ADJUST SEA LEVEL.
+
+CHOICE = '0="No tide"';
+'1="Real tide (recommended methodology)"';
+'2="Astronomical tide"';
+'3="Mean spring tide"';
+'4="Mean tide"';
+'5="Mean neap tide"';
+'6="Astronomical neap tide"';
+'7="Real tide (methodology before 2010)"'
+
+DEFAULT = 0

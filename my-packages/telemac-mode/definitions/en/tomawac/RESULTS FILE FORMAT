@@ -1,0 +1,6 @@
+HELP = Results file format. Possible values are:
+- SERAFIN : classical single precision format in Telemac;
+- SERAFIND: classical double precision format in Telemac;
+- MED     : MED format based on HDF5
+
+DEFAULT = SERAFIN

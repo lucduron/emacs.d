@@ -1,0 +1,8 @@
+HELP = Used with otion :
+MONODIRECTIONAL RANDOM WAVE = YES
+or
+MULTIDIRECTIONAL RANDOM WAVE = YES
+It fixes the number of iso-energy frequency bands which discretize
+the enrgy spectrum.
+
+DEFAULT = 5

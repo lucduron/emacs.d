@@ -1,0 +1,3 @@
+AIDE = Permet de specifier la composante selon y de la vitesse aux sources.
+Si rien n est specifie, les sources diffusent sans vitesse
+dans toutes les directions (cf. cas de validation 004_source).

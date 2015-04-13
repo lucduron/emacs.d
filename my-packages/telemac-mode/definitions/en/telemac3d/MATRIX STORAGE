@@ -1,0 +1,3 @@
+HELP = 1 : classical EBE  3 : edge-based storage
+
+DEFAULT = 3

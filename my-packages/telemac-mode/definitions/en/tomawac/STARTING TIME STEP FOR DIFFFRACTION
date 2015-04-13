@@ -1,0 +1,8 @@
+HELP = Number of the time step from which the diffraction
+is taken into account until the end of the simulation.
+**Related keywords :**
+DIFFRACTION
+VARIANCE THRESHOLD FOR DIFFRACTION
+DIFFRACTION FILTER
+
+DEFAULT = 1

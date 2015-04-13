@@ -1,0 +1,8 @@
+AIDE = 1 : conditions de Neumann pour les vitesses au fond
+2 : vitesses nulles au fond. Va de pair logiquement avec
+un bon raffinement du maillage au fond
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="VITESSES NULLES AU FOND"

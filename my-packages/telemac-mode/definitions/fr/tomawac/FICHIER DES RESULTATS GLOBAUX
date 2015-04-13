@@ -1,0 +1,6 @@
+AIDE = Nom du fichier dans lequel sera ecrit le tableau F (spectre
+de variance) en fin de calcul dans le but de faire une suite de calcul.
+**Mots-cles associes :**
+BINAIRE DU FICHIER DES RESULTATS GLOBAUX
+
+DÉFAUT = aucun

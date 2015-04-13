@@ -1,0 +1,9 @@
+HELP = If 1, Neumann conditions on velocity on bottom
+If 2 velocities will be set to 0. Should be linked to
+a refined mesh near the bottom
+
+CHOICE = '1
+'2="NO SLIP FOR VELOCITIES ON BOTTOM"'
+CONTROLE = 1 ; 2
+
+DEFAULT = 1

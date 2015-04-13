@@ -1,0 +1,4 @@
+AIDE = nombre maximal de zones pouvant etre definies pour le
+frottement. Peut etre augmente si necessaire
+
+DÉFAUT = 10

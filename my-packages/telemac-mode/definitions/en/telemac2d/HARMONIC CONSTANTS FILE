@@ -1,0 +1,3 @@
+HELP = Harmonic constants extracted from the tidalmodel file
+
+DEFAULT = no value

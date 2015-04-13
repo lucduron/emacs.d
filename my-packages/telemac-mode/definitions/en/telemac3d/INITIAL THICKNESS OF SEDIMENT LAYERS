@@ -1,0 +1,3 @@
+HELP = Sediment layers thickness (m) for initialisation
+
+DEFAULT = 10.D0;10.D0

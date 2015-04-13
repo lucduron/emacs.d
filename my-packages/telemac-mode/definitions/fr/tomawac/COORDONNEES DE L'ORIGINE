@@ -1,0 +1,4 @@
+AIDE = Valeur en metres, utilise pour eviter les trop grands nombres, transmis
+dans le format Selafin mais pas d'autre traitement pour l'instant
+
+DÉFAUT = 0;0

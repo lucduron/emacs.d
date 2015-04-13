@@ -1,0 +1,4 @@
+HELP = Will speed-up distributive and finite volumes advection
+schemes in case if tidal flats or generalised sigma transformation
+
+DEFAULT = NO

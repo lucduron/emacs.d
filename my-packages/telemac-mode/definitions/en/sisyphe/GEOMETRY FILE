@@ -1,0 +1,2 @@
+HELP = Name of the file containing the mesh. This file may also
+contain the topography and the friction coefficients.

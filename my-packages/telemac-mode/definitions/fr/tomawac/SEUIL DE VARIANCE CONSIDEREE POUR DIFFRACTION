@@ -1,0 +1,8 @@
+AIDE = Seuil minimum de variance spectrale pris en compte
+dans la diffraction
+**Mots-cles associes :**
+DIFFRACTION
+PAS DE TEMPS DEBUT DIFFRACTION
+FILTRE POUR DIFFRACTION
+
+DÉFAUT = 1.D-12

@@ -1,0 +1,4 @@
+HELP = Do not confuse with the FRICTION FACTOR.
+Not used in ARTEMIS. It is let here for consistence with TELEMAC2D.
+
+DEFAULT = 0.

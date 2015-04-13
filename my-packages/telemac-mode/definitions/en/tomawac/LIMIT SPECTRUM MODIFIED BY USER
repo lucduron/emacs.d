@@ -1,0 +1,8 @@
+HELP = Indicates whether the user wants to modify the boundary
+spectrum. He should then retrieve the limwac.f subroutine, if the
+spectrum is frequency discretized, or the spelim.f subroutine,
+otherwise.
+**Related keyword :**
+TYPE OF BOUNDARY DIRECTIONAL SPECTRUM
+
+DEFAULT = .FALSE.

@@ -1,0 +1,7 @@
+AIDE = 'Lorsque l'on souhaite extraire une partie du maillage,
+permet de definir les ordonnees des sommets du polygone a l'interieur
+duquel le maillage sera effectivement extrait.
+ATTENTION: ce polygone doit etre convexe et les coordonnees des
+sommets donnes dans l'ordre trigonometrique.'
+
+DÉFAUT = 0;0;0;0;0;0;0;0;0

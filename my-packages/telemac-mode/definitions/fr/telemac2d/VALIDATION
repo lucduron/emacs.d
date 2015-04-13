@@ -1,0 +1,7 @@
+AIDE = Option utilisee principalement pour le dossier de validation. Le
+fichier des resultats du calcul precedent est alors considere comme une
+reference a laquelle on va comparer le calcul. La comparaison
+est effectuee par le sous-programme VALIDA qui peut etre une comparaison
+avec une solution exacte par exemple.
+
+DÉFAUT = NON

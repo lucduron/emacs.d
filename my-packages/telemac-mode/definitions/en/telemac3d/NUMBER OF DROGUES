@@ -1,0 +1,8 @@
+HELP = Number of drogues in the computation.
+The user must then fill the subroutine FLOT specifying
+the coordinates of the starting points, their departure
+and arrival times.
+The trajectory of drogues is recorded in the BINARY RESULTS
+FILE that must be given in the steering file
+
+DEFAULT = 0

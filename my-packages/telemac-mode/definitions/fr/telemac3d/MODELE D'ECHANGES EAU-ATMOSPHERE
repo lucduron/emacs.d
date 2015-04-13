@@ -1,0 +1,7 @@
+AIDE = Choix du modele d echanges entre l eau et l atmosphere
+
+DÉFAUT = 0
+
+CHOIX = '0="PAS DE MODELE D ECHANGES EAU-ATMOSPHERE"';
+'1="FORMULE LINEARISEE A LA SURFACE"';
+'2="MODELE A BILAN COMPLET"'

@@ -1,0 +1,6 @@
+HELP = Method for treatment of weirs
+
+CHOICE = '1="HORIZONTAL WITH SAME NUMBER OF NODES UPSTREAM/DOWNSTREAM (Historical solution with bord)"';
+'2="GENERAL (New solution with sources points)"'
+
+DEFAULT = 1

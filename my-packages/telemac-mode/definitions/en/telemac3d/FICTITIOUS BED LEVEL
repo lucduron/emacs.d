@@ -1,0 +1,4 @@
+HELP = Ratio between  the ficitious bed and
+the grid size above the bed
+
+DEFAULT = 2.0

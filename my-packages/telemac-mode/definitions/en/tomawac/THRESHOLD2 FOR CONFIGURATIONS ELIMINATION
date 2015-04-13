@@ -1,0 +1,9 @@
+HELP = Choice of threshold2 for configurations elimination when the
+non linear transfer term is calculated with the exact GQM method:
+rough 0.15 ; medium 0.01 ; fine 0.001
+**Related keywords:**
+THRESHOLD0 FOR CONFIGURATIONS ELIMINATION
+THRESHOLD1 FOR CONFIGURATIONS ELIMINATION
+NON-LINEAR TRANSFERS BETWEEN FREQUENCIES
+
+DEFAULT = 0.15

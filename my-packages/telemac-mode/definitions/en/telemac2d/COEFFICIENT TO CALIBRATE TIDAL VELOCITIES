@@ -1,0 +1,6 @@
+HELP = Coefficient to calibrate the tidal velocities of tidal wave
+at tidal open boundary conditions.
+Default value 999999. means that the square root of
+COEFFICIENT TO CALIBRATE TIDAL RANGE is taken
+
+DEFAULT = 999999.

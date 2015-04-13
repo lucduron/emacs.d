@@ -1,0 +1,9 @@
+AIDE = Definit la frequence minimale en Hz.
+On obtient les autres frequences grace a la RAISON FREQUENTIELLE r et le
+NOMBRE DE FREQUENCES NF par f=f0*r^(k-1) k=1,NF.
+**Mots-cles associes :**
+RAISON FREQUENTIELLE
+NOMBRE DE FREQUENCES
+FACTEUR DE QUEUE DU SPECTRE
+
+DÉFAUT = 1

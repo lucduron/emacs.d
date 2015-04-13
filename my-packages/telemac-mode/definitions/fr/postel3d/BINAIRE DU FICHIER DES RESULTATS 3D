@@ -1,0 +1,13 @@
+AIDE = Type du binaire utilise pour l'ecriture du fichier des
+resultats 3d.
+Ce type depend de la machine sur laquelle le fichier a ete genere.
+Les valeurs possibles sont :
+- IBM; pour un fichier crEE sur IBM;
+- I3E; pour un fichier crEE sur HP;
+- STD; il s'agit alors d'ordres READ et WRITE normaux.
+
+DÉFAUT = STD
+
+CHOIX = STD';
+'IBM';
+'I3E

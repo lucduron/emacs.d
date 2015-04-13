@@ -1,0 +1,3 @@
+AIDE = Pour la suspension, sert a initialiser la valeur
+de la concentration volumique de chaque classe pour chaque frontiere
+ordre : frontiere 1 (classe 1, classe 2, etc.) , puis frontiere 2, etc

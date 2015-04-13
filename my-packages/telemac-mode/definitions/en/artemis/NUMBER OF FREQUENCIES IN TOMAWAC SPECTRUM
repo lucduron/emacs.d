@@ -1,0 +1,4 @@
+HELP = Give the number of frequences in the TOMAWAC imported
+spectrum
+
+DEFAULT = 0

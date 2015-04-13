@@ -1,0 +1,8 @@
+AIDE = Choix des coordonnees spheriques pour la realisation du calcul
+( pour les grands domaines de calcul).
+Attention : cette option est etroitement liee au maillage qui doit avoir
+ete saisi sur une carte marine en projection de Mercator.
+Il faut de plus relever sur la carte la LATITUDE DU POINT ORIGINE
+(autre mot-cle) qui correspond dans le maillage a l'ordonnee y = 0.
+
+DÉFAUT = NON

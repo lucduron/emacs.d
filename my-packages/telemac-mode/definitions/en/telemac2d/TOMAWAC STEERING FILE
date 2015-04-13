@@ -1,0 +1,3 @@
+HELP = Tomawac parameter file in case of internal coupling
+
+DEFAULT = no value

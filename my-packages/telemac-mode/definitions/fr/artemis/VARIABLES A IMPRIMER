@@ -1,0 +1,31 @@
+AIDE = Nom des variables que l'utilisateur desire ecrire a l'ecran.
+Memes possibilites que pour les sorties graphiques.
+
+DÉFAUT = aucun
+
+CHOIX = 'HS="hauteur de la houle"';
+'PHAS="phase de la houle"';
+'U0="vitesse u en surface a t=0"';
+'V0="vitesse v en surface a t=0"';
+'ZS="cote de la surface libre"';
+'ZF="fond"';
+'HW="hauteur d'eau au repos"';
+'C="vitesse de phase"';
+'CG="vitesse de groupe"';
+'K="nombre d'onde"';
+'PHIR="potentiel reel"';
+'PHII="potentiel imaginaire"';
+'D="prive(1,1)"';
+'E="prive(1,2)"';
+'F="prive(1,3)"';
+'G="prive(1,4)"';
+'T01="première période moyenne spectrale"';
+'T02="deuxième période moyenne spectrale"';
+'TM="troisième période moyenne spectrale"';
+'FX="force en X"';
+'FY="force en Y"';
+'INC="incidence de la houle"';
+'QB="taux de deferlement"';
+'SXX="contrainte SXX"';
+'SXY="contrainte SXY"';
+'SYY="contrainte SYY"'

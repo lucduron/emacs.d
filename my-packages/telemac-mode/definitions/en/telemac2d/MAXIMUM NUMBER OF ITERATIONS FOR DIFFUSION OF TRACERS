@@ -1,0 +1,4 @@
+HELP = Limits the number of solver iterations at each time step for
+the diffusion of tracer.
+
+DEFAULT = 60

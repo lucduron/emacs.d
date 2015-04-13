@@ -1,0 +1,3 @@
+HELP = Not used in ARTEMIS. It is kept for consistence with TELEMAC2D
+
+DEFAULT = 0

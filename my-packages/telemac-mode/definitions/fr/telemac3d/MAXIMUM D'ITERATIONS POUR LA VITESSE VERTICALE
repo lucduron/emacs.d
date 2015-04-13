@@ -1,0 +1,4 @@
+AIDE = Fixe le nombre maximum d'iterations accepte lors de la
+resolution du calcul de la vitesse verticale.
+
+DÉFAUT = 100

@@ -1,0 +1,23 @@
+HELP = Selection of the characteristic frequency of the wave spectrum
+1 : Frequency Fmoy
+2 : Frequency F01 (defined by the moments of order 0 and 1 of the spectrum)
+3 : Frequency F02 (defined by the moments of order 0 and 2 of the spectrum)
+4 : Frequency Fpic (sampling frequency corresponding to the max)
+5 : Frequency Fread ordre 5 (peak frequency, 5th order Read method)
+6 : Frequency Fread ordre 8 (peak frequency, 8th order Read method)
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+DEPTH-INDUCED BREAKING 3 (RO) WAVE HEIGHT DISTRIBUTION
+DEPTH-INDUCED BREAKING 3 (RO) EXPONENT WEIGHTING FUNCTION
+DEPTH-INDUCED BREAKING 3 (RO) COEFFICIENT ALPHA
+DEPTH-INDUCED BREAKING 3 (RO) COEFFICIENT GAMMA
+DEPTH-INDUCED BREAKING 3 (RO) COEFFICIENT GAMMA2
+
+CHOICE = 1
+'2="Frequency F01 (defined by the moments of order 0 and 1 of the spectrum)"';
+'3="Frequency F02 (defined by the moments of order 0 and 2 of the spectrum)"';
+'4="Frequency Fpic (sampling frequency corresponding to the max)"';
+'5="Frequency Fread ordre 5 (peak frequency, 5th order Read method)"';
+'6="Frequency Fread ordre 8 (peak frequency, 8th order Read method)"
+
+DEFAULT = 5

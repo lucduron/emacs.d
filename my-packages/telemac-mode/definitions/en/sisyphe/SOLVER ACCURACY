@@ -1,0 +1,4 @@
+HELP = Required accuracy for solving the linear system
+(used only if the key word MASS LUMPING is equal to false).
+
+DEFAULT = 1.E-7

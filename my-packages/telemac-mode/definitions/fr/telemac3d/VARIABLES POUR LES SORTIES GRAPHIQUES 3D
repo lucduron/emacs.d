@@ -1,0 +1,59 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans
+le fichier des resultats.
+Le choix des separateurs est libre.
+Les possibilites offertes sont les suivantes :
+- U   : vitesse suivant l'axe des x (m/s),
+- V   : vitesse suivant l'axe des y (m/s),
+- W   : vitesse suivant l'axe des z (m/s),
+- Z   : cote z (m),
+- TAx : concentrations des traceurs,
+- NUX : viscosite pour U et V suivant l'axe des x (m2/s),
+- NUY : viscosite pour U et V suivant l'axe des y (m2/s),
+- NUZ : viscosite pour U et V suivant l'axe des z (m2/s),
+- NAX : viscosites pour les tr. suivant l'axe des x (m2/s),
+- NAY : viscosites pour les tr. suivant l'axe des y (m2/s),
+- NAZ : viscosites pour les tr. suivant l'axe des z (m2/s),
+- RI  : nombre de Richardson en cas de modele de longueur de melange,
+- K   : energie turbulente du modele k-epsilon (J/kg),
+- EPS : dissipation de l'energie turbulente (W/kg),
+- DP  : pression dynamique (multipliee par DT/RHO),
+- PH  : pression hydrostatique (en Pascals),
+- RHO : densite relative,
+- P1  : variable privee 1,
+- P2  : variable privee 2,
+- P3  : variable privee 3,
+- P4  : variable privee 4
+
+DÉFAUT = Z,U,V,W
+
+CHOIX = U
+'V="vitesse suivant l'axe des y (m/s)"';
+'W="vitesse suivant l'axe des z (m/s)"';
+'Z="cote z (m)"';
+'TA1="concentration du traceur 1"';
+'TA2="concentration du traceur 2"';
+'TA3="concentration du traceur 3"';
+'TA4="concentration du traceur 4"';
+'TA5="concentration du traceur 5"';
+'TA6="concentration du traceur 6"';
+'TA7="concentration du traceur 7"';
+'TA8="concentration du traceur 8"';
+'TA9="concentration du traceur 9"';
+'TA*="concentrations des traceurs de 1 a 9"';
+'TA**="concentrations des traceurs de 10 a 99"';
+'NUX="viscosite pour U et V suivant l'axe des x (m2/s)"';
+'NUY="viscosite pour U et V suivant l'axe des y (m2/s)"';
+'NUZ="viscosite pour U et V suivant l'axe des z (m2/s)"';
+'NAX="viscosites pour les tr. suivant l'axe des x (m2/s)"';
+'NAY="viscosites pour les tr. suivant l'axe des y (m2/s)"';
+'NAZ="viscosites pour les tr. suivant l'axe des z (m2/s)"';
+'RI="nombre de Richardson en cas de modele de longueur de melange"';
+'K="energie turbulente du modele k-epsilon (J/kg)"';
+'EPS="dissipation de l'energie turbulente (W/kg)"';
+'DP="pression dynamique (multipliee par DT/RHO)"';
+'PH="pression hydrostatique (en Pascals)"';
+'RHO="densite relative"';
+'P1="variable privee 1"';
+'P2="variable privee 2"';
+'P3="variable privee 3"';
+'P4="variable privee 4"

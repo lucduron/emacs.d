@@ -1,0 +1,7 @@
+HELP = Dissipation coefficient for waves stopped
+by a strong opposing current (wave blocking effects).
+Van der Westhuysen (2012) expression: Cds,cur.
+**Related keywords:**
+DISSIPATION BY STRONG CURRENT
+
+DEFAULT = 0.65

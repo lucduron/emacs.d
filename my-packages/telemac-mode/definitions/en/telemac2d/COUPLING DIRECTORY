@@ -1,0 +1,4 @@
+HELP = Name with full path of the directory where the files will
+be exchanged for coupling
+
+DEFAULT = no value

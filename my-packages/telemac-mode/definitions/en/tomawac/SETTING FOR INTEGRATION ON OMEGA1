@@ -1,0 +1,9 @@
+HELP = Choice of setting giving the number of integration points on
+omega1 when the non linear transfer term is calculated with the exact
+GQM method: rough 3 ; medium 1 ; fine 2
+
+CHOICE = 1
+'2="fine"';
+'3="rough"
+
+DEFAULT = 3

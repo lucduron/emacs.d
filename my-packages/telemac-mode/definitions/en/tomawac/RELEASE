@@ -1,0 +1,3 @@
+HELP = Release number
+
+DEFAULT = V7P0

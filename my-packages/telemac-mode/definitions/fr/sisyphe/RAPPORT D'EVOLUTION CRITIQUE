@@ -1,0 +1,8 @@
+AIDE = Definit le moment ou l'extrapolation du champ de courant
+par SISYPHE n'est plus valable. Ce nombre represente le rapport
+maximum entre les evolutions et la hauteur d'eau admissible.
+Generalement, on admet qu'une evolution inferieure a 0,1 fois
+la hauteur d'eau ne modifie pas sensiblement la repartition
+du champ de courant.
+
+DÉFAUT = 1.

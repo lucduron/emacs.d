@@ -1,0 +1,6 @@
+AIDE = Nom du fichier dans lequel seront ecrits les variables
+decrivant le fond vaseux (epaisseurs et concentrations..)
+avec la periodicite donnee par le mot cle 'PERIODE POUR LES SORTIES
+GRAPHIQUES'.
+
+DÉFAUT = aucun

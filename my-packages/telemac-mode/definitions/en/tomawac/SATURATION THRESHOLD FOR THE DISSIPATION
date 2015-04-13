@@ -1,0 +1,9 @@
+HELP = White capping dissipation coefficient of
+van der Westhuysen (2007): Br (saturation threshold).
+**Related keywords:**
+WHITE CAPPING DISSIPATION
+WESTHUYSEN DISSIPATION COEFFICIENT
+WESTHUYSEN WHITE CAPPING DISSIPATION
+WESTHUYSEN WEIGHTING COEFFICIENT
+
+DEFAULT = 0.00175

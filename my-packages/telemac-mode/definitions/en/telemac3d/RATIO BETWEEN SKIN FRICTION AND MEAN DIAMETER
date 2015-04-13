@@ -1,0 +1,4 @@
+HELP = Ratio for the computation of skin friction.
+skin roughness = ratio * mean diameter
+
+DEFAULT = 3.0

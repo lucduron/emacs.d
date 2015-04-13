@@ -1,0 +1,4 @@
+AIDE = Donne le coefficient K dans la Formulation de la dissipation
+par deferlement d'apres Dally et al., 1984
+
+DÉFAUT = 0.1

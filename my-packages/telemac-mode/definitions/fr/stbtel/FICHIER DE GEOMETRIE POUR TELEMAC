@@ -1,0 +1,4 @@
+AIDE = 'Nom du fichier qui contiendra le maillage mis au format SELAFIN, et
+qui servira pour les calculs TELEMAC 2D.'
+
+DÉFAUT = aucun

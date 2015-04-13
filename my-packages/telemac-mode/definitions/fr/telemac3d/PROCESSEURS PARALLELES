@@ -1,0 +1,3 @@
+AIDE = nombre de processeurs pour la decomposition en parallele
+
+DÉFAUT = 0

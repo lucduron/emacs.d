@@ -1,0 +1,4 @@
+HELP = gives the value of atmospheric pressure when it is contant
+in time and space
+
+DEFAULT = 100000.

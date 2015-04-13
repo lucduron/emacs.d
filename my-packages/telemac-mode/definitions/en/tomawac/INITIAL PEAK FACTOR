@@ -1,0 +1,6 @@
+HELP = Is part of the set of constants used for computing the
+boundary directional spectrum as a function of the wind field.
+**Related keywords :**
+TYPE OF INITIAL DIRECTIONAL SPECTRUM
+
+DEFAULT = 3.3

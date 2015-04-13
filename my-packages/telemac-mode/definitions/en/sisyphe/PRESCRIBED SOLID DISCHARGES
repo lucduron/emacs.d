@@ -1,0 +1,3 @@
+HELP = Values of prescribed solid discharges
+at the inflow boundaries (m3/s without voids).
+One value per liquid boundary

@@ -1,0 +1,23 @@
+HELP = Makes it possible to define the initial conditions with
+the water depth.
+The possible values are as follows:
+- ZERO ELEVATION-. Initializes the free surface elevation to 0.
+The initial water depths are then found by computing the difference
+between the free surface and the bottom.
+- CONSTANT ELEVATION-. Initializes the water elevation to the value
+given by the keyword -INITIAL ELEVATION-. The initial water depths
+are computed as in the previous case.
+- ZERO DEPTH-. Initializes the water depths to 0.
+- CONSTANT DEPTH-. Initializes the water depths to the value given
+by the key-word -INITIAL DEPTH-.
+- SPECIAL-. The initial conditions with the water depth should be
+stated in the CONDIN subroutine.
+- TPXO SATELITE ALTIMETRY. The initial conditions on the free surface and
+velocities are established from the TPXO satellite program data, the harmonic
+constituents of which are stored in the TIDE DATA BASE file.
+
+CHOICE = "ZERO ELEVATION"'; '"CONSTANT ELEVATION"';
+'"ZERO DEPTH"'; '"CONSTANT DEPTH"'; '"SPECIAL"' ;
+'"TPXO SATELLITE ALTIMETRY"
+
+DEFAULT = ZERO ELEVATION

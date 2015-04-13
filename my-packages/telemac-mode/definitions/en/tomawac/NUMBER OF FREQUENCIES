@@ -1,0 +1,9 @@
+HELP = Defines the number of wave propagation frequencies. The
+propagation frequencies are geometrically distributed as a fonction
+of the MINIMAL FREQUENCY OF THE COMPUTATION and the FREQUENTIAL
+REASON
+**Related keywords :**
+FREQUENTIAL RATIO
+SPECTRUM TAIL FACTOR
+
+DEFAULT = 15

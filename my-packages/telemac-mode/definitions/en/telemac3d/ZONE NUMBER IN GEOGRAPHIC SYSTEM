@@ -1,0 +1,13 @@
+HELP = Number of zone when using a plane projection.
+Indicate the geographic system in which the numerical model is built
+with the keyword GEOGRAPHIC SYSTEM
+
+CHOICE = '-1="NO DEFAULT VALUE. CHOOSE THE NUMBER AMONG THE POSSIBLE CHOICES"';
+'1="LAMBERT 1 NORTH"';
+'2="LAMBERT 2 CENTER"';
+'3="LAMBERT 3 SOUTH"';
+'4="LAMBERT 4 CORSICA"';
+'22="LAMBERT 2 EXTENDED"';
+'30="UTM ZONE, E.G."'
+
+DEFAULT = -1

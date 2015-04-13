@@ -1,0 +1,3 @@
+AIDE = Masse volumique du fluide (eau) en Kg/m3.
+
+DÉFAUT = 1000.0

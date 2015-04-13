@@ -1,0 +1,6 @@
+AIDE = Prise en compte d'une loi de decroissance des traceurs
+
+DÉFAUT = 0;0
+
+CHOIX = '0="PAS DE DEGRADATION"';
+'1="LOI EN F(T90)"'

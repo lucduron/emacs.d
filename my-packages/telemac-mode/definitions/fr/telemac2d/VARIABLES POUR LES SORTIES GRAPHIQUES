@@ -1,0 +1,84 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans
+le fichier des resultats.
+Chaque variable est representee par une lettre.
+Le choix des separateurs est libre.
+Les possibilites offertes sont les suivantes :
+- U : vitesse suivant l'axe des x (m/s),
+- V : vitesse suivant l'axe des y (m/s),
+- C : celerite des ondes (m/s),
+- H : hauteur d'eau (m),
+- S : cote de surface libre (m),
+- B : cote du fond (m),
+- F : nombre de Froude,
+- Q : debit scalaire du fluide (m2/s),
+- T : traceur,
+- K : energie turbulente du modele k-epsilon (J/kg),
+- E : dissipation de l'energie turbulente (W/kg),
+- D : viscosite turbulente du modele k-epsilon (m2/s),
+- I : debit suivant l'axe des x (m2/s),
+- J : debit suivant l'axe des y (m2/s),
+- M : vitesse scalaire (m/s),
+- X : vent suivant l'axe des x (m/s),
+- Y : vent suivant l'axe des y (m/s),
+- P : pression atmospherique (Pa),
+- W : coefficient de frottement sur le fond,
+- A : derive en x (m),
+- G : derive en y (m),
+- L : coefficient de frottement sur le fond.
+L'utilisateur dispose egalement de 4 champs libres, qu'il peut
+utiliser pour ecrire dans le fichier des resultats des variables
+qu'il cree lui-meme. Ces variables propres a l'utlisateur doivent
+etre calculees dans le sous-programme PRERES et le nom que l'on
+desire leur donner doit etre ecrit dans le sous-programme NOMVAR.
+Ces 7 champs sont :
+- N, O, R, Z qui correspondent aux tableaux PRIVE(1,1), PRIVE(1,2),
+PRIVE(1,3), PRIVE(1,4). A la difference des variables
+precedentes, celles-ci sont conservees dans tout le programme, et
+peuvent donc etre reutilisees.
+Dans ce dernier cas ne pas oublier de donner une taille
+suffisante au tableau PRIVE (dans le programme principal).
+Il est ainsi possible de limiter, par exemple, la taille des fichiers
+de resultats pour de tres gros calculs. Cependant, il faut etre
+conscient du fait que, dans l'eventualite d'une reprise de calcul,
+le code doit disposer, dans le fichier des resultats, des informations
+necessaires a sa poursuite, a savoir :
+- les vitesses U et V,
+- les hauteurs d'eau H,
+- les cotes du fond B.
+Toutefois, TELEMAC peut recalculer certaines de ces variables a partir
+d'autres qui lui seront fournies (par exemple, il recalculera H a
+partir de S et B).
+
+DÉFAUT = U,V,H,B
+
+CHOIX = U
+'V="vitesse suivant l'axe des y  (m/s)"';
+'C="celerite des onde  (m/s)"';
+'H="hauteur d'eau  (m)"';
+'S="cote de surface libre  (m)"';
+'B="cote du fond  (m)"';
+'F="nombre de Froude  "';
+'Q="debit scalaire du fluide  (m2/s)"';
+'T1="traceur 1, etc. "';
+'K="energie turbulente du modele k-epsilon  (J/kg)"';
+'E="dissipation de l'energie turbulente  (W/kg)"';
+'D="viscosite turbulente du modele k-epsilon  (m2/s)"';
+'I="debit suivant l'axe des x  (m2/s)"';
+'J="debit suivant l'axe des y  (m2/s)"';
+'M="vitesse scalaire  (m/s)"';
+'X="vent suivant l'axe des x  (m/s)"';
+'Y="vent suivant l'axe des y  (m/s)"';
+'P="pression atmospherique  (Pa)"';
+'W="coefficient de frottement sur le fond  "';
+'A="derive en x  (m)"';
+'G="derive en y  (m)"';
+'L="nombre de Courant  "';
+'N="variable supplementaire N "';
+'O="variable supplementaire O "';
+'R="variable supplementaire R "';
+'Z="variable supplementaire Z "';
+'MAXZ="cote maximum "';
+'TMXZ="temps de la cote maximum "';
+'MAXV="vitesse maximum "';
+'TMXV="temps de la vitesse maximum "';
+'US="vitesse de frottement "

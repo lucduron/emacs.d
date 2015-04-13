@@ -1,0 +1,4 @@
+HELP = If YES, subroutine QVEG will be called, it contains data
+on vegetation that are case-specific and must thus be modified
+
+DEFAULT = NO

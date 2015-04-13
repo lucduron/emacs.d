@@ -1,0 +1,10 @@
+AIDE = Choix du reglage donnant le nombre de point d integration sur
+theta1 (nombre de points d integration = 2*NQ_TE1) lorsque le terme
+de transfert non lineaire est calcule de maniere exacte (methode GQM):
+grossier 3 ; moyen 4 ; fin 8
+
+DÉFAUT = 3
+
+CHOIX = 3
+'4="moyen"';
+'8="fin"

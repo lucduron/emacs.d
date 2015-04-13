@@ -1,0 +1,4 @@
+HELP = Below the threshold, viscosity will be progressively
+cancelled. See subroutine VISCLIP
+
+DEFAULT = 0.2

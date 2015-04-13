@@ -1,0 +1,13 @@
+AIDE = Permet de choisir le solveur utilise pour la resolution de
+la diffusion du sediment.
+
+DÉFAUT = 3
+
+CHOIX = 1
+'2="RESIDU CONJUGUE"';
+'3="GRADIENT CONJUGUE SUR EQUATION NORMALE"';
+'4="ERREUR MINIMALE"';
+'5="GRADIENT CONJUGUE CARRE"';
+'6="CGSTAB"';
+'7="GMRES"';
+'8="SOLVEUR DIRECT"

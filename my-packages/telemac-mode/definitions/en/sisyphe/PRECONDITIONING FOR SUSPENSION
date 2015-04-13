@@ -1,0 +1,4 @@
+CHOICE = 2
+'3="diagonal condensee"'; '7="crout"
+
+DEFAULT = 2

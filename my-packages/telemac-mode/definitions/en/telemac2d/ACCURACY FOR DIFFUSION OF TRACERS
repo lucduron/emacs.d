@@ -1,0 +1,4 @@
+HELP = Sets the required accuracy for computing the tracer
+diffusion.
+
+DEFAULT = 1.E-6

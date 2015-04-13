@@ -1,0 +1,5 @@
+AIDE = Critere (Hauteur du fond>CRIT_CFD*Hauteur d'eau) pour mettre
+a jour l'ecoulement.
+A utiliser avec l'option constant flow discharge
+
+DÉFAUT = 0.1

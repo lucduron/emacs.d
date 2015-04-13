@@ -1,0 +1,4 @@
+HELP = Memory space (in words of 8 bytes) reserved for a computation on
+CRAY.
+
+DEFAULT = 1500000W

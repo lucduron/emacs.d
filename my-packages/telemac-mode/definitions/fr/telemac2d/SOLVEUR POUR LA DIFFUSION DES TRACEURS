@@ -1,0 +1,13 @@
+AIDE = 1 : gradient conjugue 2 : residu conjugue 3 : gradient conjugue
+sur equation normale 4 : erreur minimale 5 : gradient conjugue carre
+
+DÉFAUT = 1
+
+CHOIX = 1
+'2="residu conjuge"';
+'3="gradient conjuge sur equation normale"';
+'4="erreur minimale"';
+'5="gradient conjuge carre"';
+'6="cgstab"';
+'7="gmres (voir ausi option du solveur)"';
+'8="direct"

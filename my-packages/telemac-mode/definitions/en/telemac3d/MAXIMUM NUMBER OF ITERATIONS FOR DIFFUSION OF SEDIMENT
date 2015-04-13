@@ -1,0 +1,4 @@
+HELP = Limits the number of iterations of the solver for the diffusion
+of sediment
+
+DEFAULT = 60

@@ -1,0 +1,2 @@
+HELP = Parameter used in the computation of the initial
+water DEPTH : DEPTH=ZREPOS-ZF.

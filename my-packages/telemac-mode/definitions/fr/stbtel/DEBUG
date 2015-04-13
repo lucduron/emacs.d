@@ -1,0 +1,3 @@
+AIDE = 'Permet d activer le mode debuggage.'
+
+DÉFAUT = NON

@@ -1,0 +1,5 @@
+HELP = Number of iteration to do wtih telemac in order to obtain a
+new quasi-stationary flow.
+To use with the option constant flow discharge
+
+DEFAULT = 500

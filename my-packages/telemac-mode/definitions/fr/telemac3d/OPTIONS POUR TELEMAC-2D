@@ -1,0 +1,6 @@
+AIDE = premier entier 1: systeme st-venant tronque
+2: systeme st-venant complet
+deuxieme entier 1: Equations primitives
+2: Equation d onde
+
+DÉFAUT = 1;1

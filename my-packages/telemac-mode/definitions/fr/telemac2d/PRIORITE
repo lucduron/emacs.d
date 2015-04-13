@@ -1,0 +1,5 @@
+AIDE = Utilise par la procedure de lancement sur station de travail
+
+DÉFAUT = JOUR
+
+CHOIX = JOUR';'NUIT';'WEEK-END

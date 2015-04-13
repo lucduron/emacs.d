@@ -1,0 +1,4 @@
+HELP = 'TRUE : AUTOMATIC CALCULATION OF TETAP
+(based on velocity direction)        '
+
+DEFAULT = NON

@@ -1,0 +1,4 @@
+HELP = Binary-coded data file made available to the user.
+The data in this file shall be read on channel 24.
+
+DEFAULT = no value

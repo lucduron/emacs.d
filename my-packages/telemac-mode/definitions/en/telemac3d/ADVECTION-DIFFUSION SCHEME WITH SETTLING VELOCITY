@@ -1,0 +1,6 @@
+HELP = Choice of vertical scheme for diffusion and settling of sediment
+: 0 Implicit-diffusion scheme
+: 1 Implicit- convection scheme (Tridiagonal matrix solver)
+: 2  set_fall.f
+
+DEFAULT = 0

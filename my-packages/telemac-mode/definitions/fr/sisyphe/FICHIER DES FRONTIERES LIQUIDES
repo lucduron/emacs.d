@@ -1,0 +1,4 @@
+AIDE = Fichier de variations en temps des conditions aux limites.
+Les donnees de ce fichier sont sur le canal SIS_FILES(SISLIQ)%LU.
+
+DÉFAUT = aucun

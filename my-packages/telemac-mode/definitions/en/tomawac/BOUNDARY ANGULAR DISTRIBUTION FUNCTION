@@ -1,0 +1,14 @@
+HELP = Is part of the set of constants used for computing the
+boundary directional spectrum. Allow the computation of the
+angular distribution function
+1 : modele en cos^2s(T-T0) ; T dans [T0-pi/2;T0+pi/2]
+2 : modele en exp(-0.5((T-T0)/s)^2) ; T dans [T0-pi/2;T0+pi/2]
+3 : modele en cos^2s((T-T0)/2) (de type Mitsuyasu)
+**Related keywords :**
+TYPE OF BOUNDARY DIRECTIONAL SPECTRUM
+
+CHOICE = 1
+'2="exp(-0.5((T-T0)/s)^2), T in [T0-pi/2,T0+pi/2]"';
+'3="cos^2s((T-T0)/2) (de type Mitsuyasu)"
+
+DEFAULT = 1

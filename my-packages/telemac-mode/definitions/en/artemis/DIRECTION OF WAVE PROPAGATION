@@ -1,0 +1,8 @@
+HELP = Fixes the direction towards the incident waves at boundaries go to.
+It is counted in degress and positively in the trigonometric sense
+relatively to the x axis.
+This value is prescribed as a constant value along all the wave
+incident type boundaries. If one wants to specify a non uniform value,
+the user has to specify the value TETAB in the sub-routine BORH.
+
+DEFAULT = 0.0

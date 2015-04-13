@@ -1,0 +1,3 @@
+HELP = Triggers output of diffusion for Delwaq
+
+DEFAULT = NO

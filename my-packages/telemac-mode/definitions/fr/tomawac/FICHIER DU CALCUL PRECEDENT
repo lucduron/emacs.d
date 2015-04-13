@@ -1,0 +1,7 @@
+AIDE = Nom d'un fichier contenant les resultats d'un calcul precedent
+realise sur le meme maillage et qui va fournir les conditions
+initiales pour une suite de calcul.
+**Mots-cles associes :**
+BINAIRE DU FICHIER DU CALCUL PRECEDENT
+
+DÉFAUT = aucun

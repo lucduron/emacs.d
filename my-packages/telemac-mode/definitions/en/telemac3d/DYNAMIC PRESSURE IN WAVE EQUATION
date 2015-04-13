@@ -1,0 +1,4 @@
+HELP = Gradient of an estimated pressure gradient taken into account
+in the wave equation
+
+DEFAULT = NO

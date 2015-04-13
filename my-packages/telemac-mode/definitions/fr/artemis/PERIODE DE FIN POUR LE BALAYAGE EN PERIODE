@@ -1,0 +1,6 @@
+AIDE = Valeur utilisee avec l'option :
+BALAYAGE EN PERIODE = OUI
+indique la borne droite de l'intervalle de periodes a parcourir
+(pour par exemple rechercher les periodes de resonances).
+
+DÉFAUT = 0.

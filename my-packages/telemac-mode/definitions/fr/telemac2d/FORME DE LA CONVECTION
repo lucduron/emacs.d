@@ -1,0 +1,25 @@
+AIDE = Choix du schema de convection pour chaque variable
+ces coefficients sont respectivement appliques a
+1) U et V     2) H     3) T     4) K ET EPSILON
+1 : caracteristiques sur h
+2 : SUPG
+3 : Schema N conservatif
+4 : Schema N conservatif
+5 : Schema PSI conservatif
+6 : Schema PSI non conservatif
+7 : schema N implicite non conservatif
+13 : Schema N par segment
+14 : Schema N par segment
+Second integer must be 5
+
+DÉFAUT = 1;5;1;1
+
+CHOIX = '1="CARACTERISTIQUES"';
+'2="SUPG"';
+'3="SCHEMA N CONSERVATIF"' ;
+'4="SCHEMA N CONSERVATIF"' ;
+'5="SCHEMA PSI CONSERVATIF"';
+'6="SCHEMA PSI NON CONSERVATIF"';
+'7="SCHEMA N IMPLICITE NON CONSERVATIF"';
+'13="SCHEMA N PAR SEGMENTS"';
+'14="SCHEMA N PAR SEGMENTS"'

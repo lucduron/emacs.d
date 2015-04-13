@@ -1,0 +1,3 @@
+HELP = Not used so far
+
+DEFAULT = 1.E-20

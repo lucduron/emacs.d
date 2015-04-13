@@ -1,0 +1,23 @@
+AIDE = Choix du type de modelisation du terme de transfert non lineaire
+inter-frequences. Si sa valeur est 0, on ne prend pas en compte les
+transferts non lineaires inter-frequences, si sa valeur est 1, ils sont
+integres selon la formule utilisee dans WAM cycle 4 (methode DIA),
+si sa valeur est 2, la methode MDIA (Multiple DIA) est utilisee pour
+calculer le terme de transfert non lineaire, si sa valeur est 3,
+le terme de transfert non lineaire est calcule de maniere exacte
+avec la methode GQM.
+**Mots-cles associes :**
+PARAMETRE DE LA CONFIGURATION STANDARD
+REGLAGE POUR INTEGRATION SUR OMEGA1
+REGLAGE POUR INTEGRATION SUR THETA1
+REGLAGE POUR INTEGRATION SUR OMEGA2
+SEUIL0 ELIMINATION DE CONFIGURATIONS
+SEUIL1 ELIMINATION DE CONFIGURATIONS
+SEUIL2 ELIMINATION DE CONFIGURATIONS
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Transfert non lineaire inter-frequences selon WAM cycle 4 (Methode DIA)"';
+'2="Transfert non lineaire inter-frequences selon Methode MDIA"';
+'3="Transfert non lineaire inter-frequences exact Methode GQM"

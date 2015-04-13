@@ -1,0 +1,4 @@
+HELP = Number of cohesive sediment bed layers,  should be less
+than 20
+
+DEFAULT = 1

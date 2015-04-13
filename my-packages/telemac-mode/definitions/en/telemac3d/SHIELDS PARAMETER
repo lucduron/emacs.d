@@ -1,0 +1,3 @@
+HELP = Used to determine the critical bed shear stress value.
+
+DEFAULT = 0.047

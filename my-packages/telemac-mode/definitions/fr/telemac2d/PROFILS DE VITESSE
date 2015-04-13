@@ -1,0 +1,9 @@
+AIDE = 1:profil normal constant  2:u et v donnes dans le fichier conlim
+3:vitesse normale donnee dans ubor dans le fichier conlim
+4:profil en racine de la profondeur
+5:profil en racine de la profondeur, variante
+
+CHOIX = 1
+conlim"';'3="Vitesse normale donnee dans ubor dans le fichier
+conlim"';'4="vitesse en racine carree de h"';
+'5="vitesse en racine carree de h, variante"

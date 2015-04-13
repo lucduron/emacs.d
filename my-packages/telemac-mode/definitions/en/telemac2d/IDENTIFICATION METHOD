@@ -1,0 +1,9 @@
+HELP = 0 : list of tests 1: gradient
+2 : conj. gradient 3 : lagrange interp.
+
+CHOICE = 0
+'1="gradient simple"';
+'2="conj gradient"';
+'3="Lagrange interp."
+
+DEFAULT = 1

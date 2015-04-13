@@ -1,0 +1,5 @@
+HELP = 'Name of the file containing the bathymetric points (to SINUSX
+standard), to be used, through interpolation, for defining the depth
+at each point of the mesh.'
+
+DEFAULT = ';' ';' ';' ';'

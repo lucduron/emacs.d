@@ -1,0 +1,4 @@
+HELP = Dry density of the mud-bed layers in g per l starting
+form the bottom upwards
+
+DEFAULT = 100.;500.

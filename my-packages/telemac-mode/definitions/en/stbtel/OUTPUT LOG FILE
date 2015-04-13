@@ -1,0 +1,3 @@
+HELP = 'Name of the complementary file for the converted file'
+
+DEFAULT = no value

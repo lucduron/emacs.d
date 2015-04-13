@@ -1,0 +1,4 @@
+HELP = maximal number of zones defined for the friction.
+Could be increased if needed
+
+DEFAULT = 10

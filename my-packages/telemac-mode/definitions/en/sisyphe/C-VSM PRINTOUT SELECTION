@@ -1,0 +1,7 @@
+HELP = Printout the C-VSM for the whole model as SELAFIN
+or / and for some nodes as .VSP.CSV file.
+Give Up to 100 INTEGER numbers separated by ";"
+0 = Full model .-> .RES
+N = 1,2...NPOINT; 2D-ID of a SELFIN MESH POINT ->.CSV
+
+DEFAULT = 0;0;0;0;0;0;0;0;0;0;0;0;0

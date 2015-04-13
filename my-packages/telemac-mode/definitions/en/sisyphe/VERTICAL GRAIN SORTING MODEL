@@ -1,0 +1,5 @@
+HELP = Defines the model of the vertical grain sorting:
+0 = HR-VSM = Layer Model (Classic Hirano / Ribberink approach)
+1 = C-VSM (Continous Vertical Grain Sorting Model)
+
+DEFAULT = 0

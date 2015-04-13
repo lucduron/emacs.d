@@ -1,0 +1,8 @@
+HELP = gives option for managing the wind:
+0: no wind (we can remove keyword WIND (boolean))
+1: constant in time and space, given by keyword SPPED AND
+DIRECTION OF WIND
+2: variable in time and (constant in space), given by formated file
+3: variable in time and space
+
+DEFAULT = 0

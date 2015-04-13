@@ -1,0 +1,3 @@
+AIDE = Composante de la vitesse du vent suivant l'axe des y (m/s).
+
+DÉFAUT = 0.

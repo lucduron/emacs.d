@@ -1,0 +1,4 @@
+HELP = 'Cuts every element of the mesh in four homothetic elements
+by joigning the middle points of each side.'
+
+DEFAULT = NO

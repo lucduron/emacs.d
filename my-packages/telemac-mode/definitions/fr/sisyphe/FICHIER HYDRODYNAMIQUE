@@ -1,0 +1,15 @@
+AIDE = Nom d'un fichier contenant les resultats d'un calcul
+precedent realise sur le meme maillage. L'hydrodynamique
+du calcul sera donnee, soit par le dernier pas de temps
+de ce fichier si le calcul est permanent,
+soit par les pas de temps representant la maree
+ou la crue consideree si le calcul est instationnaire
+Remarque : Si l'on modelise le transport sous l'action
+combinee du courant et de la houle (mot-cle  DE
+TRANSPORT SOLIDE =4) ce fichier doit contenir non
+seulement les donnees hydrodynamiques(hauteur d'eau,vitesses)
+mais aussi les donnees de houle (hauteur de houle, periode de
+houle).Les donnees de houle peuvent toutefois etre imposees
+par l'utilisateur dans le sous programme CONDIM.
+
+DÉFAUT = aucun

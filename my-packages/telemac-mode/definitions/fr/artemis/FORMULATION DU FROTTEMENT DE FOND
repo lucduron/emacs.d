@@ -1,0 +1,9 @@
+AIDE = Utilise avec l'option FROTTEMENT = OUI.
+Fixe le choix de la formulation du frottement :
+1 : Kostense et al., 1986
+2 : Putnam & Johnson, 1949.
+
+DÉFAUT = 1
+
+CHOIX = ' 1 = " 1: Formulation de Kostense integrant le calcul de Ue (1986)"';
+' 2 = " 2: Formulation de Putnam & Johnson (1949)"'

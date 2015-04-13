@@ -1,0 +1,3 @@
+HELP = Average water density in the domain, see subroutine drsurr
+
+DEFAULT = 1025.

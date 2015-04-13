@@ -1,0 +1,4 @@
+AIDE = Permet de decider si l'on prend ou non en compte la diffusion
+des vitesses.
+
+DÉFAUT = OUI

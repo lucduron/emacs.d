@@ -1,0 +1,5 @@
+HELP = 1: nodal   2: average
+
+CHOICE = '1
+
+DEFAULT = 1

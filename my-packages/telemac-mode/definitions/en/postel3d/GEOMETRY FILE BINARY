@@ -1,0 +1,11 @@
+HELP = Binary file type used for writing the cross section files.
+This type depends on the machine on which the file was generated.
+The possible values are as follows:
+I3E, for a file on an HP (from a CRAY)
+STD, binary type of the machine on which the user is working.
+In that case, normal READ and WRITE commands are used
+
+CHOICE = STD';
+'I3E
+
+DEFAULT = STD

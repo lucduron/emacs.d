@@ -1,0 +1,3 @@
+AIDE = constante de la loi d'erosion de la vase (Kg/m2/s)
+
+DÉFAUT = 1.E-03

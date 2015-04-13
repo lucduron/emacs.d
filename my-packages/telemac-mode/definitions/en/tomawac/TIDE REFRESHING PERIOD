@@ -1,0 +1,10 @@
+HELP = Determines the period in number of iterations to
+update the tidal currents and the water depth.
+**Related keywords :**
+CONSIDERATION OF TIDE
+BINARY TIDAL WATER LEVEL FILE
+FORMATTED TIDAL WATER LEVEL FILE
+TIDAL WATER LEVEL FILE BINARY
+FORMAT DU FICHIER DU NIVEAU DE LA MAREE
+
+DEFAULT = 1

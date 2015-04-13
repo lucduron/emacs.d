@@ -1,0 +1,4 @@
+AIDE = Nom du fichier dans lequel seront ecrits les resultats du
+dernier calcul pour obtenir une suite de calcul parfaite
+
+DÉFAUT = aucun

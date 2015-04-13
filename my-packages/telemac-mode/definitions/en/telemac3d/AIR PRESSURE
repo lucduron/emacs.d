@@ -1,0 +1,4 @@
+HELP = Provided to decide whether the influence of an atmosphere pressure field
+is taken into account or not.
+
+DEFAULT = NO

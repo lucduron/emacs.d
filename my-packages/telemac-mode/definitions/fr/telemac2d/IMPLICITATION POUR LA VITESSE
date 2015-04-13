@@ -1,0 +1,5 @@
+AIDE = Fixe la valeur du coefficient d'implicitation sur la vitesse
+dans l'etape de propagation (cf.  Note de principe).
+Les valeurs inferieures a 0.5 donnent un schema instable.
+
+DÉFAUT = 0.55

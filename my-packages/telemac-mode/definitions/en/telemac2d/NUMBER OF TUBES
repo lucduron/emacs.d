@@ -1,0 +1,5 @@
+HELP = Number of tubes or bridges treated as source terms.
+They must be described as sources in the domain and their features
+are given in the tubes data file (see written documentation)
+
+DEFAULT = 0

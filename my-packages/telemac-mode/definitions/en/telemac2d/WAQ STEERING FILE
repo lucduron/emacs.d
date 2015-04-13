@@ -1,0 +1,4 @@
+HELP = file for physical parameters of waq processes
+(local ones of Telemac-tracer not those of DELWAQ)
+
+DEFAULT = no value

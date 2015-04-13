@@ -1,0 +1,4 @@
+AIDE = donne la valeur de la pression atmospherique lorsquelle est
+constante en temps et en espace
+
+DÉFAUT = 100000.

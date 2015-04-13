@@ -1,0 +1,8 @@
+HELP = Minimum spectral variance threshold taken into account
+when diffraction is considered
+**Related keywords:**
+DIFFRACTION
+STARTING TIME STEP FOR DIFFRACTION
+DIFFRACTION FILTER
+
+DEFAULT = 1.D-12

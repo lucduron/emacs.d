@@ -1,0 +1,12 @@
+HELP = Initial guess for the solver in the propagation step.
+Makes it possible to modify the initial value of U, upon each
+iteration in the propagation step, by using the ultimate values this
+variable had in the earlier time steps. Thus, the convergence can be
+speeded up when the system is being solved. 3 options are available:
+0 : U = 0
+1 : U = U(n)
+2 : U = 2 U(n)- U(n-1) (extrapolation)
+
+CHOICE = '0
+
+DEFAULT = 1

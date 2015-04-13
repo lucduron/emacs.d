@@ -1,0 +1,8 @@
+HELP = Stop criteria for a steady state
+These coefficients are applied respectively to
+1) U and V
+2) H
+3) T
+To be used with the key-word: STOP IF A STEADY STATE IS REACHED
+
+DEFAULT = 1.E-4;1.E-4;1.E-4

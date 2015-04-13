@@ -1,0 +1,10 @@
+AIDE = epaisseur de reference pour creer de nouvelles couches
+de vase.Ce parametre est utilise seulement dans le cas
+MODELE DE TASSEMENT DE GIBSON = OUI.Avec ce modele, le sediment
+qui se depose sur le fond est tout d'abord stocke dans une couche
+tampon appelee couche des depots frais. C'est seulement quand
+l'epaisseur de cette couche atteint la valeur donnee par le mot
+cle EPAISSEUR DES COUCHES DU FOND VASEUX qu'une nouvelle couche
+est cree au niveau du lit de vase.
+
+DÉFAUT = 5.E-3

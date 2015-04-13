@@ -1,0 +1,5 @@
+AIDE = Place memoire sur CRAY, en mots de 8 octets, reservee en
+machine pour la realisation du calcul. Une estimation de cette valeur
+est donnee en tete du listing.
+
+DÉFAUT = 1500000W

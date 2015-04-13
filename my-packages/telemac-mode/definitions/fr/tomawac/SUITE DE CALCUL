@@ -1,0 +1,5 @@
+AIDE = Indique si on fait une suite de calcul.
+**Mots-cles associes :**
+FICHIER DU CALCUL PRECEDENT
+
+DÉFAUT = .FALSE.

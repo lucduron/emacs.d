@@ -1,0 +1,80 @@
+HELP = Codes of the variables the user wants to write into the 2D
+RESULTS FILE. The available variables are as follows
+M0   : Total variance
+HM0  : Spectral significant wave height
+DMOY : Mean wave direction
+SPD  : Mean directional spreading
+ZF   : Sea bottom level
+WD   : Water depth
+UX   : Current along X
+UY   : Current along Y
+VX   : Wind along X
+VY   : Wind along Y
+FX   : Driving force along X
+FY   : Driving force along Y
+SXX  : Radiation stress along xx
+SYY  : Radiation stress along yy
+SXY  : Radiation stress along xy
+UWB  : Bottom celerity
+POW  : Wave power (per meter along wave crest)
+FMOY : Mean frequency FMOY
+FM01 : Mean frequency FM01
+FM02 : Mean frequency FM02
+FPD  : Discrete peak frequency
+FPR5 : Peak frequency by Read method of order 5
+FPR8 : Peak frequency by Read method of order 8
+US   : Surface friction velocity u*
+CD   : Surface drag coefficient CD
+Z0   : Surface roughness length Z0
+WS   : Surface wave stress
+TMOY : Mean period Tmoy
+TM01 : Mean period Tm01
+TM02 : Mean period Tm02
+TPD  : Discrete peak period
+TPR5 : Peak period by Read method of order 5
+TPR8 : Peak period by Read method of order 8
+PRI  : Private table
+BETA : Breaking waves coefficient
+**Related keywords :**
+2D RESULTS FILE
+NUMBER OF FIRST ITERATION FOR GRAPHIC PRINTOUTS
+PERIOD FOR GRAPHIC PRINTOUTS
+
+CHOICE = M0
+'HM0="Spectral significant wave height  (m)"';
+'DMOY="Mean wave direction  (Â°)"';
+'SPD="Mean directional spreading  (Â°)"';
+'ZF="Sea bottom level  (m)"';
+'WD="Water depth  (m)"';
+'UX="Current along X  (m/s)"';
+'UY="Current along Y  (m/s)"';
+'VX="Wind along X  (m/s)"';
+'VY="Wind along Y  (m/s)"';
+'FX="Driving force along X  (m/s2)"';
+'FY="Driving force along Y  (m/s2)"';
+'SXX="Radiation stress along xx  (m3/s2)"';
+'SYY="Radiation stress along yy  (m3/s2)"';
+'SXY="Radiation stress along xy  (m3/s2)"';
+'UWB="Bottom celerity  (m/s)"';
+'POW="Wave power (per meter along wave crest)  (kW/m)"';
+'FMOY="Mean frequency FMOY  (Hz)"';
+'FM01="Mean frequency FM01  (Hz)"';
+'FM02="Mean frequency FM02  (Hz)"';
+'FPD="Discrete peak frequency  (Hz)"';
+'FPR5="Peak frequency by Read method of order 5  (Hz)"';
+'FPR8="Peak frequency by Read method of order 8  (Hz)"';
+'US="Surface friction velocity u*  (m/s)"';
+'CD="Surface drag coefficient CD  (-)"';
+'Z0="Surface roughness length Z0  (m)"';
+'WS="Surface wave stress  (kg/(m.s2))"';
+'TMOY="Mean period Tmoy  (s)"';
+'TM01="Mean period Tm01  (s)"';
+'TM02="Mean period Tm02  (s)"';
+'TPD="Discrete peak period  (s)"';
+'TPR5="Peak period by Read method of order 5  (s)"';
+'TPR8="Peak period by Read method of order 8  (s)"';
+'PRI="Private table  (?)"';
+'BETA="Breaking waves coefficient  (-)"'
+COMPOSE=',
+
+DEFAULT = HM0,DMOY

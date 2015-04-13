@@ -1,0 +1,11 @@
+HELP = Indicates whether TELEMAC data are recovered in LECDON. If so,
+a proper-formatted CURRENTS FILE should be used and the rank of the
+respective variable should be entered into the TELEMAC file.
+**Related keywords :**
+BINARY CURRENTS FILE
+FORMATTED CURRENTS FILE
+CURRENTS FILE TYPE
+RANK OF THE TELEMAC DATA ITEM TO BE RECOVERED
+TIME INCREMENT NUMBER IN TELEMAC FILE
+
+DEFAULT = .FALSE.

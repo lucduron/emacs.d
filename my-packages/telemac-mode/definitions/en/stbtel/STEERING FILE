@@ -1,0 +1,4 @@
+HELP = 'Name of the file that contains the file references and of options for
+the computation to be made.'
+
+DEFAULT = no value

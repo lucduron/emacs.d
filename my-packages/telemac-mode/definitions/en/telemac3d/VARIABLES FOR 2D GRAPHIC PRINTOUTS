@@ -1,0 +1,67 @@
+HELP = Names of variables that may be written in the
+2D result file.
+Every variable is represented by a group of letters with
+any separator between them , ; or blank
+possibilities are the following:
+U="depth averaged velocity along x axis (m/s)"
+V="depth averaged velocity along y axis (m/s)"
+C="celerity (m/s)"
+H="water depth (m)"
+S="free surface elevation (m)"
+B="bottom elevation (m)"
+F="Froude number (m)"
+Q="scalar discharge (m2/s)"
+I="discharge along x (m2/s)"
+J="discharge along y (m2/s)"
+M="norm of velocity (m/s)"
+X="wind along x axis (m/s)"
+Y="wind along y axis (m/s)"
+P="atmospheric pressure (Pa)"
+W="friction coefficient"
+RB="non erodible bottom elevation (m)"
+FD="thickness of the fresh deposits (m)"
+EF="erosion rate (kg/m3/s)"
+DP="probability of deposition"
+PRIVE1="work array PRIVE 1"
+PRIVE2="work array PRIVE 2"
+PRIVE3="work array PRIVE 3"
+PRIVE4="work array PRIVE 4"
+US="friction velocity (m/s)"
+MAXZ="maximum value of the free surface
+elevation during the computation (m)"
+TMXZ="time corresponding to this maximum elevation (s)"
+
+CHOICE = U
+'V="depth averaged velocity along y axis (m/s)"';
+'C="celerity (m/s)"';
+'H="water depth (m)"';
+'S="free surface elevation (m)"';
+'B="bottom elevation (m)"';
+'TA1="TAx concentrations for tracers, x is the tracer number"';
+'F="Froude number (m)"';
+'Q="scalar discharge (m2/s)"';
+'I="discharge along x (m2/s)"';
+'J="discharge along y (m2/s)"';
+'M="norm of velocity (m/s)"';
+'X="wind along x axis (m/s)"';
+'Y="wind along y axis (m/s)"';
+'P="atmospheric pressure (Pa)"';
+'W="friction coefficient"';
+'RB="non erodible bottom elevation (m)"';
+'HD="thickness of the sediment bed layer (m)"';
+'EF="erosion rate (kg/m3/s)"';
+'DF="deposition flux (kg/m3/s)"';
+'DZF=" evolution du lit"';
+'PRIVE1="work array PRIVE 1"';
+'PRIVE2="work array PRIVE 2"';
+'PRIVE3="work array PRIVE 3"';
+'PRIVE4="work array PRIVE 4"';
+'QS="solid discharge (m2/s)"';
+'QSX="solid discharge along x (m2/s)"';
+'QSY="solid discharge along y (m2/s)"';
+'US="friction velocity (m/s)"';
+'MAXZ="maximum value of the free surface
+elevation during the computation (m)"';
+'TMXZ="time corresponding to this maximum elevation (s)"
+
+DEFAULT = U,V,H,B

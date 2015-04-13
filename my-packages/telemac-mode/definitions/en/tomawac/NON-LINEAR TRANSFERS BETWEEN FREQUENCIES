@@ -1,0 +1,22 @@
+HELP = Selection of the modelling type of the non-linear transfert
+source term. If its value is 0, the non-linear transfers are ignored;
+if its value is 1, they are integrated in accordance with the formula
+of WAM cycle 4 (DIA method), if its value is 2, the MDIA
+(Multiple DIA) method is used to calculate the non linear transfer
+term, if its value is 3, the non linear transfer term is calculated
+with the exact GQM method.
+**Related keywords :**
+STANDARD CONFIGURATION PARAMETER
+SETTING FOR INTEGRATION ON OMEGA1
+SETTING FOR INTEGRATION ON THETA1
+SETTING FOR INTEGRATION ON OMEGA2
+THRESHOLD0 FOR CONFIGURATIONS ELIMINATION
+THRESHOLD1 FOR CONFIGURATIONS ELIMINATION
+THRESHOLD2 FOR CONFIGURATIONS ELIMINATION
+
+CHOICE = 0
+'1="Non-linear transfers term in accordance with WAM cycle 4 (DIA Method)"';
+'2="Non-linear transfers term in accordance with MDIA Method"';
+'3="Non-linear transfers term calculated with exact GQM Method"
+
+DEFAULT = 0

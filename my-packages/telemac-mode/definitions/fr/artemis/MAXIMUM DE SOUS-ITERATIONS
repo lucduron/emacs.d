@@ -1,0 +1,4 @@
+AIDE = Donne le nombre maximum admis de sous-iterations pour le calcul
+du coefficient de dissipation
+
+DÉFAUT = 15

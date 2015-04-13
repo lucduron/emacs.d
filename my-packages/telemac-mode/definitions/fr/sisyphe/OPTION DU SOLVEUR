@@ -1,0 +1,5 @@
+AIDE = si le solveur est GMRES (7) le mot cle est la dimension de
+l'espace de KRILOV (valeurs conseillees entre 2 et 15). Ce parametre
+n'est utilise que si le mot cle MASS LUMPING est egal a faux.
+
+DÉFAUT = 2

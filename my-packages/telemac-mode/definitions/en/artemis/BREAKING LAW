@@ -1,0 +1,12 @@
+HELP = Specifies the formulation choosen for calculating the dissipation
+coefficient through breaking. Only effective for Monochromatic wave
+mode.
+1 : Formulation of Battjes & Janssen, 1978
+2 : Formulation of Dally et al., 1984
+In random wave mode, the formulation of B & J, 1978 is the only one
+to be used.
+
+CHOICE = '1 = "BATTJES & JANSSEN"';
+'2 = "DALLY"'
+
+DEFAULT = 1

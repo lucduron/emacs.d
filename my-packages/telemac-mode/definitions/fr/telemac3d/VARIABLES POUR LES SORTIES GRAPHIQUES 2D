@@ -1,0 +1,66 @@
+AIDE = Noms des variables que l'utilisateur veut ecrire dans
+le fichier des resultats.
+Chaque variable est representee par une lettre.
+Le choix des separateurs est libre.
+Les possibilites offertes sont les suivantes :
+U="vitesse moyenne suivant l'axe des x (m/s)"
+V="vitesse moyenne suivant l'axe des y (m/s)"
+C="celerite (m/s)"
+H="hauteur d'eau (m)"
+S="cote de surface libre (m)"
+B="cote du fond (m)"
+F="nombre de Froude (m)"
+Q="debit scalaire (m2/s)"
+I="debit suivant x (m2/s)"
+J="debit suivant y (m2/s)"
+M="norme de la vitesse (m/s)"
+X="vent suivant l'axe des x (m/s)"
+Y="vent suivant l'axe des y (m/s)"
+P="pression atmospherique (Pa)"
+W="coefficient de frottement"
+RB="cote des fonds non erodables (m)"
+FD="epaisseur des depots frais (m)"
+EF="flux d'erosion (kg/m3/s)"
+DP="probabilite de depot"
+PRIVE1="tableau de travail PRIVE 1"
+PRIVE2="tableau de travail PRIVE 2"
+PRIVE3="tableau de travail PRIVE 3"
+PRIVE4="tableau de travail PRIVE 4"
+US="vitesse de frottement (m/s)"
+MAXZ="valeur maximum de la cote de l eau au cours du calcul (m)"
+TMXZ="temps correspondant a ce niveau maximum (s)"
+
+DÉFAUT = U,V,H,B
+
+CHOIX = U
+'V="vitesse moyenne suivant l'axe des y (m/s)"';
+'C="celerite (m/s)"';
+'H="hauteur d'eau (m)"';
+'S="cote de surface libre (m)"';
+'B="cote du fond (m)"';
+'TA1="TAx concentrations des traceurs, x numero du traceur"';
+'F="nombre de Froude (m)"';
+'Q="debit scalaire (m2/s)"';
+'I="debit suivant x (m2/s)"';
+'J="debit suivant y (m2/s)"';
+'M="norme de la vitesse (m/s)"';
+'X="vent suivant l'axe des x (m/s)"';
+'Y="vent suivant l'axe des y (m/s)"';
+'P="pression atmospherique (Pa)"';
+'W="coefficient de frottement"';
+'RB="cote des fonds non erodables (m)"';
+'HD="epaisseur du lit de sediment (m)"';
+'EF="flux d'erosion (kg/m3/s)"';
+'DF="flux de Depot (kg/m3/s)"';
+'DZF=" bed evolution "';
+'PRIVE1="tableau de travail PRIVE 1"';
+'PRIVE2="tableau de travail PRIVE 2"';
+'PRIVE3="tableau de travail PRIVE 3"';
+'PRIVE4="tableau de travail PRIVE 4"';
+'QS="debit solide (m2/s)"';
+'QSX="debit solide suivant x (m2/s)"';
+'QSY="debit solide suivant y (m2/s)"';
+'US="vitesse de frottement (m/s)"';
+'MAXZ="valeur maximum de la cote de
+l eau au cours du calcul (m)"';
+'TMXZ="temps correspondant a ce niveau maximum (s)"

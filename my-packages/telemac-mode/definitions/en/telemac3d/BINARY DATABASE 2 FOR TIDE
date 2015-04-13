@@ -1,0 +1,5 @@
+HELP = Binary database 2 extracted from the tidal model file.
+In the case of the OSU satellite altimetry model (TPXO type), this file should
+be for tidal velocities, for instance u_tpxo7.2
+
+DEFAULT = no value

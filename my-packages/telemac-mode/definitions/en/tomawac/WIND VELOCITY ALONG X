@@ -1,0 +1,5 @@
+HELP = Wind velocity along X axis, constant and homogeneous (m/s)
+**Related keyword :**
+CONSIDERATION OF A WIND
+
+DEFAULT = 0.

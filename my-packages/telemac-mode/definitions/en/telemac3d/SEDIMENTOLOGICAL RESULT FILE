@@ -1,0 +1,6 @@
+HELP = Name of the file into which the sedimentological computation
+results (thickness and concentration of the mud bed...) shall be
+written,the periodicity being given by the key-word:
+GRAPHIC PRINTOUT PERIOD.
+
+DEFAULT = no value

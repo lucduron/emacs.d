@@ -1,0 +1,4 @@
+HELP = Sets the maximum number of iterations that are acceptable when
+solving the diffusion source-terms step of the k-epsilon model.
+
+DEFAULT = 50

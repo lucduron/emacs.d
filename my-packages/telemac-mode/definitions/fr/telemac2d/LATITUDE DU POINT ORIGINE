@@ -1,0 +1,4 @@
+AIDE = Determine l'origine utilisee pour le calcul de latitudes
+lorsque l'on effectue un calcul en coordonnees spheriques.
+
+DÉFAUT = 48.

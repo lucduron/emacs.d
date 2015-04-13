@@ -1,0 +1,14 @@
+AIDE = Possibilite d ajouter au terme source d apport
+par le vent un terme de croissance lineaire.
+Si sa valeur est 0, on ne prend pas en compte le
+terme de croissance lineaire, si sa valeur est 1,
+il est ajoute au terme source, selon la formule
+de Cavaleri et Malanotte-Rizzoli (1981)
+**Mots-cles associes :**
+PRISE EN COMPTE DU VENT
+FICHIER DES VENTS
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="croissance lineaire selon Cavaleri et Malanotte-Rizzoli (1981)"

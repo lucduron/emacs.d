@@ -1,0 +1,10 @@
+AIDE = Si la diffraction est prise en compte, le logique
+indique si les amplitudes calculees sont filtrees
+pour le calcul du parametre de diffraction et des vitesses
+de transfert.
+**Mots-cles associes :**
+DIFFRACTION
+SEUIL DE VARIANCE CONSIDEREE POUR DIFFRACTION
+PAS DE TEMPS DEBUT DIFFRACTION
+
+DÉFAUT = .FALSE.

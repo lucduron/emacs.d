@@ -1,0 +1,13 @@
+AIDE = Determine si l'on effectue ou non le bilan de masse
+sur le domaine.
+Cette procedure calcule a chaque pas de temps :
+- les flux aux entrees et sorties du domaine;
+- le flux global a travers l'ensemble des parois du domaine (liquides
+ou solides)
+- l'erreur relative sur la masse pour ce pas de temps.
+En fin de listing, on trouve l'erreur relative sur la masse pour
+l'ensemble du calcul.
+Il ne s'agit que d'un calcul indicatif car il n'existe pas
+d'expression compatible du debit en formulation c,u,v.
+
+DÉFAUT = NON

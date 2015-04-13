@@ -1,0 +1,5 @@
+AIDE = Nombre d'iteration a effecuter avec telemac pour obtenir
+un nouvel ecoulement quasi stationnaire.
+A utiliser avec l'option constant flow discharge
+
+DÉFAUT = 500

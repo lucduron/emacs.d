@@ -1,0 +1,4 @@
+HELP = Limits the number of solver iterations for the pressure
+Poisson equation
+
+DEFAULT = 100

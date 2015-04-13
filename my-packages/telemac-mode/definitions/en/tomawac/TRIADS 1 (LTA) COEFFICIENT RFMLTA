@@ -1,0 +1,8 @@
+HELP = RFMLTA determines the upper frequency on which the energy
+transfers may occur. The maximal frequency is calculated as the
+product of the constant RFMLTA by the peak frequency of the spectrum.
+**Related keywords :**
+TRIAD INTERACTIONS
+TRIADS 1 (LTA) COEFFICIENT ALPHA
+
+DEFAULT = 2.5

@@ -1,0 +1,4 @@
+AIDE = 'Lors du traitement d'un fichier de resultats issu de TELEMAC-2D,
+permet d'activer l'elimination des elements secs.'
+
+DÉFAUT = NON

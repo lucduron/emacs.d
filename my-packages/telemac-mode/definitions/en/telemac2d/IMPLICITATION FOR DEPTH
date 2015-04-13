@@ -1,0 +1,6 @@
+HELP = Sets the value of the implicitation coefficient for C
+(the celerity of waves) in the propagation step
+(refer to principle note).
+Values below 0.5 result in an unstable scheme.
+
+DEFAULT = 0.55

@@ -1,0 +1,12 @@
+AIDE = Choix du type de format du fichier des courants :
+3 = selafin du type TELEMAC
+4 = format utilisateur (Modifier alors  la procedure couuti.f)
+**Mots-cles associes :**
+FICHIER DES COURANTS BINAIRE
+FICHIER DES COURANTS FORMATE
+BINAIRE DU FICHIER DES COURANTS
+
+DÉFAUT = 3
+
+CHOIX = 3
+'4="Format utilisateur (couuti.f)"

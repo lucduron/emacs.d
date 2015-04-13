@@ -1,0 +1,5 @@
+HELP = Names of variables that are not used by TELEMAC, but should be
+preserved when it is being run. This keyword may be used, for instance
+when it if TELEMAC is coupled with another code. Thus, the clandestine
+variables belong to the other code and are given back in the results
+file.

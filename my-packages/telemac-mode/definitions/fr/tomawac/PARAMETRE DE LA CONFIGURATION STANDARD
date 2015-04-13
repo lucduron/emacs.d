@@ -1,0 +1,6 @@
+AIDE = Parametre definissant la configuration d interaction
+standard pour les quadruplets dans la methode DIA.
+**Mots-cles associes :**
+TRANSFERTS NON LINEAIRES INTER-FREQUENCES
+
+DÉFAUT = 0.25

@@ -1,0 +1,10 @@
+HELP = MODEL FOR ACTIVE LAYER THICKNESS
+0 = ELAY0 (Keyword: ACTIVE LAYER THICKNESS)
+1 = Hunziker & Günther
+2 = Fredsoe & Deigaard (1992)
+3 = van RIJN (1993)
+4 = Wong (2006)
+5 = Malcherek (2003)
+6 = 3*d50 within last time steps ALT
+
+DEFAULT = 5

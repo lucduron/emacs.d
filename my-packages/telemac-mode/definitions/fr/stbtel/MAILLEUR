@@ -1,0 +1,22 @@
+AIDE = 'Nom du mailleur utilise pour la creation du FICHIER UNIVERSEL. Ce peut
+etre :
+- SUPERTAB6 (version 6 du mailleur SUPERTAB),
+- SUPERTAB4 (version 4 du mailleur SUPERTAB),
+- MASTER2 (version 2 du mailleur MASTER-SERIES),
+- SIMAIL,
+- SELAFIN (afin de modifier un maillage deja utilise, comme pour :
+- interpoler de nouveau fonds
+- eliminer des dependances arrieres
+- coupe triangles surcontraints),
+- TRIGRID,
+- FASTTABS.'
+
+DÉFAUT = MASTER2
+
+CHOIX = SUPERTAB4;
+SUPERTAB6;
+MASTER2;
+SIMAIL;
+SELAFIN;
+TRIGRID;
+FASTTABS

@@ -1,0 +1,8 @@
+HELP = Number of sub-iterations for the computation of the source terms.
+The time step considered in the integration of the source terms
+is the ratio between the TIME STEP and the NUMBER OF SUB-ITERATIONS
+FOR THE SOURCE TERMS
+**Related keyword :**
+TIME STEP
+
+DEFAULT = 1

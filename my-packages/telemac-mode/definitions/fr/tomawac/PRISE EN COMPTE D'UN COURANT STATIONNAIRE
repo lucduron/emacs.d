@@ -1,0 +1,6 @@
+AIDE = Indique si on prend en compte un courant, dans un fichier ou
+dans condiw.f.
+**Mots-cles associes :**
+FICHIER DES COURANTS
+
+DÉFAUT = .FALSE.

@@ -1,0 +1,9 @@
+HELP = Number of integration points on omega 2 when the non linear
+transfer term is calculated with the exact GQM method:
+rough 6 ; medium 8 ; fine 12
+
+CHOICE = 6
+'8="medium"';
+'12="fine"
+
+DEFAULT = 6

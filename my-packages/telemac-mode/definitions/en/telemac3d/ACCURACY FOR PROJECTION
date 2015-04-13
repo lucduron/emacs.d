@@ -1,0 +1,3 @@
+HELP = Set the precision needed for the projection step
+
+DEFAULT = 1.E-6

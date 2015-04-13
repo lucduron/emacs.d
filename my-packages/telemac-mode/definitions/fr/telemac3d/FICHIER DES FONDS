@@ -1,0 +1,6 @@
+AIDE = Nom du fichier eventuel contenant la bathymetrie associee au
+maillage.
+Si ce mot-cle est utilise, c'est cette bathymetrie qui sera utilisee
+pour le calcul.
+
+DÉFAUT = aucun

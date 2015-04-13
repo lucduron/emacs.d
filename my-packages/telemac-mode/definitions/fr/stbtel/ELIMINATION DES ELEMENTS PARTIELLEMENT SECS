@@ -1,0 +1,4 @@
+AIDE = 'Lors de l'elimination des elements secs, permet de specifier si
+on traite les elements parteillement secs (au moins un noeud sec).'
+
+DÉFAUT = NON

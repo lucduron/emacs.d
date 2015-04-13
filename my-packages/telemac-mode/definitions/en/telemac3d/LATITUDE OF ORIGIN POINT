@@ -1,0 +1,4 @@
+HELP = Gives the value of the latitude of the origin point of the mesh
+(for the Mercator projection, see the keyword GEOGRAPHIC SYSTEM).
+
+DEFAULT = 0.E0

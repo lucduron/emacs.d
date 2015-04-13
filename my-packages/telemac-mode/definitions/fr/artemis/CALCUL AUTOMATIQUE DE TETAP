@@ -1,0 +1,4 @@
+AIDE = 'TRUE : CALCUL AUTO DES ANGLES TETAP
+(basee sur la direction de la vitesse)'
+
+DÉFAUT = NON

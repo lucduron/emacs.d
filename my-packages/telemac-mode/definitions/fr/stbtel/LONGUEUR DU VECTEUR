@@ -1,0 +1,3 @@
+AIDE = 'Permet de fixer, sur machine vectorielle, la longueur du vecteur.'
+
+DÉFAUT = 1

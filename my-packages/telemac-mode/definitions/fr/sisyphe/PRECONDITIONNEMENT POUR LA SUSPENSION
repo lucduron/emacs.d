@@ -1,0 +1,16 @@
+AIDE = Permet de preconditionner le systeme de l'etape de propagation
+afin d'accelerer la convergence lors de sa resolution.
+- 0 : pas de preconditionnement,
+- 2 : preconditionnement diagonal.
+- 3 : preconditionnement diagonal avec la matrice condensee.
+- 7 : preconditionnement de Crout par element.
+Certains preconditionnements sont cumulables
+(les diagonaux 2 ou 3 avec les autres)
+Pour cette raison on ne retient que les nombres premiers pour
+designer les preconditionnements. Si l'on souhaite en cumuler
+plusieurs on formera le produit des options correspondantes.
+
+DÉFAUT = 2
+
+CHOIX = 2
+'3="diagonal condensee"'; '7="crout"

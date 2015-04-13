@@ -1,0 +1,6 @@
+HELP = When no, the specific treatments for tidal flats
+are by-passed.
+This spares time, but of course you must be sure that you
+have no tidal flats
+
+DEFAULT = YES

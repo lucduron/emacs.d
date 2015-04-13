@@ -1,0 +1,4 @@
+HELP = Coefficient to calibrate the tidal range of tidal wave
+at tidal open boundary conditions
+
+DEFAULT = 1.

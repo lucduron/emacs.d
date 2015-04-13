@@ -1,0 +1,4 @@
+AIDE = Ratio pour le calcul du frottement de peau.
+rugosite de peau = ratio * diametre moyen.
+
+DÉFAUT = 3.0

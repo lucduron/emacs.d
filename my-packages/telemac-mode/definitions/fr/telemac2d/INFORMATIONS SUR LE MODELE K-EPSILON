@@ -1,0 +1,4 @@
+AIDE = Donne le nombre d'iterations du solveur de l'etape de
+diffusion et termes sources du modele k-epsilon.
+
+DÉFAUT = OUI

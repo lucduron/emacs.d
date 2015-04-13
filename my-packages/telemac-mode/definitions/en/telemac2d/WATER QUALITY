@@ -1,0 +1,4 @@
+HELP = waq effects are to be taken into
+account or not.
+
+DEFAULT = NO

@@ -1,0 +1,6 @@
+HELP = formula to predict the skin bed roughness (see also KSPRATIO)
+0 : NO correction (TAUP= TOB)
+1 : Flat bed (KSP= KSPRATIO * D50)
+2 : Ripple correction factor
+
+DEFAULT = 1

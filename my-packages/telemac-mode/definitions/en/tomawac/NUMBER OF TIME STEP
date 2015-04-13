@@ -1,0 +1,5 @@
+HELP = Define the number of time step.
+**Related keywords :**
+TIME STEP
+
+DEFAULT = 1

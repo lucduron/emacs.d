@@ -1,0 +1,8 @@
+AIDE = coefficient intervenant dans la modelisation de l'influence de
+la turbulence sur la floculation, il intervient plus precisement dans
+le terme de formation des flocs par les contraintes turbulentes
+(coefficient a de la formulede Van Leussen).
+Valeur a imposer si INFLUENCE DE LA TURBULENCE SUR LA VITESSE
+DE CHUTE = OUI.
+
+DÉFAUT = 0.3

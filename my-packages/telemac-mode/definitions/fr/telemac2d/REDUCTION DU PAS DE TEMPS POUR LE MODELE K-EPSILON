@@ -1,0 +1,5 @@
+AIDE = Coefficient reducteur du pas de temps pour le modele k-epsilon
+(qui est normalement identique a celui du systeme hydrodynamique).
+Utilisation deconseillee
+
+DÉFAUT = 1.

@@ -1,0 +1,6 @@
+HELP = List of codes to be coupled with TELEMAC-3D
+SISYPHE : internal coupling with Sisyphe
+TOMAWAC : internal coupling with Tomawac
+DELWAQ: will yield results file for Delwaq
+
+DEFAULT = no value

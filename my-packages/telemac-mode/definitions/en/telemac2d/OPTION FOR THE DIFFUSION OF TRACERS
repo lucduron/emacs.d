@@ -1,0 +1,7 @@
+HELP = 1: Diffusion in the form div( nu grad(T) )
+2: Diffusion in the form 1/h div ( h nu grad(T) )
+
+CHOICE = 1
+'2="1/h div ( h nu grad(T)"
+
+DEFAULT = 1

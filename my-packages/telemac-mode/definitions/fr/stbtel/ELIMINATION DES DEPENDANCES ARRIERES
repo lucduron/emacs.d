@@ -1,0 +1,7 @@
+AIDE = 'Permet de renumeroter les noeuds du maillage de maniere a eliminer les
+dependances arrieres et autoriser ainsi le forcage de la vectorisation
+lorsque les calculs TELEMAC 2D son effectues sur CRAY.
+Attention : un nombre minimum d'environ 500 noeuds est requis pour
+l'activation de cette option.'
+
+DÉFAUT = OUI

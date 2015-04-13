@@ -1,0 +1,9 @@
+HELP = this key word specifies the time when SISYPHE computation
+begins except when a computation is continued (the initial time
+is then read on the "previous sendimentological file".
+For an unsteady case, it moreover specifies the time which
+corresponds to the 1st record to be read in the "previous
+computation file"(the file which contains the hydrodynamic
+data).
+
+DEFAULT = -1000.

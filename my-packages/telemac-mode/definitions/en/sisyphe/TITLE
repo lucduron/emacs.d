@@ -1,0 +1,4 @@
+HELP = Title of the case being considered.
+This title shall be marked on the printouts.
+
+DEFAULT = no value

@@ -1,0 +1,5 @@
+HELP = 0:user defined (then routine CALCOT to be implemented)
+1:sigma  2:zstar 3:horizontal fixed planes 5: adaptive mesh
+this keyword must comply with what is done in condim.f
+
+DEFAULT = 1

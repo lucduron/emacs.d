@@ -1,0 +1,5 @@
+HELP = maximum concentration which may be reached by a mud layer
+during consolidation.
+This value is used if GIBSON CONSOLIDATION MODEL = YES.
+
+DEFAULT = 500.

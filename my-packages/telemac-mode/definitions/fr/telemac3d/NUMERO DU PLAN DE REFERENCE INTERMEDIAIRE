@@ -1,0 +1,6 @@
+AIDE = Permet lorsque cet entier est strictement compris
+entre 1 et NPLAN
+de scinder suivant Z le domaine en 2
+impliquant 2 transformations sigma.
+
+DÉFAUT = 1

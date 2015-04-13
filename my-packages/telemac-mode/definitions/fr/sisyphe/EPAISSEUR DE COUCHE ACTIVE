@@ -1,0 +1,6 @@
+AIDE = Epaisseur de reference pour la stratification du lit. La
+composition de la premiere couche sert a calculer le transport
+solide. Utiliser une tres grande valeur pour ne pas avoir de
+stratification.
+
+DÉFAUT = 10000

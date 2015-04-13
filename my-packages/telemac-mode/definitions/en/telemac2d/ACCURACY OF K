@@ -1,0 +1,4 @@
+HELP = Sets the required accuracy for computing k in the diffusion
+and source terms step of the k-epsilon model.
+
+DEFAULT = 1.E-9

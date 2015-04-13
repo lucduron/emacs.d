@@ -1,0 +1,9 @@
+AIDE = Format du fichier de geometrie.
+Les valeurs possibles sont :
+- SERAFIN : format standard simple precision pour Telemac;
+- SERAFIND: format standard double precision pour Telemac;
+- MED     : format MED base sur HDF5
+
+DÉFAUT = SERAFIN
+
+CHOIX = SERAFIN ';'SERAFIND';'MED

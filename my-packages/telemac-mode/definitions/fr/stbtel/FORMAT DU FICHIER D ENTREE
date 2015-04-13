@@ -1,0 +1,8 @@
+AIDE = Specifie le format du fichier d entree
+
+DÉFAUT = SELAFIN
+
+CHOIX = SELAFIN';
+'MED';
+'UNV';
+'CGNS

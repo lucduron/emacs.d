@@ -1,0 +1,4 @@
+HELP = Character Array of size : 4
+Reserved to introduce new character strings (new file names...).
+
+DEFAULT = no value

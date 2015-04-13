@@ -1,0 +1,2 @@
+HELP = Floats giving the abscissae of potential sources of flow rates (in meters).
+The source will be located at the nearest node in the mesh

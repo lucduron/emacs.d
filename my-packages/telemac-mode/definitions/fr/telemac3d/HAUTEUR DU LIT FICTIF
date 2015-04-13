@@ -1,0 +1,5 @@
+AIDE = rapport entre le fond ficitif et la hauteur de
+la premiere  maille utilisee par le modele de turbulence
+k-eps et pour le transport du sable
+
+DÉFAUT = 2.0

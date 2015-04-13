@@ -1,0 +1,6 @@
+AIDE = Noms de variables qui ne sont pas utilisees par TELEMAC;
+mais qui doivent etre conservees lors de son execution.
+Ceci peut etre utilise entre autres lors du couplage de TELEMAC
+avec un autre code.
+Les variables clandestines sont alors des variables propres a l'autre
+code et sont rendues dans le fichier de resultats.

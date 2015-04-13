@@ -1,0 +1,3 @@
+HELP = Name of the file containing stage-discharge curves
+
+DEFAULT = no value

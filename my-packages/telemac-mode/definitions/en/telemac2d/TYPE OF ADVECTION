@@ -1,0 +1,25 @@
+HELP = Choice of advection schemes for every variable
+These coefficients are applied respectively to
+1) U et V     2) H     3) T     4) K and EPSILON
+1: characteristics
+2: SUPG
+3: Conservative N-scheme
+4: Conservative N-scheme
+5: Conservative PSI-scheme
+6 : Non conservative PSI scheme
+7 : Implicit non conservative N scheme
+13 : Edge-based N-scheme
+14 : Edge-based N-scheme
+Second integer must be 5
+
+CHOICE = '1="CHARACTERISTICS"';
+'2="SUPG"';
+'3="CONSERVATIVE N-SCHEME"';
+'4="CONSERVATIVE N-SCHEME"';
+'5="CONSERVATIVE PSI-SCHEME"';
+'6="NON CONSERVATIVE PSI SCHEME"';
+'7="IMPLICIT NON CONSERVATIVE N SCHEME"';
+'13="EDGE-BASED N-SCHEME"';
+'14="EDGE-BASED N-SCHEME"'
+
+DEFAULT = 1;5;1;1

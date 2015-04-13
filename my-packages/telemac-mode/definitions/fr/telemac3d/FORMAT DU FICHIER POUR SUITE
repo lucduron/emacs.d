@@ -1,0 +1,10 @@
+AIDE = Format du FICHIER POUR SUITE.
+Les valeurs possibles sont :
+- SERAFIN : format standard simple precision pour Telemac;
+- SERAFIND: format standard double precision pour Telemac;
+- MED     : format MED base sur HDF5
+Seul SERAFIND assure une suite parfaite
+
+DÉFAUT = SERAFIND
+
+CHOIX = SERAFIN ';'SERAFIND';'MED

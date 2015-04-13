@@ -1,0 +1,5 @@
+HELP = Used with option HYDRAULIC REGIME IMPOSED = YES.
+Determines the type of the hydraulic regime (laminar,
+smooth-turbulent, rough-turbulent, transient).
+
+DEFAULT = 1

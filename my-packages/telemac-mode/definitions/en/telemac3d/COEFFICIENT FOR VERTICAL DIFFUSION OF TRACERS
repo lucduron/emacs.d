@@ -1,0 +1,5 @@
+HELP = Sets the value of the vertical diffusion of tracers.
+This value may have a significant effect on the evolution of
+tracers in time.
+
+DEFAULT = 1.E-6

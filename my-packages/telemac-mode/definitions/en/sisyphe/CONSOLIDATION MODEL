@@ -1,0 +1,4 @@
+HELP = 1: Multilayer model of Walther, 2: Thiebot ,
+3: Lenormant
+
+DEFAULT = 1

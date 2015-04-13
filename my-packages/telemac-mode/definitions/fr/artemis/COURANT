@@ -1,0 +1,5 @@
+AIDE = 'TRUE : PRISE EN COMPTE DE LA REFRACTION DE LA HOULE PAR
+LE COURANT.
+Modele retenu : Kostense et Al. (1988) '
+
+DÉFAUT = NON

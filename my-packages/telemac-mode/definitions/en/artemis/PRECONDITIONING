@@ -1,0 +1,19 @@
+HELP = Enables to apply preconditionning the matrix system to accelerate
+the convergence of the solver.
+- 0 : no preconditionning
+- 2 : diagonal preconditionning
+- 3 : block-diagonal preconditionning
+- 5 : diagonal preconditionning in absolute value
+- 7 : Element Crout preconditionning.
+Few of them can be combined
+(numbers 2 or 3 with the other)
+To combine some preconditionning, impose the product of the previous
+numbers : example 6 means preconditionnig 2 and 3 applied.
+
+CHOICE = '0= "no preconditioning"';
+'2= "diagonal preconditioning"';
+'3= "block-diagonal preconditioning"';
+'5= "absolute value diagonal preconditioning"';
+'7= "Crout preconditioning"'
+
+DEFAULT = 2

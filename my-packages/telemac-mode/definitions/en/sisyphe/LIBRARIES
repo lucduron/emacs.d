@@ -1,0 +1,3 @@
+HELP = Used by the start-up procedure at the workstation.
+
+DEFAULT = SISYPHE,TELEMAC,UTIL,DAMO,BIEF,HP

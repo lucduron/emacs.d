@@ -1,0 +1,5 @@
+AIDE = la concentration volumique  du lit est definie par
+CSF= (1-porosite)
+Ce paramètre est utilisé  pour les sediments non-cohesifs.
+
+DÉFAUT = 0.4

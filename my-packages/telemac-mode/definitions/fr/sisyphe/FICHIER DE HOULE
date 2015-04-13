@@ -1,0 +1,13 @@
+AIDE = Nom d'un fichier contenant les resultats d'un calcul
+precedent TOMAWAC realise sur le meme maillage. La houle sera donnee,
+par le dernier pas de temps
+de ce fichier . Seules les donnees de houle de ce fichier
+seront conservees (hauteur de houle, periode de
+houle, angle de la houle).
+Les donnees hydrodynamiques(hauteur d'eau,vitesses) seront lues
+dans le fichier hydrodynamique (Verifier la compatibilite !!!)
+Les donnees de houle peuvent aussi etre imposees
+par l'utilisateur dans le sous programme CONDIM_SISYPHE.
+ou encore lues dans le fichier hydrodynamique.
+
+DÉFAUT = aucun

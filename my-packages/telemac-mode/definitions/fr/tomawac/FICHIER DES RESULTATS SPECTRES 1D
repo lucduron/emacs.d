@@ -1,0 +1,10 @@
+AIDE = Nom du fichier dans lequel seront ecrits les spectres
+frequentiels ponctuels (integres selon les directions).
+**Mots-cles associes :**
+FICHIER DES RESULTATS PONCTUELS
+ABSCISSES DES POINTS DE SORTIE DU SPECTRE
+ORDONNEES DES POINTS DE SORTIE DU SPECTRE
+PERIODE POUR LES SORTIES GRAPHIQUES
+NUMERO DE LA PREMIERE ITERATION POUR LES SORTIES GRAPHIQUES
+
+DÉFAUT = aucun

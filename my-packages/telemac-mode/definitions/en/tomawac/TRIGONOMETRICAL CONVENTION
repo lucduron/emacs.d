@@ -1,0 +1,5 @@
+HELP = True if the wave directions are measured
+counterclockwise from the positive x-axis, false if
+they are measured clockwise fron geographic North
+
+DEFAULT = .FALSE.

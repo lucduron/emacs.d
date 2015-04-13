@@ -1,0 +1,12 @@
+AIDE = Choix du type de limiteur de croissance.
+Si la valeur est 0, pas de limiteur.
+Si la valeur est 1, limiteur type WAM 4 original.
+Si la valeur est 2, limiteur de Hersbach et Janssen (1999).
+**Mots-cles associes :**
+PRISE EN COMPTE DES TERMES SOURCES
+
+DÉFAUT = 1
+
+CHOIX = 0
+'1="limiteur type WAM 4 original"';
+'2="limiteur de Hersbach et Janssen (1999)"

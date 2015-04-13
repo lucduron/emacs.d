@@ -1,0 +1,5 @@
+AIDE = 'Lors du traitement d'elimination des elements secs, permet de
+specifier si on restocke tous les pas de temps dans le fichier
+resultat'
+
+DÉFAUT = NON

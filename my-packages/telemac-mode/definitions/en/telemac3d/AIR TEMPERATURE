@@ -1,0 +1,3 @@
+HELP = Air temperature in the case of exchanges with atmosphere
+
+DEFAULT = 10.

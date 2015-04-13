@@ -1,0 +1,7 @@
+AIDE = Pour la base de donnees TPXO uniquement.
+Interpolation de composantes harmoniques mineures
+a partir de celles lues dans les fichiers d'entree
+lies aux mots-cles BASE BINAIRE 1 DE DONNEES DE MAREE
+et BASE BINAIRE 2 DE DONNEES DE MAREE
+
+DÉFAUT = NON

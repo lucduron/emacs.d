@@ -1,0 +1,14 @@
+HELP = 'The bathymetric data at the mesh nodes are interpolated. At each mesh
+node, the plane is cut into 4 quadrants in each of which, among the
+points recorded at the digitizing tablet, the closest one to the node
+being considered is searched for.
+This node is thenn given a depth corresponding to the mean depth at
+each of the 4 points previously found, these depths being weighted
+by the distance to the node.
+When searching for the points in the quadrants, however, one shall
+make sure the boundaries aare not overstepped in order to prevent
+aberrations from being introduced into the bathymetric data.
+The keyword can then be used for specifying the minimum distance to
+the boundaries below which the recorded points should be ignored.'
+
+DEFAULT = 0.

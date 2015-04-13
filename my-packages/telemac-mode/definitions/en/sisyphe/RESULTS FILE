@@ -1,0 +1,3 @@
+HELP = Name of the file into wich the computation results shall be
+written, the periodicity being given by the keyword
+GRAPHIC PRINTOUT PERIOD.

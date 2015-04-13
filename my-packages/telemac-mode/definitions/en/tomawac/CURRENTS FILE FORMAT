@@ -1,0 +1,12 @@
+HELP = Selection of the type of currents file format :
+3 = selafin, TELEMAC type
+4 = user format (the couuti.f procedure should then be amended)
+**Related keywords :**
+CURRENTS BINARY FILE
+CURRENTS FORMATTED FILE
+CURRENTS FILE BINARY
+
+CHOICE = 3
+'4="User format (couuti.f)"
+
+DEFAULT = 3

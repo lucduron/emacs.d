@@ -1,0 +1,3 @@
+HELP = The advection of U and V is taken into account or ignored.
+
+DEFAULT = YES

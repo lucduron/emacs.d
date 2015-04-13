@@ -1,0 +1,4 @@
+AIDE = Coefficient pour ajuster le marnage de l'onde de maree
+aux frontieres maritimes
+
+DÉFAUT = 1.

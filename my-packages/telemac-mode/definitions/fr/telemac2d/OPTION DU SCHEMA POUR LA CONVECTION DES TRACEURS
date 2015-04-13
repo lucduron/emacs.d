@@ -1,0 +1,7 @@
+AIDE = Si present remplace et a priorite sur :
+OPTION POUR LES CARACTERISTIQUES
+OPTION DE SUPG
+Si schema PSI : 1=explicite 2=predicteur-correcteur
+pour les traceurs
+
+DÉFAUT = 1

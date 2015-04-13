@@ -1,0 +1,4 @@
+AIDE = Unite donnee en secondes, par exemple 3600. si le temps
+est donne en heures
+
+DÉFAUT = 1.

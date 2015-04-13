@@ -1,0 +1,9 @@
+HELP = Selection of the expression for the weighting function
+based on a probability distribution of the wave heights.
+**Related keywords :**
+DEPTH-INDUCED BREAKING DISSIPATION
+DEPTH-INDUCED BREAKING 2 (TG) CHARACTERISTIC FREQUENCY
+DEPTH-INDUCED BREAKING 2 (TG) COEFFICIENT B
+DEPTH-INDUCED BREAKING 2 (TG) COEFFICIENT GAMMA
+
+DEFAULT = 2

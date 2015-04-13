@@ -1,0 +1,3 @@
+HELP = Triggers output of salinity for Delwaq
+
+DEFAULT = NO

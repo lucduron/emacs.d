@@ -1,0 +1,35 @@
+AIDE = Nom des variables que l'utilisateur desire ecrire sur
+le lisring. Meme possibilites que pour les sorties graphiques.
+
+DÉFAUT = aucun
+
+CHOIX = U
+'V="vitesse suivant l'axe des y (m/s)"';
+'C="celerite"';
+'H="hauteur d'eau (m)"';
+'S="cote de la surface libre (m)"';
+'B="cote du fond (m)"';
+'F="nombre de Froude"';
+'Q="debit"';
+'I="composante du debit selon l'axe des x"';
+'J="composante du debit selon l'axe des y"';
+'M="debit solide"';
+'N="composante du debit solide selon l'axe des x"';
+'P="composante du debit solide selon l'axe des y"';
+'E="evolution du fond"';
+'R="fonds non erodables"';
+'W="hauteur de houle"';
+'X="periode de houle"';
+'KS="coefficient de frottement (m)"';
+'TOB="frottement moyen (N/m2)"';
+'THETAW="angle entre la houle et l'axe Oy (deg)"';
+'1Ai="fraction de sediment de la classe i dans la premiere couche"';
+'2Ai="fraction de sediment de la classe i dans la deuxieme couche"';
+'QSi="debit solide pour la classe i"';
+'CSi="concentration pour la classe i"';
+'*ES = "thicknes of bed layer i"';
+'*CONC= "concentration of bed layer i "';
+'A="variable supplementaire A"';
+'G="variable supplementaire G"';
+'L="variable supplementaire L"';
+'O="variable supplementaire O"

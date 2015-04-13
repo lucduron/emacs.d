@@ -1,0 +1,12 @@
+AIDE = Definit le pas de temps du calcul en secondes en
+permanent. En non permanent, ce pas de temps est donne par le
+pas de sortie graphique du fichier precedent. Mais si aucun
+nom n'est donne pour le 'FICHIER DU CALCUL PRECEDENT' (les
+variables hydrodynamiques pouvant etre imposees dans CONDIM),
+la valeur du pas de temps donnee dans le fichier des
+parametres est la aussi consideree.
+Remarque : si le mot-cle "PAS DE TEMPS VARIABLE EST EGAL A OUI"
+le pas de temps necessaire a une bonne resolution est calcule
+dans le code et des sous iterations sont realisees.
+
+DÉFAUT = 1.

@@ -1,0 +1,3 @@
+HELP = Name of the possible file containing the bathymetric data.
+
+DEFAULT = no value

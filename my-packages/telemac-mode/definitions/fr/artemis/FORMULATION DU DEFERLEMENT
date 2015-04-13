@@ -1,0 +1,11 @@
+AIDE = Specifie la formulation choisie pour le coefficient de dissipation
+par deferlement. N'est effectif qu'en Houle reguliere.
+1 : Formulation de Battjes & Jansen, 1978
+2 : Formulation de Dally et al., 1984
+En Houle aleatoire, la seule formulation utilisee est celle de
+Battjes & Janssen, 1978
+
+DÉFAUT = 1
+
+CHOIX = '1 = "BATTJES & JANSSEN"';
+'2 = "DALLY"'

@@ -1,0 +1,9 @@
+AIDE = Definit le pas de temps en secondes.
+Remarque : Pour une bonne precision, il est souhaitable de choisir
+le pas de temps de telle sorte que le nombre de Courant de propagation
+soit inferieur a 2, voire 3.
+Ceci peut etre realisable en hydraulique fluviale, mais ne l'est
+pratiquement jamais en hydraulique maritime ou l'on peut atteindre
+des valeurs de 50.
+
+DÉFAUT = 1.

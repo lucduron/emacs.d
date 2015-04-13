@@ -1,0 +1,19 @@
+AIDE = Choix du type de modelisation du terme source de dissipation
+par moutonnement. Si sa valeur est 0, on ne prend pas en compte la
+dissipation par moutonnement, si sa valeur est 1, elle est integree
+selon la formule utilisee dans WAM cycle 4; si sa valeur est 2, elle
+est integree selon la formule de van der Westhuysen (2007).
+**Mots-cles associes :**
+COEFFICIENT DE DISSIPATION PAR MOUTONNEMENT
+COEFFICIENT DE PONDERATION POUR LE MOUTONNEMENT
+COEFFICIENT DE DISSIPATION DE WESTHUYSEN
+DISSIPATION PAR MOUTONNEMENT
+SEUIL DE SATURATION POUR LA DISSIPATION
+DISSIPATION PAR MOUTONNEMENT DE WESTHUYSEN
+COEFFICIENT DE PONDERATION DE WESTHUYSEN
+
+DÉFAUT = 0
+
+CHOIX = 0
+'1="Dissipation selon WAM cycle 4"';
+'2="Dissipation selon Van des Westhuysen(2007)"

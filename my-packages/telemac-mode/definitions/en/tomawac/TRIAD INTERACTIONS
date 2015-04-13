@@ -1,0 +1,16 @@
+HELP = Selection of the triad interaction model:
+0 : no triad interactions
+1 : LTA model (Eldeberky, 1996)
+2 : SPB model (Becq, 1998)
+**Related keywords :**
+TRIADS 1 (LTA) COEFFICIENT ALPHA
+TRIADS 1 (LTA) COEFFICIENT RFMLTA
+TRIADS 2 (SPB) COEFFICIENT K
+TRIADS 2 (SPB) LOWER DIRECTIONAL BOUND
+TRIADS 2 (SPB) UPPER DIRECTIONAL BOUND
+
+CHOICE = 0
+'1="LTA model (Eldeberky, 1996)"';
+'2="SPB model (Becq, 1998)"
+
+DEFAULT = 0

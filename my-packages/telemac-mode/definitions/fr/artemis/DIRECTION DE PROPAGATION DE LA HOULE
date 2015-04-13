@@ -1,0 +1,10 @@
+AIDE = Donne la direction du vecteur d'onde de la houle incidente. L'angle
+est donne en degres et est compte positivement dans le sens direct
+a partir de l'axe des x.
+Il s'agit de la direction principale  de propagation.
+Cette direction est la meme a toutes les frontieres maritimes.
+Si l'utilisateur veut specifier des directions differentes sur
+differentes frontieres, il doit le faire dans son FORTRAN dans le
+sous-programme BORH en specifiant la variable TETAB.
+
+DÉFAUT = 0.0

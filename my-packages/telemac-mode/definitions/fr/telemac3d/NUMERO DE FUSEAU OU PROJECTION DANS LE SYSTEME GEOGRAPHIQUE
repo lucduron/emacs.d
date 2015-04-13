@@ -1,0 +1,14 @@
+AIDE = Numero de zone (fuseau ou type de projection)
+lors de l'utilisation d'une projection plane.
+Indiquer le systeme geographique dans lequel est construit le modele numerique
+avec le mot-cle SYSTEME GEOGRAPHIQUE
+
+DÉFAUT = -1
+
+CHOIX = '-1="PAS DE VALEUR PAR DEFAUT. CHOISIR LE NUMERO PARMI LES CHOIX POSSIBLES"';
+'1="LAMBERT 1 NORD"';
+'2="LAMBERT 2 CENTRE"';
+'3="LAMBERT 3 SUD"';
+'4="LAMBERT 4 CORSE"';
+'22="LAMBERT 2 ETENDU"';
+'30="ZONE UTM, PAR EXEMPLE"'

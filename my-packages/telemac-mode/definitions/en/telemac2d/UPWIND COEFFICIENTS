@@ -1,0 +1,8 @@
+HELP = Upwind coefficients used by the S.U.P.G. method
+These coefficients are applied respectively to
+1) U and V
+2) H  or C
+3) T
+4) K and epsilon
+
+DEFAULT = 1.;1.;1.;1

@@ -1,0 +1,5 @@
+HELP = Constant sediment settling velocity in m/s(>0 since 6.3)
+Value to imposed if
+INFLUENCE OF TURBULENCE ON SETTLING VELOCITY = NO.
+
+DEFAULT = 0.01

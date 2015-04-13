@@ -1,0 +1,10 @@
+AIDE = Fixe la valeur du coefficient de frottement sur les frontieres
+solides avec un regime turbulent rugueux sur les bords du domaine.
+meme convention que pour le coefficient de frottement:
+1 : non programme
+2 : coefficient de Chezy
+3 : coefficient de Strickler
+4 : coefficient de Manning
+5 : hauteur de rugosite de Nikuradse
+
+DÉFAUT = 100.

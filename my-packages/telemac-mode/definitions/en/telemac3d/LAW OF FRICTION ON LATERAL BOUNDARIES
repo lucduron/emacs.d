@@ -1,0 +1,17 @@
+HELP = Selects the type of formulation used for the friction on lateral boundaries.
+The possible laws are as follows (refer to the Principle note):
+0: no friction, or AUBOR given by the boundary conditions file ,
+1:
+2:
+3:
+4:
+5: NIKURADSE's formula
+
+CHOICE = 0
+'1="COEFFICIENT TAKEN IN BOUNDARY CONDITIONS FILE"';
+'2="IDEM"';
+'3="IDEM"';
+'4="IDEM"';
+'5="NIKURADSE"
+
+DEFAULT = 0

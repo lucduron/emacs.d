@@ -1,0 +1,3 @@
+HELP = Sets value of hiding factor for particular size class.
+
+DEFAULT = 1.;1.;1.;1.;1.;1.;1.;1.;1.;1.

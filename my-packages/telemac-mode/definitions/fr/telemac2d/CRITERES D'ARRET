@@ -1,0 +1,8 @@
+AIDE = Criteres d'arret pour un ecoulement permanent
+ces coefficients sont respectivement appliques a
+1) U et V
+2) H
+3) T
+A utiliser avec le mot-cle : ARRET SI UN ETAT PERMANENT EST ATTEINT
+
+DÉFAUT = 1.E-4;1.E-4;1.E-4

@@ -1,0 +1,7 @@
+AIDE = Permet d'effectuer un suivi de flotteurs.
+Fixe le nombre de flotteurs a traiter lors du calcul.
+Il est alors necessaire de mettre a jour le sous-programme FLOT
+afin de fournir les informations sur les positions de largage
+et les temps de suivi des flotteurs.
+
+DÉFAUT = 0

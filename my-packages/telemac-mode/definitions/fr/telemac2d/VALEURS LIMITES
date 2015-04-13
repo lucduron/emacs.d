@@ -1,0 +1,6 @@
+AIDE = Utilise avec le mot-cle CONTROLE DES LIMITES
+valeurs mini et maxi acceptables pour H,U,V et T dans l'ordre
+suivant : min(H) max(H) min(U) max(U)
+min(V) max(V) min(T) max(T)
+
+DÉFAUT = -1000.;9000.;-1000.;1000.;-1000.;1000.;-1000.;1000.

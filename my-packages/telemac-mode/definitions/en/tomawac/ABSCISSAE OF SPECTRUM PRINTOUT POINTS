@@ -1,0 +1,6 @@
+HELP = Array providing the abscissae of the Seraphin spectrum printout
+points with a maximum dimension of 99. The chosen spectrum points are
+the closest 2D points to the specified co-ordinates.
+**Related keywords :**
+ORDINATES OF SPECTRUM PRINTOUT POINTS
+PUNCTUAL RESULTS FILE

@@ -1,0 +1,6 @@
+HELP = Number of smoothings on bottom topography.
+each smoothing is mass conservative.
+to be used when interpolation of bathymetry on the mesh gives
+very rough results.
+
+DEFAULT = 0

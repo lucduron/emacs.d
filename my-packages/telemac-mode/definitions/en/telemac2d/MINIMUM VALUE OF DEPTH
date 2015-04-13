@@ -1,0 +1,4 @@
+HELP = Sets the minimum H value when option H CLIPPING is
+implemented. Not fully implemented.
+
+DEFAULT = 0.

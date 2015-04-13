@@ -1,0 +1,4 @@
+AIDE = Fixe le nombre maximum d'iterations accepte lors de la
+resolution du systeme diffusion-termes sources du modele k-epsilon.
+
+DÉFAUT = 50

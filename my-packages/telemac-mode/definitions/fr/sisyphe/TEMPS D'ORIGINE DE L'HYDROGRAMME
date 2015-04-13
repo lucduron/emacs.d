@@ -1,0 +1,8 @@
+AIDE = Ce mot cle fixe le temps auquel le calcul SISYPHE debute
+sauf en cas de suite de calcul car le temps initial est
+alors lu sur le "fichier precedent sedimentologique". En non
+permanent, ce mot cle designe de plus le temps correspondant
+au premier enregistrement a lire dans le "fichier du calcul
+precedent" contenant les donnees hydrodynamiques.
+
+DÉFAUT = -1000.

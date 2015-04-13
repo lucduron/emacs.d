@@ -1,0 +1,4 @@
+AIDE = Donne le coefficient de relaxation entre deux sous-iterations
+pour le calcul de l angle d incidence automatique.
+
+DÉFAUT = 1.

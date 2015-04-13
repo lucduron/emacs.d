@@ -1,0 +1,4 @@
+HELP = Defines the minimum water depth below which bottom elevations
+are regarded as dry.
+
+DEFAULT = 0.1
