@@ -1,5 +1,7 @@
 ; Author: Luc Duron
 ; Recommanded Emacs version: 24.4
+;
+; sunburst-theme requires a 256 color terminal (try to change the settings of your terminal software)
 
 ;;;
 ;;; GLOBAL
@@ -24,6 +26,8 @@
 ;;;
 ;;; REQUIRED PACKAGES
 ;;;
+(add-to-list 'load-path "~/.emacs.d/my-packages/dired+")
+(require 'dired+) ;; installed with melpa
 
 ;; TransposeFrame - http://www.emacswiki.org/emacs/TransposeFrame
 (require 'transpose-frame)
@@ -180,11 +184,38 @@
 
 ;; Python
 ; activate jedi (popup function description)
-(add-hook 'python-mode-hook 'jedi:setup)
-(setq jedi:setup-keys t)       ; optional
-(setq jedi:complete-on-dot t)  ; optional
+;; (add-hook 'python-mode-hook 'jedi:setup)
+;; (setq jedi:setup-keys t)       ; optional
+;; (setq jedi:complete-on-dot t)  ; optional
 
 
+;; Ibuffer
+
+(setq ibuffer-saved-filter-groups
+  (quote (("default"
+         ("emacs" (or
+  		 (name . "^\\*scratch\\*$")
+  		 (name . "^\\*Messages\\*$")
+  		 (name . "^\\*Completions\\*$")))
+    ("Help" (or (mode . Man-mode)
+      (mode . woman-mode)
+      (mode . Info-mode)
+      (mode . Help-mode)
+      (mode . help-mode)))
+         ("shell" (or
+  		 (name . "^\\*shell\\*$")
+  		 (name . "^\\*eshell\\*$")
+      (name . "^\\*Python")))
+    ("dired" (mode . dired-mode))
+	 ))))
+
+(add-hook 'ibuffer-mode-hook
+  (lambda ()
+    (ibuffer-switch-to-saved-filter-groups "default")))
+
+(global-set-key (kbd "C-x C-b") 'ibuffer)
+;; List buffer in active window (invoke `buffer-menu` instead of `list-buffer`)
+;; (global-set-key "\C-x\C-b" 'buffer-menu)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -198,56 +229,3 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
-
-(defcustom toto "valeur par default"
-  "Ceci est la documentation")
-
-;;
-
-(setq ibuffer-saved-filter-groups
-  (quote (("default"
-         ("dired" (mode . dired-mode))
-         ("emacs" (or
-  		 (name . "^\\*scratch\\*$")
-  		 (name . "^\\*Messages\\*$")
-  		 (name . "^\\*Completions\\*$")))
-         ("shell" (or
-  		 (name . "^\\*shell\\*$")
-  		 (name . "^\\*eshell\\*$")
-  		 (name . "^\\*PythonXXX\\*$")))
-	 ))))
-
-(add-hook 'ibuffer-mode-hook
-  (lambda ()
-    (ibuffer-switch-to-saved-filter-groups "default")))
-
-(global-set-key (kbd "C-x C-b") 'ibuffer)
-;; List buffer in active window (invoke `buffer-menu` instead of `list-buffer`)
-;; (global-set-key "\C-x\C-b" 'buffer-menu)
-
-
-(defun describe-foo-at-point ()
-            "Show the documentation of the Elisp function and variable near point.
-This checks in turn:
--- for a function name where point is
--- for a variable name where point is
--- for a surrounding function call
-"
-	    (interactive)
-	    (let (sym)
-	      ;; sigh, function-at-point is too clever.  we want only the first half.
-	      (cond ((setq sym (ignore-errors
-				 (with-syntax-table emacs-lisp-mode-syntax-table
-				   (save-excursion
-				     (or (not (zerop (skip-syntax-backward "_w")))
-					 (eq (char-syntax (char-after (point))) ?w)
-					 (eq (char-syntax (char-after (point))) ?_)
-					 (forward-sexp -1))
-				     (skip-chars-forward "`'")
-				     (let ((obj (read (current-buffer))))
-				       (and (symbolp obj) (fboundp obj) obj))))))
-		     (describe-function sym))
-		    ((setq sym (variable-at-point)) (describe-variable sym))
-		    ;; now let it operate fully -- i.e. also check the
-		    ;; surrounding sexp for a function call.
-		                      ((setq sym (function-at-point)) (describe-function sym)))))
