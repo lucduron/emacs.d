@@ -8,19 +8,18 @@ Brief uncomplete list of some usefull key bindings and commands
 * http://www.emacswiki.org/emacs/EmacsNewbieKeyReference
 * http://ddloeffler.blogspot.fr/2013/04/keybindings-for-emacs-markdown-mode.html
 
-find-file-at-point
-
 # General
-*               list-packages                 List of packages
 * C-u 0         byte-recompile-directory      Byte-compile a directory
+* find-file-at-point
 
 # Packages
-M-x list-packages
-M-x install-packages
-ELPA = emacs lisp package archive
+* M-x `list-packages`
+* M-x `install-packages`
+* ELPA = emacs lisp package archive
 
 # File
 * C-x C-w f                                   Save and change encoding
+* C-x RET r     revert-buffer-with-coding-system
 * M-x set-buffer-file-coding-system [undecided-unix, utf-8-unix (for LF), utf-8-mac (for CR) or utf-8-dos (for CR+LF)]         change linebreaking and encoding
 
 # Window
@@ -41,10 +40,10 @@ ELPA = emacs lisp package archive
 
 ## Move windows (some require WindMove)
 * C-x o         other-window               Select another window
-+ M-{up,down,left,right}                   Move focus to other windows (Windmove package)
-+ M-t           transpose-frame
-+ M-r           rotate-frame-clockwise     Rotation 90°
-+ M-R           rotate-frame               Rotation 180°
+* M-{up,down,left,right}                   Move focus to other windows (Windmove package)
+* M-t           transpose-frame
+* M-r           rotate-frame-clockwise     Rotation 90°
+* M-R           rotate-frame               Rotation 180°
 
 # Edit file/code
 * C-_                                      Undo
@@ -99,3 +98,32 @@ r     refresh the _list_ from server. (package-menu-refresh)
 # Emacs Lisp
 C-h f describe-function
 C-h v describe-variable
+# dired
+C-x d      dired
+
+ENT  Open the file
+q    Close the dir
+C    Copy file
+R    Rename/move file
+D    Delete file
++    create a new dir
+
+m    mark a file
+u    unmark
+U    unmark all marked
+%m   mark by pattern (regex)
+
+g    refresh dir listing
+^    go to parent dir
+o    
+
+# Other modes
+calendar
+eww
+man, woman
+impatient-mode
+
+# Impatient-mode (for html-mode)
+M-x httpd-start
+M-x impatient-mode
+Browser : localhost:8080/imp
