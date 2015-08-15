@@ -28,6 +28,7 @@
 ;;;
 (add-to-list 'load-path "~/.emacs.d/my-packages/dired+")
 (require 'dired+) ;; installed with melpa
+(setq dired-listing-switches "-alh") ; human readable (default is -al)
 
 ;; TransposeFrame - http://www.emacswiki.org/emacs/TransposeFrame
 (require 'transpose-frame)
@@ -221,6 +222,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(indent-tabs-mode nil)
  '(show-trailing-whitespace t))
 
 (custom-set-faces
@@ -229,3 +231,8 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+;; (require 'python-django)
+
+(setq x-select-enable-clipboard t)
+(setq interprogram-paste-function 'x-cut-buffer-or-selection-value)
