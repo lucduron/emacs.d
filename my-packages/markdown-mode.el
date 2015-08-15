@@ -2305,7 +2305,8 @@ header will be inserted."
            (insert text "\n" hdr))
           (t
            (setq hdr (make-string level ?#))
-           (insert hdr " " text " " hdr))))
+           ;; (insert hdr " " text " " hdr)))) LDN
+           (insert hdr " " text))))
   (markdown-ensure-blank-line-after)
   ;; Leave point at end of text
   (if setext
