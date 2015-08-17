@@ -57,6 +57,7 @@ ELPA = emacs lisp package archive
 * M-; `comment-dwim`
 * C-M-a `beginning-of-defun`
 * C-M-e `end-of-defun`
+* `reverse-region`
 
 #### Move in file
 * C-l `recenter-top-bottom`
@@ -85,6 +86,7 @@ ELPA = emacs lisp package archive
 * C-c C-k `csv-kill-fields`
 * C-c C-y `csv-yank-fields`
 * C-c C-t `csv-transpose`
+* C-c C-s `csv-sort-fields` (sort by column in prescribing the colum index)
 
 #### telemac-mode
 * C-c d `telemac-open-dico`
@@ -107,27 +109,27 @@ ELPA = emacs lisp package archive
 ### dired mode
 C-x d `dired`
 
-* ENT  Open the file
-* q    Close the dir
-* C    Copy file
-* R    Rename/move file
-* D    Delete file
-* +    create a new dir
+* **ENT** Open the file
+* **q**   Close the dir
+* **C**   Copy file
+* **R**   Rename/move file
+* **D**   Delete file
+* **+**   create a new dir
 
-* m    mark a file
-* u    unmark
-* U    unmark all marked
-* %m   mark by pattern (regex)
+* **m**   mark a file
+* **u**   unmark
+* **U**   unmark all marked
+* **%m**  mark by pattern (regex)
 
-* g    refresh dir listing
-* ^    go to parent dir
-* ( `dired-hide-details-mode`
+* **g**   refresh dir listing
+* **^**   go to parent dir
+* **(**  `dired-hide-details-mode`
 
 ### Other useful modes
-* calendar
-* eww
-* man, woman
-* impatient-mode
+* `calendar`
+* `eww`
+* `man`, `woman`
+* `impatient-mode`
 
 Procedures
 ----------
