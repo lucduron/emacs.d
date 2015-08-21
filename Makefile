@@ -1,21 +1,16 @@
+# Brief:
+#   byte-compile folder ~/.emacs.d/
 # Usage:
-# * linux: make compile
-# * cygwin: make cygwin
+# * linux: `make compile`
+# * cygwin: `make cygwin`
 
-SAVE = ~/.emacs.d_OLD
 EDOT = ~/.emacs.d
 
-install:
-	-rm  -rf $(SAVE)
-	-mv $(EDOT) $(SAVE)
-	-mkdir $(EDOT)
-	cp * $(EDOT) -r
-
-compile: install
+compile:
 	emacs --batch --eval '(byte-recompile-directory (expand-file-name "~/.emacs.d") 0)'
 
-cygwin: install
+cygwin:
 	cat $(EDOT)/init_cygwin.el >> $(EDOT)/init.el
 	emacs-w32 --batch --eval '(byte-recompile-directory (expand-file-name "~/.emacs.d") 0)'
 
-.PHONY: install cygwin compile
+.PHONY: compile cygwin

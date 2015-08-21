@@ -1,5 +1,5 @@
 ; Author: Luc Duron
-; Recommanded Emacs version: 24.4
+; Recommanded Emacs version: 24.5
 ;
 ; sunburst-theme requires a 256 color terminal (try to change the settings of your terminal software)
 
@@ -185,9 +185,10 @@
 
 ;; Python
 ; activate jedi (popup function description)
-;; (add-hook 'python-mode-hook 'jedi:setup)
-;; (setq jedi:setup-keys t)       ; optional
-;; (setq jedi:complete-on-dot t)  ; optional
+(add-hook 'python-mode-hook 'jedi:setup)
+(setq jedi:setup-keys t)       ; optional
+(setq jedi:complete-on-dot t)  ; optional
+;; (setq jedi:server-args '("--log-traceback"))
 
 
 ;; Ibuffer
@@ -236,3 +237,9 @@
 
 (setq x-select-enable-clipboard t)
 (setq interprogram-paste-function 'x-cut-buffer-or-selection-value)
+
+(if (eq system-type 'cygwin)
+    (message "Free as in Freedom")
+    (require 'windows-path)
+    (windows-path-activate)
+)
