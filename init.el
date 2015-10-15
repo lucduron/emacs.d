@@ -64,6 +64,9 @@
 (autoload 'markdown-mode "markdown-mode"
   "Major mode for editing Markdown files" t)
 
+(setq markdown-command "~/.emacs.d/my-packages/markdown/markdown_complete.sh") ; Add encoding (before html body) for `markdown-preview`
+(setq markdown-command-needs-filename t) ; Hack to use `markdown-preview` with arguments and avoid stdin (FIXME: consider stdin in markdown_complete.sh and remove this hack)
+
 ;; Lilypond
 ; Lilypond should be installed?
 (add-to-list 'auto-mode-alist '("\\.ly\\'" . LilyPond-mode))
@@ -185,9 +188,9 @@
 
 ;; Python
 ; activate jedi (popup function description)
-(add-hook 'python-mode-hook 'jedi:setup)
-(setq jedi:setup-keys t)       ; optional
-(setq jedi:complete-on-dot t)  ; optional
+;; (add-hook 'python-mode-hook 'jedi:setup)
+;; (setq jedi:setup-keys t)       ; optional
+;; (setq jedi:complete-on-dot t)  ; optional
 ;; (setq jedi:server-args '("--log-traceback"))
 
 
@@ -243,3 +246,9 @@
     (require 'windows-path)
     (windows-path-activate)
 )
+
+; org-mode
+(require 'org)
+(define-key global-map "\C-cl" 'org-store-link)
+(define-key global-map "\C-ca" 'org-agenda)
+(setq org-log-done t)

@@ -6,9 +6,9 @@ Brief uncomplete list of some usefull key bindings and commands
 Links
 -----
 
-* https://www.gnu.org/software/emacs/refcards/
-* http://www.emacswiki.org/emacs/EmacsNewbieKeyReference
-* http://ddloeffler.blogspot.fr/2013/04/keybindings-for-emacs-markdown-mode.html
+* <https://www.gnu.org/software/emacs/refcards/>
+* <http://www.emacswiki.org/emacs/EmacsNewbieKeyReference>
+* <http://ddloeffler.blogspot.fr/2013/04/keybindings-for-emacs-markdown-mode.html>
 
 Key bindings
 ------------
@@ -102,6 +102,29 @@ ELPA = emacs lisp package archive
 * x `package-menu-execute`
 * r `package-menu-refresh`
 
+#### markdown-mode
+
+* C-c C-o `markdown-follow-link-at-point`
+
+##### View
+
+* S-TAB
+* C-c C-c p `markdown-preview` (requires `markdown`)
+
+##### Style
+
+* C-c C-s e `markdown-insert-italic`
+* C-c C-s s `markdown-insert-bold`
+* C-c C-s c `markdown-insert-code`
+* C-c C-s b `markdown-insert-blockquote`
+* C-c C-s p `markdown-pre-region`
+
+##### Heading
+
+* C-c C-t h `markdown-insert-header-dwim`
+* C-c C-t ! `markdown-insert-header-setext-1`
+* C-c C-t @ `markdown-insert-header-setext-2`
+
 ### Emacs Lisp
 * C-h f `describe-function`
 * C-h v `describe-variable`
@@ -137,7 +160,7 @@ Procedures
 ### Web developpement with automatic render (impatient-mode in html-mode)
 1. `httpd-start`
 2. `impatient-mode`
-3. Web browser: http://localhost:8080/imp and select the corresponding buffer
+3. Web browser: <http://localhost:8080/imp> and select the corresponding buffer
 
 ### Interactively Find & Replace Text in Directory
 
@@ -151,4 +174,4 @@ Procedures
 8. Call `ibuffer` to list all opened files.
 9. Type `*u` to mark all unsaved files, type `S` to save all marked files, type `D` to close them all.
 
-Source: http://ergoemacs.org/emacs/find_replace_inter.html
+Source: <http://ergoemacs.org/emacs/find_replace_inter.html>
