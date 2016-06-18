@@ -67,6 +67,12 @@
 (setq markdown-command "~/.emacs.d/my-packages/markdown/markdown_complete.sh") ; Add encoding (before html body) for `markdown-preview`
 (setq markdown-command-needs-filename t) ; Hack to use `markdown-preview` with arguments and avoid stdin (FIXME: consider stdin in markdown_complete.sh and remove this hack)
 
+;; php-mode
+; file php-mode.el downloaded from https://sourceforge.net/projects/php-mode/files/latest/download
+(autoload 'php-mode "php-mode" "Major mode for editing php code." t)
+(add-to-list 'auto-mode-alist '("\\.php$" . php-mode))
+(add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
+
 ;; Lilypond
 ; Lilypond should be installed?
 (add-to-list 'auto-mode-alist '("\\.ly\\'" . LilyPond-mode))
@@ -252,3 +258,21 @@
 (define-key global-map "\C-cl" 'org-store-link)
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
+
+
+
+(defun flush-blank-lines ()
+  "Removes all blank lines from buffer or region"
+  (interactive)
+  (save-excursion
+    (let (min max)
+      (if (equal (region-active-p) nil)
+        (mark-whole-buffer))
+    (setq min (region-beginning) max (region-end))
+    (flush-lines "^ *$" min max t)
+    )))
+
+
+;; Make csv-separators for a single buffer => not working...
+; M-: (make-local-variable 'csv-separators)
+; M-: (setq csv-separators '("|" ";"))

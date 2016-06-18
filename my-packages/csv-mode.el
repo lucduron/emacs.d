@@ -135,7 +135,7 @@ Set by customizing `csv-separators' -- do not set directly!")
 Set by customizing `csv-separators' -- do not set directly!")
 
 ;;LDN(defcustom csv-separators '("," "\t" ";")
-(defcustom csv-separators '("," "\t" ";")
+(defcustom csv-separators '("\t" ";")
   "Field separators: a list of *single-character* strings.
 For example: (\",\"), the default, or (\",\" \";\" \":\").
 Neighbouring fields may be separated by any one of these characters.
