@@ -247,11 +247,11 @@
 (setq x-select-enable-clipboard t)
 (setq interprogram-paste-function 'x-cut-buffer-or-selection-value)
 
-(if (eq system-type 'cygwin)
-    (message "Free as in Freedom")
-    (require 'windows-path)
-    (windows-path-activate)
-)
+;(if (eq system-type 'cygwin)
+;    (message "Free as in Freedom")
+;    (require 'windows-path)
+;    (windows-path-activate)
+;)
 
 ; org-mode
 (require 'org)
